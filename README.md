@@ -1,73 +1,121 @@
-# Pharmacovigilance Dashboard
+# 💊 Pharmacovigilance Dashboard
 
-## Project Overview
+## 📌 Overview
 
-This project presents an interactive Pharmacovigilance Dashboard developed using SQL and Microsoft Power BI to analyze drug safety data, patient reports, and adverse reactions.
+This project presents an interactive Pharmacovigilance Dashboard developed using SQL and Microsoft Power BI to analyze drug safety, patient reports, and adverse reactions.
 
-The project focuses on transforming raw pharmaceutical safety data into meaningful insights through data cleaning, SQL-based analysis, data modeling, and interactive Power BI visualizations.
+The project transforms pharmaceutical safety data into meaningful insights through data cleaning, SQL analysis, data modeling, DAX calculations, and interactive Power BI visualizations.
 
-## Objectives
+---
 
-- Analyze pharmacovigilance reports and patient information
-- Identify frequently reported drugs and adverse reactions
-- Analyze patient demographics and geographic patterns
-- Examine serious and non-serious adverse events
-- Identify trends in drug safety data
-- Create an interactive dashboard for data-driven analysis
+## 🎯 Objectives
 
-## Tools & Technologies
+- Analyze pharmacovigilance reports
+- Study patient demographics
+- Identify frequently reported drugs
+- Analyze adverse reactions
+- Identify serious and non-serious cases
+- Analyze geographic and time-based trends
+- Build an interactive healthcare analytics dashboard
 
-- **SQL / MySQL** – Data querying and analysis
-- **Microsoft Power BI** – Data visualization and dashboard development
-- **Microsoft Excel / CSV** – Data preparation and storage
+---
+
+## 🛠️ Tools & Technologies
+
+- **MySQL** – SQL analysis and querying
+- **Microsoft Power BI** – Dashboard and visualization
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Measures and calculations
+- **CSV / Excel** – Dataset management
 
-## Dashboard Sections
+---
 
-### 1. Overview
-Provides a high-level summary of the pharmacovigilance dataset using key performance indicators and visualizations.
+## 📂 Dataset
 
-### 2. Patient Analysis
-Analyzes patient-related information such as demographics and geographic distribution.
+The project uses cleaned pharmacovigilance datasets containing information related to:
 
-### 3. Drug Safety Analysis
-Examines drug-related reports and identifies drugs associated with reported safety events.
+- Drug reports
+- Patient/report information
+- Adverse reactions
 
-### 4. Adverse Reaction Analysis
-Analyzes reported adverse reactions and their frequency across drugs and patients.
+The cleaned datasets are available in the [`data`](./data) folder.
 
-## SQL Analysis
+---
 
-SQL was used to perform data exploration and analytical queries, including:
+## 🗃️ SQL Analysis
+
+SQL was used for:
 
 - Data exploration
-- Record counts
+- Data quality checks
 - Patient analysis
 - Drug analysis
 - Adverse reaction analysis
 - Geographic analysis
 - Time-based analysis
 - Drug-reaction analysis
-- Data quality checks
 
-The SQL queries used for the project are available in:
+SQL queries are available in the [`sql`](./sql) folder.
 
-`pharmacovigilance_queries.sql`
+---
 
-## Project Workflow
+## 📊 Dashboard
+
+The Power BI dashboard contains the following analytical sections:
+
+### 1. Overview
+Provides key metrics and an overall summary of pharmacovigilance data.
+
+### 2. Patient Analysis
+Analyzes patient demographics and report distribution.
+
+### 3. Drug Safety Analysis
+Examines reported drugs and their associated safety events.
+
+### 4. Adverse Reaction Analysis
+Analyzes commonly reported adverse reactions and their relationship with drugs.
+
+The Power BI file is available in the [`dashboard`](./dashboard) folder.
+
+---
+
+## 🖼️ Dashboard Screenshots
+
+### Overview
+
+![Overview](./screenshots/overview.png)
+
+### Patient Analysis
+
+![Patient Analysis](./screenshots/patient-analysis.png)
+
+### Drug Safety Analysis
+
+![Drug Safety Analysis](./screenshots/drug-safety-analysis.png)
+
+### Adverse Reaction Analysis
+
+![Adverse Reaction Analysis](./screenshots/adverse-reaction-analysis.png)
+
+---
+
+## 🔄 Project Workflow
 
 ```text
 Raw Data
    ↓
-Data Cleaning & Transformation
+Data Cleaning
+   ↓
+Cleaned CSV Files
+   ↓
+MySQL Database
    ↓
 SQL Analysis
    ↓
-Data Modeling
+Power BI Data Model
    ↓
-Power BI
+DAX Calculations
    ↓
-Interactive Pharmacovigilance Dashboard
+Interactive Dashboard
    ↓
 Insights
