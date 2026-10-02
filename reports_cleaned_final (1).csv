@@ -1,0 +1,1265 @@
+report_id,report_version,country,serious,death,hospitalization,disabling,received_date,receipt_date,patient_sex,patient_age,patient_age_unit
+10003701,1,US,1,Not Reported,1,1,20140312,20140312,1,Not Reported,Not Reported
+10003713,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,2,Not Reported,Not Reported
+10003859,3,US,1,Not Reported,Not Reported,Not Reported,20140312,20150312,1,63,Not Reported
+10003922,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10004175,3,US,1,Not Reported,1,Not Reported,20140312,20140721,1,70,Not Reported
+10004186,4,US,1,1,Not Reported,Not Reported,20140312,20140502,1,67,Not Reported
+10004302,5,JP,1,Not Reported,1,Not Reported,20140312,20141204,2,80,Not Reported
+10004340,2,US,1,Not Reported,1,Not Reported,20140312,20140421,2,61,Not Reported
+10004360,1,GB,1,Not Reported,1,Not Reported,20140312,20140312,2,58,Not Reported
+10004383,1,GB,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,48,Not Reported
+10004421,1,GB,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,74,Not Reported
+10004428,1,GB,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,65,Not Reported
+10004489,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140402,1,Not Reported,Not Reported
+10004497,1,GB,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,48,Not Reported
+10004505,2,CL,1,Not Reported,Not Reported,Not Reported,20140312,20151112,2,78,Not Reported
+10004554,1,BR,1,Not Reported,1,Not Reported,20140312,20140312,2,52,Not Reported
+10004599,1,GB,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,59,Not Reported
+10004642,1,GB,1,Not Reported,Not Reported,1,20140312,20140312,2,39,Not Reported
+10004661,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191105,2,68,Not Reported
+10004694,3,US,1,Not Reported,Not Reported,Not Reported,20140312,20200928,2,48,Not Reported
+10004698,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191031,2,49,Not Reported
+10004818,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191101,2,63,Not Reported
+10004825,2,GB,1,Not Reported,1,Not Reported,20140312,20140324,1,82,Not Reported
+10004827,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191101,2,67,Not Reported
+10004843,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191101,2,69,Not Reported
+10004856,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191031,2,68,Not Reported
+10004862,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20200316,2,57,Not Reported
+10004876,2,US,1,1,Not Reported,Not Reported,20140312,20191101,2,50,Not Reported
+10004879,3,US,1,Not Reported,Not Reported,Not Reported,20140312,20201102,2,51,Not Reported
+10004934,3,US,1,Not Reported,Not Reported,Not Reported,20140312,20200806,2,65,Not Reported
+10004940,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191104,2,58,Not Reported
+10004957,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191101,2,55,Not Reported
+10005122,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20200624,2,58,Not Reported
+10005217,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191101,2,72,Not Reported
+10005238,1,GB,1,Not Reported,Not Reported,1,20140312,20140312,1,59,Not Reported
+10005489,2,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140320,2,59,Not Reported
+10005803,1,IN,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,65,Not Reported
+10005824,1,IT,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,65,Not Reported
+10006049,2,US,1,1,1,Not Reported,20140313,20140317,1,67,Not Reported
+10006074,7,US,1,1,1,Not Reported,20140313,20150525,2,75,Not Reported
+10006143,1,US,1,1,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10006145,2,IT,1,Not Reported,1,Not Reported,20140313,20140408,1,66,Not Reported
+10006213,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20140630,2,58,Not Reported
+10006364,5,US,1,Not Reported,Not Reported,Not Reported,20140313,20141209,2,79,Not Reported
+10006371,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20150604,2,47,Not Reported
+10006383,2,CL,1,Not Reported,Not Reported,Not Reported,20140313,20160210,2,86,Not Reported
+10006388,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20150521,2,69,Not Reported
+10006401,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,68,Not Reported
+10006489,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20150113,2,60,Not Reported
+10006492,2,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140516,1,65,Not Reported
+10006508,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10006564,5,US,1,Not Reported,Not Reported,Not Reported,20140313,20150113,2,76,Not Reported
+10006566,5,US,1,Not Reported,Not Reported,Not Reported,20140313,20141121,2,72,Not Reported
+10006578,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140916,2,70,Not Reported
+10006581,5,US,1,Not Reported,Not Reported,Not Reported,20140313,20141226,2,54,Not Reported
+10006601,2,CA,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,74,Not Reported
+10006622,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10006639,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,28,Not Reported
+10006651,1,ES,1,Not Reported,Not Reported,Not Reported,20140311,20140311,2,58,Not Reported
+10006655,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140403,2,Not Reported,Not Reported
+10006683,1,US,1,Not Reported,Not Reported,Not Reported,20140228,20140228,2,65,Not Reported
+10007107,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,62,Not Reported
+10007163,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,87,Not Reported
+10007188,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20150304,2,49,Not Reported
+10007229,3,DE,1,Not Reported,Not Reported,Not Reported,20140313,20140508,1,47,Not Reported
+10007348,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20140613,2,55,Not Reported
+10007365,2,CA,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,48,Not Reported
+10007386,1,COUNTRY NOT SPECIFIED,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,80,Not Reported
+10007453,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,59,Not Reported
+10007454,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,48,Not Reported
+10007499,2,US,1,Not Reported,1,Not Reported,20140313,20150521,2,73,Not Reported
+10007542,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20140625,2,54,Not Reported
+10007638,2,US,1,1,Not Reported,Not Reported,20140313,20191030,2,67,Not Reported
+10008027,2,TW,1,Not Reported,1,Not Reported,20140313,20140326,2,61,Not Reported
+10008035,1,CN,1,1,1,Not Reported,20140313,20140313,2,72,Not Reported
+10008039,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20150306,2,34,Not Reported
+10008081,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20200924,2,60,Not Reported
+10008082,5,US,1,Not Reported,Not Reported,Not Reported,20140313,20150129,2,64,Not Reported
+10008151,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,65,Not Reported
+10008226,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,1,Not Reported,Not Reported
+10008427,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20150202,2,56,Not Reported
+10008437,1,US,1,Not Reported,Not Reported,Not Reported,20140228,20140228,1,59,Not Reported
+10008471,3,US,1,Not Reported,1,Not Reported,20140313,20140328,1,Not Reported,Not Reported
+10008490,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,64,Not Reported
+10008721,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,78,Not Reported
+10008756,2,JP,1,Not Reported,Not Reported,Not Reported,20140313,20140313,0,Not Reported,Not Reported
+10008862,1,FR,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,85,Not Reported
+10009033,1,US,1,Not Reported,Not Reported,Not Reported,20140228,20140228,2,54,Not Reported
+10009342,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,65,Not Reported
+10009416,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,48,Not Reported
+10009791,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,86,Not Reported
+10010008,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,71,Not Reported
+10010346,3,US,1,Not Reported,1,Not Reported,20140314,20151021,1,Not Reported,Not Reported
+10010481,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,52,Not Reported
+10010497,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,0,Not Reported,Not Reported
+10010580,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,83,Not Reported
+10010587,2,ES,1,Not Reported,Not Reported,1,20140314,20140410,2,64,Not Reported
+10010594,1,US,1,Not Reported,1,Not Reported,20140312,20140312,1,87,Not Reported
+10010663,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,1,43,Not Reported
+10010707,2,AU,1,Not Reported,1,Not Reported,20140311,20140324,2,71,Not Reported
+10010758,1,CA,1,Not Reported,1,Not Reported,20140314,20140314,2,75,Not Reported
+10010794,2,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,79,Not Reported
+10010849,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,48,Not Reported
+10010869,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,56,Not Reported
+10010879,3,US,1,Not Reported,Not Reported,Not Reported,20140314,20141013,1,70,Not Reported
+10010964,2,US,2,Not Reported,Not Reported,Not Reported,20140314,20140318,2,58,Not Reported
+10011270,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,77,Not Reported
+10011384,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,74,Not Reported
+10011472,2,IT,1,Not Reported,1,Not Reported,20140314,20140414,1,67,Not Reported
+10011611,3,US,1,Not Reported,Not Reported,Not Reported,20140314,20201118,2,43,Not Reported
+10011642,3,US,1,1,1,Not Reported,20140314,20140505,1,61,Not Reported
+10011662,1,GB,1,Not Reported,Not Reported,1,20140314,20140314,1,59,Not Reported
+10011708,4,US,1,Not Reported,Not Reported,Not Reported,20140314,20201020,2,65,Not Reported
+10011709,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20191101,Not Reported,63,Not Reported
+10011736,3,US,1,Not Reported,Not Reported,Not Reported,20140314,20201118,2,54,Not Reported
+10011741,3,US,1,Not Reported,Not Reported,Not Reported,20140314,20200925,2,64,Not Reported
+10011744,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20191031,2,50,Not Reported
+10011745,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20201110,2,67,Not Reported
+10011829,3,US,1,Not Reported,Not Reported,Not Reported,20140314,20201118,2,53,Not Reported
+10011848,2,IT,1,Not Reported,1,Not Reported,20140314,20140314,1,56,Not Reported
+10011869,5,US,1,Not Reported,Not Reported,Not Reported,20140314,20150327,2,56,Not Reported
+10011887,1,JP,1,Not Reported,1,Not Reported,20140314,20140314,2,69,Not Reported
+10011937,1,US,1,Not Reported,1,Not Reported,20140314,20140314,0,61,Not Reported
+10011994,4,US,1,Not Reported,Not Reported,Not Reported,20140314,20141006,2,44,Not Reported
+10012009,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140917,2,51,Not Reported
+10012126,2,US,1,Not Reported,1,Not Reported,20140314,20140414,1,58,Not Reported
+10012245,1,US,1,Not Reported,1,Not Reported,20140314,20140314,2,65,Not Reported
+10012260,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20200311,2,56,Not Reported
+10012262,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20201127,2,Not Reported,Not Reported
+10012294,4,US,1,Not Reported,Not Reported,Not Reported,20140314,20200302,2,57,Not Reported
+10012369,5,US,1,Not Reported,Not Reported,Not Reported,20140314,20200422,2,79,Not Reported
+10012611,3,US,1,Not Reported,Not Reported,Not Reported,20140314,20140624,2,59,Not Reported
+10012686,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140410,1,67,Not Reported
+10012690,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140923,2,51,Not Reported
+10012833,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,59,Not Reported
+10012902,2,US,1,Not Reported,1,Not Reported,20140314,20140314,1,77,Not Reported
+10013093,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,1,66,Not Reported
+10013115,1,US,1,Not Reported,1,Not Reported,20140314,20140314,2,82,Not Reported
+10013342,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,70,Not Reported
+10013364,2,IT,1,Not Reported,Not Reported,1,20140314,20140507,2,68,Not Reported
+10013366,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,1,65,Not Reported
+10013373,2,CA,1,Not Reported,Not Reported,1,20140314,20140527,1,53,Not Reported
+10013469,3,AU,1,Not Reported,1,Not Reported,20140314,20140623,1,53,Not Reported
+10013604,2,IL,1,Not Reported,Not Reported,1,20140315,20140324,2,Not Reported,Not Reported
+10014009,2,PT,1,Not Reported,1,Not Reported,20140317,20140430,1,70,Not Reported
+10014041,1,IT,1,Not Reported,1,Not Reported,20140317,20140317,1,66,Not Reported
+10014219,1,CH,1,Not Reported,1,Not Reported,20140317,20140317,2,79,Not Reported
+10014607,1,COUNTRY NOT SPECIFIED,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,64,Not Reported
+10014644,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20191101,2,57,Not Reported
+10014648,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20200924,2,68,Not Reported
+10014690,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20140722,2,73,Not Reported
+10014752,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20200923,2,53,Not Reported
+10014784,6,US,1,Not Reported,Not Reported,Not Reported,20140317,20200422,2,69,Not Reported
+10014787,5,US,1,Not Reported,Not Reported,Not Reported,20140317,20200106,2,45,Not Reported
+10014911,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20201016,2,40,Not Reported
+10015291,3,US,2,Not Reported,Not Reported,Not Reported,20140317,20170224,1,70,Not Reported
+10015347,4,US,1,Not Reported,Not Reported,Not Reported,20140317,20201027,2,44,Not Reported
+10015367,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,46,Not Reported
+10015420,3,JP,1,Not Reported,1,Not Reported,20140317,20140424,1,65,Not Reported
+10015483,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140718,2,72,Not Reported
+10015509,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20191031,2,Not Reported,Not Reported
+10015622,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20191101,Not Reported,55,Not Reported
+10015629,4,US,1,Not Reported,Not Reported,Not Reported,20140317,20201027,2,57,Not Reported
+10015648,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10015666,4,US,2,Not Reported,Not Reported,Not Reported,20140317,20190424,2,66,Not Reported
+10015713,3,US,2,Not Reported,Not Reported,Not Reported,20140317,20190215,2,92,Not Reported
+10015984,2,BR,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,44,Not Reported
+10016073,4,US,1,Not Reported,1,Not Reported,20140317,20191120,2,72,Not Reported
+10016080,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20140711,2,56,Not Reported
+10016086,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20200925,2,52,Not Reported
+10016125,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20150917,2,43,Not Reported
+10016126,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20200925,2,43,Not Reported
+10016157,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20191105,Not Reported,58,Not Reported
+10016165,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20201021,2,47,Not Reported
+10016212,4,US,1,Not Reported,Not Reported,Not Reported,20140317,20201002,2,36,Not Reported
+10016220,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20191101,Not Reported,Not Reported,Not Reported
+10016222,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20201015,2,55,Not Reported
+10016264,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140320,2,64,Not Reported
+10016278,3,US,1,1,Not Reported,Not Reported,20140317,20200925,2,55,Not Reported
+10016291,4,US,1,Not Reported,Not Reported,Not Reported,20140317,20201020,2,69,Not Reported
+10016299,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140321,2,68,Not Reported
+10016312,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,68,Not Reported
+10016317,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,61,Not Reported
+10016322,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140403,2,65,Not Reported
+10016337,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,85,Not Reported
+10016411,3,US,2,Not Reported,Not Reported,Not Reported,20140317,20140807,1,65,Not Reported
+10016490,1,GB,1,1,Not Reported,Not Reported,20140317,20140317,2,68,Not Reported
+10016589,2,JP,1,Not Reported,1,Not Reported,20140317,20140422,2,85,Not Reported
+10016775,4,COUNTRY NOT SPECIFIED,1,Not Reported,1,1,20140318,20140827,2,80,Not Reported
+10016847,1,ES,1,Not Reported,1,Not Reported,20140318,20140318,1,69,Not Reported
+10017067,2,US,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,Not Reported,Not Reported
+10017135,3,IN,1,1,Not Reported,Not Reported,20140318,20140930,1,65,Not Reported
+10017145,1,GB,1,Not Reported,1,1,20140318,20140318,2,84,Not Reported
+10017148,3,ES,1,Not Reported,Not Reported,Not Reported,20140318,20140526,1,65,Not Reported
+10017333,2,DE,1,Not Reported,Not Reported,Not Reported,20140318,20140528,2,64,Not Reported
+10017416,2,US,2,Not Reported,Not Reported,Not Reported,20140318,20140702,1,71,Not Reported
+10017775,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,64,Not Reported
+10017950,2,US,2,Not Reported,Not Reported,Not Reported,20140318,20140331,2,Not Reported,Not Reported
+10017987,1,DE,1,Not Reported,Not Reported,1,20140318,20140318,2,68,Not Reported
+10018018,1,US,1,Not Reported,1,1,20140313,20140313,1,59,Not Reported
+10003349,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10003359,1,GB,1,Not Reported,1,Not Reported,20140312,20140312,1,41,Not Reported
+10003496,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,80,Not Reported
+10003532,3,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140312,20150602,1,59,Not Reported
+10003566,1,FR,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,84,Not Reported
+10003636,4,US,1,Not Reported,1,Not Reported,20140312,20150403,1,77,Not Reported
+10003647,3,SE,1,1,1,Not Reported,20140312,20171102,1,74,Not Reported
+10003844,7,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140312,20150616,1,54,Not Reported
+10003915,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,63,Not Reported
+10003976,1,GB,1,Not Reported,1,1,20140312,20140312,2,63,Not Reported
+10004051,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10004057,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20200421,Not Reported,Not Reported,Not Reported
+10004622,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,71,Not Reported
+10004650,1,GB,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,77,Not Reported
+10004717,2,US,1,Not Reported,1,Not Reported,20140312,20140407,2,51,Not Reported
+10005029,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10005052,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20150813,2,66,Not Reported
+10005078,3,US,1,1,1,Not Reported,20140312,20140414,2,68,Not Reported
+10005138,3,US,1,Not Reported,Not Reported,Not Reported,20140312,20201020,2,50,Not Reported
+10005187,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10005224,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,60,Not Reported
+10005245,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,65,Not Reported
+10005285,1,GB,1,Not Reported,Not Reported,1,20140312,20140312,2,54,Not Reported
+10005422,3,GB,1,Not Reported,1,Not Reported,20140313,20141110,2,68,Not Reported
+10005492,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20140424,2,80,Not Reported
+10005762,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140423,2,71,Not Reported
+10005778,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10005810,2,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140324,1,59,Not Reported
+10005827,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,63,Not Reported
+10005912,2,US,1,Not Reported,1,Not Reported,20140313,20140510,1,44,Not Reported
+10005927,2,GB,1,Not Reported,1,Not Reported,20140313,20140418,2,52,Not Reported
+10005933,1,HR,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,78,Not Reported
+10006042,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10006053,3,US,1,Not Reported,1,Not Reported,20140313,20140424,1,70,Not Reported
+10006071,10,US,1,1,1,Not Reported,20140313,20140422,1,81,Not Reported
+10006150,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,70,Not Reported
+10006224,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10006237,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,74,Not Reported
+10006301,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140320,2,87,Not Reported
+10006338,1,FR,1,Not Reported,1,Not Reported,20140313,20140313,2,72,Not Reported
+10006463,4,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140313,20151126,1,73,Not Reported
+10006572,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20150130,2,57,Not Reported
+10006725,5,US,1,Not Reported,Not Reported,1,20140311,20140506,2,84,Not Reported
+10006854,2,US,1,Not Reported,1,Not Reported,20140311,20140318,1,71,Not Reported
+10006887,1,JP,1,Not Reported,Not Reported,1,20140311,20140311,1,86,Not Reported
+10006982,1,US,1,Not Reported,1,Not Reported,20140311,20140311,1,58,Not Reported
+10007246,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140417,1,77,Not Reported
+10007313,1,ES,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,83,Not Reported
+10007387,2,PH,1,1,1,Not Reported,20140313,20140313,2,33,Not Reported
+10007441,1,US,1,Not Reported,1,1,20140312,20140312,1,75,Not Reported
+10007486,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,87,Not Reported
+10007506,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,65,Not Reported
+10007523,3,NO,1,1,Not Reported,Not Reported,20140313,20140522,1,77,Not Reported
+10007531,2,JP,1,Not Reported,1,Not Reported,20140313,20140416,2,80,Not Reported
+10007552,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20201021,2,38,Not Reported
+10007940,1,DE,1,1,1,Not Reported,20140313,20140313,1,70,Not Reported
+10008133,1,GB,1,Not Reported,Not Reported,1,20140313,20140313,2,54,Not Reported
+10008241,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,2,65,Not Reported
+10008360,1,GB,1,Not Reported,1,1,20140313,20140313,2,63,Not Reported
+10008688,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,72,Not Reported
+10008767,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,73,Not Reported
+10008774,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,76,Not Reported
+10008776,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,70,Not Reported
+10008782,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10008883,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,80,Not Reported
+10008949,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10008980,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10009223,1,GB,1,Not Reported,1,Not Reported,20140313,20140313,2,59,Not Reported
+10009391,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,71,Not Reported
+10009421,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,77,Not Reported
+10009427,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009434,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,0,Not Reported,Not Reported
+10009470,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,76,Not Reported
+10009499,2,COUNTRY NOT SPECIFIED,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,81,Not Reported
+10009588,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,57,Not Reported
+10009600,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,74,Not Reported
+10009627,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,74,Not Reported
+10009670,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,81,Not Reported
+10009728,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,57,Not Reported
+10009730,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009735,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,70,Not Reported
+10009736,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,77,Not Reported
+10009787,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009807,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,0,Not Reported,Not Reported
+10009820,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,73,Not Reported
+10009830,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,66,Not Reported
+10009835,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,56,Not Reported
+10009908,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,77,Not Reported
+10009940,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10009992,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,73,Not Reported
+10010030,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,75,Not Reported
+10010031,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10010103,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,62,Not Reported
+10010109,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,56,Not Reported
+10010228,1,GB,1,Not Reported,1,1,20140313,20140313,2,63,Not Reported
+10010232,2,KE,1,1,1,Not Reported,20140313,20140327,1,39,Not Reported
+10010335,2,CA,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,52,Not Reported
+10010681,3,GB,1,Not Reported,1,Not Reported,20140314,20160217,1,67,Not Reported
+10010733,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,51,Not Reported
+10010774,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140415,1,Not Reported,Not Reported
+10010775,2,US,2,Not Reported,Not Reported,Not Reported,20140314,20140623,2,Not Reported,Not Reported
+10010821,1,GB,1,Not Reported,Not Reported,Not Reported,20140311,20140311,2,77,Not Reported
+10010875,2,JP,1,Not Reported,1,Not Reported,20140314,20140314,2,80,Not Reported
+10010900,2,GB,1,Not Reported,1,Not Reported,20140314,20140620,1,78,Not Reported
+10011222,1,US,1,Not Reported,1,1,20140312,20140312,2,63,Not Reported
+10011527,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140519,2,54,Not Reported
+10011562,1,JP,1,Not Reported,1,Not Reported,20140314,20140314,2,73,Not Reported
+10011569,3,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140529,2,67,Not Reported
+10011663,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,40,Not Reported
+10011721,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,63,Not Reported
+10011822,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,87,Not Reported
+10011828,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,68,Not Reported
+10011907,1,GB,1,Not Reported,1,Not Reported,20140314,20140314,1,66,Not Reported
+10012021,1,FR,1,Not Reported,1,Not Reported,20140314,20140314,2,87,Not Reported
+10012163,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,75,Not Reported
+10012178,2,JP,1,Not Reported,1,Not Reported,20140314,20140325,1,71,Not Reported
+10012208,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,73,Not Reported
+10012249,2,GB,1,Not Reported,1,1,20140314,20140331,2,63,Not Reported
+10012451,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,52,Not Reported
+10012460,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,59,Not Reported
+10012474,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140403,2,48,Not Reported
+10012482,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,77,Not Reported
+10012721,3,US,1,Not Reported,1,Not Reported,20140314,20140324,2,79,Not Reported
+10012738,1,BE,1,Not Reported,1,Not Reported,20140314,20140314,0,Not Reported,Not Reported
+10012764,1,AT,1,Not Reported,1,Not Reported,20140314,20140314,1,74,Not Reported
+10012765,1,GB,1,Not Reported,1,Not Reported,20140314,20140314,2,80,Not Reported
+10012836,2,US,2,Not Reported,Not Reported,Not Reported,20140314,20140331,2,Not Reported,Not Reported
+10012896,1,JP,1,Not Reported,1,Not Reported,20140314,20140314,2,65,Not Reported
+10012925,3,GB,1,Not Reported,1,Not Reported,20140314,20140912,1,49,Not Reported
+10013023,1,COUNTRY NOT SPECIFIED,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,75,Not Reported
+10013039,1,GB,1,Not Reported,1,Not Reported,20140314,20140314,2,93,Not Reported
+10013136,2,PL,1,Not Reported,1,Not Reported,20140314,20140314,1,53,Not Reported
+10013202,2,US,1,Not Reported,1,Not Reported,20140314,20140314,2,Not Reported,Not Reported
+10013329,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,1,49,Not Reported
+10013368,1,US,1,Not Reported,1,Not Reported,20140314,20140314,1,Not Reported,Not Reported
+10013398,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,57,Not Reported
+10013505,4,US,1,Not Reported,1,Not Reported,20140314,20150101,1,22928,Not Reported
+10013516,3,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140722,Not Reported,Not Reported,Not Reported
+10013658,2,US,2,Not Reported,Not Reported,Not Reported,20140315,20140415,1,61,Not Reported
+10013697,2,US,1,Not Reported,Not Reported,Not Reported,20140316,20140316,2,59,Not Reported
+10013698,2,US,1,Not Reported,Not Reported,Not Reported,20140316,20140606,2,89,Not Reported
+10013915,1,US,2,Not Reported,Not Reported,Not Reported,20140316,20140316,1,Not Reported,Not Reported
+10014010,1,GB,1,Not Reported,1,Not Reported,20140317,20140317,2,93,Not Reported
+10014038,4,US,1,Not Reported,Not Reported,Not Reported,20140317,20140529,2,Not Reported,Not Reported
+10014058,1,US,1,Not Reported,1,Not Reported,20140317,20140317,1,57,Not Reported
+10014264,1,US,1,Not Reported,1,Not Reported,20140317,20140317,2,52,Not Reported
+10014411,1,US,1,Not Reported,1,Not Reported,20140317,20140317,2,76,Not Reported
+10014431,1,US,1,Not Reported,1,Not Reported,20140317,20140317,1,65,Not Reported
+10014434,1,GB,1,Not Reported,1,Not Reported,20140317,20140317,1,77,Not Reported
+10014435,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,81,Not Reported
+10014446,2,CA,1,Not Reported,1,Not Reported,20140317,20140317,2,80,Not Reported
+10014511,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,0,Not Reported,Not Reported
+10014591,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,80,Not Reported
+10014622,4,IL,1,1,1,Not Reported,20140317,20160705,1,74,Not Reported
+10014650,2,US,1,Not Reported,1,Not Reported,20140317,20140416,1,67,Not Reported
+10014714,2,US,1,Not Reported,1,Not Reported,20140317,20140317,1,66,Not Reported
+10014728,1,PH,1,Not Reported,1,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10015022,6,US,1,Not Reported,1,Not Reported,20140317,20170705,1,77,Not Reported
+10015055,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,62,Not Reported
+10015105,4,JP,1,1,Not Reported,Not Reported,20140317,20161123,2,43,Not Reported
+10015208,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,76,Not Reported
+10015272,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10015296,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,63,Not Reported
+10015320,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,73,Not Reported
+10015335,3,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140317,20140602,2,62,Not Reported
+10015344,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140617,1,81,Not Reported
+10015379,3,US,1,Not Reported,1,1,20140317,20150612,1,62,Not Reported
+10015462,5,US,1,Not Reported,1,Not Reported,20140317,20141103,2,87,Not Reported
+10015475,1,GB,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,59,Not Reported
+10015485,1,GB,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,87,Not Reported
+10015650,1,US,1,Not Reported,1,Not Reported,20140317,20140317,0,Not Reported,Not Reported
+10015675,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,44,Not Reported
+10015690,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140417,2,Not Reported,Not Reported
+10015695,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,76,Not Reported
+10015777,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140415,2,79,Not Reported
+10015784,5,US,1,Not Reported,1,Not Reported,20140317,20150129,1,Not Reported,Not Reported
+10015835,2,FR,1,Not Reported,1,Not Reported,20140317,20140829,1,40,Not Reported
+10015874,2,AU,1,Not Reported,Not Reported,Not Reported,20140317,20150122,1,60,Not Reported
+10015914,3,JP,1,1,1,Not Reported,20140317,20140402,2,75,Not Reported
+10016246,1,DE,1,Not Reported,1,Not Reported,20140317,20140317,1,70,Not Reported
+10003305,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,48,Not Reported
+10003310,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20150812,2,66,Not Reported
+10003581,3,US,1,Not Reported,1,Not Reported,20140312,20180123,Not Reported,Not Reported,Not Reported
+10003582,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,58,Not Reported
+10003687,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,51,Not Reported
+10003717,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,67,Not Reported
+10003792,2,COUNTRY NOT SPECIFIED,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,46,Not Reported
+10003840,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,73,Not Reported
+10003849,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,68,Not Reported
+10003899,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,1,Not Reported,Not Reported
+10004008,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,66,Not Reported
+10004101,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10004244,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140312,20140425,2,53,Not Reported
+10004480,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10004545,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,78,Not Reported
+10004628,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10004640,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,2,76,Not Reported
+10004712,2,US,1,Not Reported,1,Not Reported,20140312,20140404,1,86,Not Reported
+10004759,4,US,1,Not Reported,1,Not Reported,20140312,20140516,1,55,Not Reported
+10004885,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,68,Not Reported
+10005015,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,88,Not Reported
+10005102,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10005174,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191105,2,53,Not Reported
+10005345,2,COUNTRY NOT SPECIFIED,1,1,Not Reported,Not Reported,20140313,20140905,2,77,Not Reported
+10005377,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140312,20140508,2,62,Not Reported
+10005592,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,66,Not Reported
+10005708,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,0,Not Reported,Not Reported
+10005908,2,DE,1,Not Reported,1,Not Reported,20140313,20140321,2,52,Not Reported
+10006072,2,US,1,Not Reported,1,Not Reported,20140313,20140402,2,86,Not Reported
+10006100,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,91,Not Reported
+10006109,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,72,Not Reported
+10006126,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,84,Not Reported
+10006147,2,US,1,Not Reported,1,Not Reported,20140313,20140508,1,71,Not Reported
+10006283,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140411,1,65,Not Reported
+10006314,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,72,Not Reported
+10006412,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,46,Not Reported
+10006465,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140313,20140313,2,87,Not Reported
+10006475,1,US,1,Not Reported,Not Reported,Not Reported,20140311,20140311,1,Not Reported,Not Reported
+10006512,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,56,Not Reported
+10006712,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140721,2,72,Not Reported
+10007058,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150813,2,69,Not Reported
+10007105,1,US,1,Not Reported,1,Not Reported,20140312,20140312,1,66,Not Reported
+10007133,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,64,Not Reported
+10007147,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,34,Not Reported
+10007187,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,62,Not Reported
+10007232,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,71,Not Reported
+10007234,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,90,Not Reported
+10007397,1,US,1,Not Reported,1,Not Reported,20140313,20140313,0,67,Not Reported
+10007468,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,72,Not Reported
+10007670,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20150813,2,54,Not Reported
+10007839,1,US,1,Not Reported,Not Reported,Not Reported,20140311,20140311,2,55,Not Reported
+10007850,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,2,82,Not Reported
+10008006,1,CH,1,Not Reported,1,Not Reported,20140313,20140313,2,66,Not Reported
+10008095,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140313,20140313,2,79,Not Reported
+10008409,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,66,Not Reported
+10008506,4,US,1,Not Reported,1,Not Reported,20140313,20170220,2,46,Not Reported
+10008553,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,57,Not Reported
+10008595,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,63,Not Reported
+10008622,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10008674,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,81,Not Reported
+10008729,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,70,Not Reported
+10008734,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,77,Not Reported
+10008737,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,62,Not Reported
+10008781,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,58,Not Reported
+10008793,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10008819,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10008824,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,60,Not Reported
+10008831,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10008846,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,69,Not Reported
+10008847,1,US,1,Not Reported,1,Not Reported,20140312,20140312,1,59,Not Reported
+10008914,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,86,Not Reported
+10008960,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,81,Not Reported
+10008986,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,59,Not Reported
+10009019,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,81,Not Reported
+10009038,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,84,Not Reported
+10009044,1,DE,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,1,Not Reported
+10009464,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20140912,2,70,Not Reported
+10009493,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,81,Not Reported
+10009508,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10009510,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,62,Not Reported
+10009529,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20141211,2,67,Not Reported
+10009538,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009539,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009594,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,58,Not Reported
+10009609,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,74,Not Reported
+10009657,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,68,Not Reported
+10009725,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,71,Not Reported
+10009726,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,82,Not Reported
+10009749,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,81,Not Reported
+10009788,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,0,Not Reported,Not Reported
+10009808,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,82,Not Reported
+10009837,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,65,Not Reported
+10009893,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10009894,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,65,Not Reported
+10009897,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,76,Not Reported
+10009901,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009944,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,74,Not Reported
+10010015,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20170504,Not Reported,Not Reported,Not Reported
+10010018,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,73,Not Reported
+10010058,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,67,Not Reported
+10010071,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,80,Not Reported
+10010077,5,US,1,1,1,Not Reported,20140312,20200617,Not Reported,Not Reported,Not Reported
+10010078,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10010091,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,60,Not Reported
+10010092,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10010100,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10010104,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10010168,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10010170,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20150924,2,93,Not Reported
+10010543,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140331,2,66,Not Reported
+10010674,1,DE,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,Not Reported,Not Reported
+10010827,2,DE,1,Not Reported,Not Reported,Not Reported,20140314,20210427,1,Not Reported,Not Reported
+10010829,2,DE,1,Not Reported,Not Reported,Not Reported,20140311,20140313,1,Not Reported,Not Reported
+10011255,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,78,Not Reported
+10011439,3,US,1,Not Reported,1,Not Reported,20140314,20140404,2,58,Not Reported
+10011648,1,US,1,Not Reported,1,Not Reported,20140314,20140314,2,57,Not Reported
+10011722,1,US,1,1,Not Reported,Not Reported,20140314,20140314,1,59,Not Reported
+10011783,2,US,1,Not Reported,1,Not Reported,20140314,20140428,1,82,Not Reported
+10011926,2,LT,1,Not Reported,Not Reported,Not Reported,20140314,20140417,1,Not Reported,Not Reported
+10011931,12,NZ,1,Not Reported,1,Not Reported,20140314,20140630,2,72,Not Reported
+10012040,2,US,1,Not Reported,1,Not Reported,20140314,20140416,1,Not Reported,Not Reported
+10012054,3,US,1,Not Reported,Not Reported,Not Reported,20140314,20140908,2,62,Not Reported
+10012075,4,US,1,Not Reported,Not Reported,Not Reported,20140314,20141208,2,61,Not Reported
+10012175,1,DE,1,1,1,Not Reported,20140314,20140314,2,67,Not Reported
+10012205,4,NL,1,Not Reported,Not Reported,Not Reported,20140314,20140414,2,89,Not Reported
+10012386,1,US,1,Not Reported,1,Not Reported,20140314,20140314,1,75,Not Reported
+10012419,3,US,2,Not Reported,Not Reported,Not Reported,20140314,20160217,2,58,Not Reported
+10012450,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,78,Not Reported
+10012518,1,US,1,Not Reported,1,Not Reported,20140314,20140314,2,86,Not Reported
+10012704,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,Not Reported,Not Reported
+10012725,1,US,1,Not Reported,1,Not Reported,20140314,20140314,1,65,Not Reported
+10012770,1,DE,1,Not Reported,1,1,20140314,20140314,2,59,Not Reported
+10012889,1,NL,1,Not Reported,Not Reported,1,20140314,20140314,2,59,Not Reported
+10012904,1,US,1,Not Reported,1,Not Reported,20140314,20140314,1,Not Reported,Not Reported
+10013047,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,1,65,Not Reported
+10013116,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,57,Not Reported
+10013419,2,US,2,Not Reported,Not Reported,Not Reported,20140314,20140423,2,46,Not Reported
+10013453,2,DE,1,1,Not Reported,Not Reported,20140314,20140321,2,82,Not Reported
+10013460,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,64,Not Reported
+10013613,2,US,1,Not Reported,Not Reported,Not Reported,20140315,20140315,2,63,Not Reported
+10013699,2,CH,1,1,1,Not Reported,20140316,20140316,2,80,Not Reported
+10013702,1,US,1,Not Reported,Not Reported,Not Reported,20140316,20140316,1,71,Not Reported
+10013833,2,US,2,Not Reported,Not Reported,Not Reported,20140316,20140508,2,68,Not Reported
+10013849,3,DE,1,Not Reported,Not Reported,Not Reported,20140316,20140316,2,Not Reported,Not Reported
+10013850,1,DE,1,Not Reported,Not Reported,Not Reported,20140316,20140316,2,Not Reported,Not Reported
+10013851,1,DE,1,Not Reported,Not Reported,Not Reported,20140316,20140316,2,Not Reported,Not Reported
+10013917,4,CA,1,1,1,Not Reported,20140316,20160708,1,69,Not Reported
+10014036,4,US,1,Not Reported,Not Reported,Not Reported,20140317,20150126,2,67,Not Reported
+10014466,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140317,20140515,1,Not Reported,Not Reported
+10014530,1,US,1,1,Not Reported,Not Reported,20140317,20140317,2,54,Not Reported
+10014575,2,DE,1,Not Reported,1,Not Reported,20140317,20140421,1,79,Not Reported
+10014638,5,NL,1,Not Reported,1,Not Reported,20140317,20140422,1,67,Not Reported
+10014864,1,US,1,Not Reported,1,Not Reported,20140317,20140317,1,44,Not Reported
+10014977,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,50,Not Reported
+10015449,3,US,1,1,Not Reported,Not Reported,20140317,20140723,1,80,Not Reported
+10015682,3,US,2,Not Reported,Not Reported,Not Reported,20140317,20140406,2,91,Not Reported
+10015743,1,US,1,Not Reported,1,Not Reported,20140317,20140317,1,73,Not Reported
+10015785,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,84,Not Reported
+10015806,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140620,2,51,Not Reported
+10015838,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,Not Reported,Not Reported
+10015883,1,US,1,Not Reported,1,Not Reported,20140317,20140317,2,58,Not Reported
+10015920,3,US,1,Not Reported,1,Not Reported,20140317,20140402,1,70,Not Reported
+10015921,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,81,Not Reported
+10016029,2,US,1,Not Reported,1,Not Reported,20140317,20140522,2,51,Not Reported
+10016038,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20140403,2,80,Not Reported
+10016058,4,US,1,Not Reported,1,Not Reported,20140317,20150605,1,76,Not Reported
+10016136,4,US,1,Not Reported,1,1,20140317,20150612,1,69,Not Reported
+10016174,4,US,1,1,Not Reported,Not Reported,20140317,20140502,2,57,Not Reported
+10016271,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20141223,2,Not Reported,Not Reported
+10016297,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,58,Not Reported
+10003320,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20150812,1,42,Not Reported
+10003332,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,80,Not Reported
+10003642,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,66,Not Reported
+10003885,1,COUNTRY NOT SPECIFIED,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,46,Not Reported
+10003959,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10004111,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,2,58,Not Reported
+10004443,1,GB,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,46,Not Reported
+10004506,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140617,2,52,Not Reported
+10004687,2,GB,1,Not Reported,Not Reported,1,20140312,20140707,2,60,Not Reported
+10005094,1,NL,1,1,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10005378,3,BR,1,Not Reported,1,Not Reported,20140313,20150217,2,20,Not Reported
+10005537,2,BR,1,Not Reported,1,Not Reported,20140313,20140402,2,Not Reported,Not Reported
+10005632,2,US,1,Not Reported,1,Not Reported,20140313,20140516,2,Not Reported,Not Reported
+10005759,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140702,2,52,Not Reported
+10005816,2,CO,1,1,1,Not Reported,20140313,20140410,2,Not Reported,Not Reported
+10005821,2,BR,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,43,Not Reported
+10006198,3,PR,1,Not Reported,Not Reported,Not Reported,20140313,20140425,2,62,Not Reported
+10006212,2,BR,1,1,Not Reported,Not Reported,20140313,20140313,2,69,Not Reported
+10006367,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20150217,2,69,Not Reported
+10006515,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140313,20140313,1,70,Not Reported
+10007306,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10008620,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,70,Not Reported
+10008658,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10008752,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,74,Not Reported
+10008894,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,64,Not Reported
+10009483,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009551,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,59,Not Reported
+10009580,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10009581,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,64,Not Reported
+10009623,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,65,Not Reported
+10009849,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,86,Not Reported
+10009903,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,78,Not Reported
+10010000,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10010012,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,57,Not Reported
+10010033,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10010073,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20191106,Not Reported,Not Reported,Not Reported
+10010122,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,75,Not Reported
+10010156,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20140912,2,74,Not Reported
+10010160,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,72,Not Reported
+10010198,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,69,Not Reported
+10010231,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,46,Not Reported
+10010591,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,71,Not Reported
+10010701,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,Not Reported,Not Reported
+10010735,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,83,Not Reported
+10011059,2,PT,1,1,Not Reported,Not Reported,20140314,20140401,2,53,Not Reported
+10011690,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,59,Not Reported
+10011771,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140406,2,74,Not Reported
+10011845,4,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140314,20151229,1,76,Not Reported
+10012029,4,GB,1,Not Reported,1,Not Reported,20140314,20140627,2,84,Not Reported
+10012291,2,US,2,Not Reported,Not Reported,Not Reported,20140314,20140625,2,Not Reported,Not Reported
+10012449,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,46,Not Reported
+10012461,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,69,Not Reported
+10012629,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140314,20140314,2,Not Reported,Not Reported
+10012635,2,US,1,Not Reported,1,Not Reported,20140314,20140401,2,87,Not Reported
+10013545,2,TW,1,Not Reported,Not Reported,Not Reported,20140315,20140414,2,51,Not Reported
+10013637,1,US,2,Not Reported,Not Reported,Not Reported,20140315,20140315,2,82,Not Reported
+10013689,1,BR,1,Not Reported,1,Not Reported,20140315,20140315,2,454,Not Reported
+10013999,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,65,Not Reported
+10014065,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,61,Not Reported
+10014254,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10014442,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10014515,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140417,2,72,Not Reported
+10015007,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,Not Reported,Not Reported
+10015221,2,CL,1,Not Reported,1,Not Reported,20140317,20140410,2,70,Not Reported
+10015234,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10015237,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,Not Reported,Not Reported
+10015293,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,Not Reported,Not Reported
+10015892,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,58,Not Reported
+10016301,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140325,2,61,Not Reported
+10016328,7,DE,1,1,1,Not Reported,20140317,20180327,1,71,Not Reported
+10016376,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140317,20140317,2,66,Not Reported
+10016425,1,GB,1,Not Reported,1,Not Reported,20140317,20140317,1,75,Not Reported
+10016450,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140317,20140317,1,64,Not Reported
+10016453,1,US,1,Not Reported,1,Not Reported,20140317,20140317,2,58,Not Reported
+10016481,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,6,Not Reported
+10016546,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140326,2,71,Not Reported
+10016668,3,US,2,Not Reported,Not Reported,Not Reported,20140317,20140429,1,Not Reported,Not Reported
+10016738,1,AT,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,63,Not Reported
+10017075,2,US,1,Not Reported,1,Not Reported,20140318,20140627,1,57,Not Reported
+10017140,2,US,1,Not Reported,Not Reported,Not Reported,20140318,20160129,2,82,Not Reported
+10017186,1,GB,1,Not Reported,1,Not Reported,20140318,20140318,1,75,Not Reported
+10017353,1,DE,1,Not Reported,1,Not Reported,20140318,20140318,1,65,Not Reported
+10017354,2,BR,1,Not Reported,Not Reported,Not Reported,20140318,20140331,1,53,Not Reported
+10017427,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,62,Not Reported
+10017446,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,1,70,Not Reported
+10017502,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,71,Not Reported
+10017530,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,48,Not Reported
+10017550,2,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,85,Not Reported
+10017668,1,US,1,Not Reported,Not Reported,1,20140313,20140313,2,72,Not Reported
+10017848,1,US,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,43,Not Reported
+10018205,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,65,Not Reported
+10018253,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,1,83,Not Reported
+10018342,1,US,1,Not Reported,Not Reported,Not Reported,20140318,20140318,1,48,Not Reported
+10018533,2,US,1,Not Reported,1,Not Reported,20140318,20140318,1,60,Not Reported
+10018637,3,US,1,1,1,Not Reported,20140318,20140620,1,86,Not Reported
+10018649,3,US,1,Not Reported,Not Reported,Not Reported,20140318,20170525,2,47,Not Reported
+10018683,2,US,1,Not Reported,Not Reported,Not Reported,20140318,20140318,1,72,Not Reported
+10018713,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,85,Not Reported
+10018908,5,GB,1,Not Reported,1,Not Reported,20140318,20151229,1,88,Not Reported
+10018915,2,US,2,Not Reported,Not Reported,Not Reported,20140318,20140406,2,86,Not Reported
+10018967,1,BR,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,62,Not Reported
+10018991,2,US,1,Not Reported,Not Reported,Not Reported,20140318,20140401,2,43,Not Reported
+10018993,1,US,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,57,Not Reported
+10019040,1,US,1,Not Reported,1,Not Reported,20140314,20140314,1,66,Not Reported
+10019135,4,US,2,Not Reported,Not Reported,Not Reported,20140318,20180226,2,87,Not Reported
+10019146,3,DK,1,Not Reported,Not Reported,Not Reported,20140318,20140603,1,50,Not Reported
+10019373,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,95,Not Reported
+10019385,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140318,20140318,2,76,Not Reported
+10019392,1,US,1,Not Reported,1,Not Reported,20140318,20140318,2,71,Not Reported
+10019393,1,GB,1,Not Reported,Not Reported,1,20140318,20140318,1,56,Not Reported
+10019397,2,GB,1,Not Reported,Not Reported,1,20140318,20140718,2,60,Not Reported
+10019641,2,GB,1,Not Reported,Not Reported,Not Reported,20140318,20140603,2,66,Not Reported
+10019652,1,DE,1,Not Reported,1,Not Reported,20140318,20140318,1,65,Not Reported
+10019727,3,US,2,Not Reported,Not Reported,Not Reported,20140318,20140912,2,39,Not Reported
+10019745,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,52,Not Reported
+10019776,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,70,Not Reported
+10020057,1,COUNTRY NOT SPECIFIED,1,1,1,Not Reported,20140318,20140318,2,Not Reported,Not Reported
+10020064,5,ES,1,Not Reported,1,Not Reported,20140318,20140923,2,76,Not Reported
+10020439,1,US,2,Not Reported,Not Reported,Not Reported,20140319,20140319,2,67,Not Reported
+10020638,2,DE,1,Not Reported,1,Not Reported,20140319,20140409,2,61,Not Reported
+10020651,2,US,1,Not Reported,1,Not Reported,20131025,20131031,2,74,Not Reported
+10020729,2,IT,1,Not Reported,1,Not Reported,20131127,20140409,2,69,Not Reported
+10020757,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,1,48,Not Reported
+10020826,2,SE,1,Not Reported,1,Not Reported,20140319,20150325,1,82,Not Reported
+10020988,2,GB,1,Not Reported,Not Reported,1,20140319,20140717,2,60,Not Reported
+10021000,1,BR,1,Not Reported,Not Reported,Not Reported,20140313,20140313,0,67,Not Reported
+10021011,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,1,59,Not Reported
+10021234,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,1,48,Not Reported
+10021278,4,IT,1,Not Reported,1,Not Reported,20140313,20140512,2,83,Not Reported
+10021339,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,68,Not Reported
+10021355,1,US,1,Not Reported,Not Reported,1,20140318,20140318,1,74,Not Reported
+10021552,1,CO,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,64,Not Reported
+10021877,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,68,Not Reported
+10021891,7,US,1,Not Reported,1,Not Reported,20140313,20140529,1,63,Not Reported
+10022041,1,CZ,1,1,Not Reported,Not Reported,20140319,20140319,1,61,Not Reported
+10022159,1,COUNTRY NOT SPECIFIED,1,1,Not Reported,Not Reported,20140319,20140319,2,50,Not Reported
+10022175,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,83,Not Reported
+10022249,1,US,1,Not Reported,Not Reported,Not Reported,20131217,20131217,1,86,Not Reported
+10022329,3,US,1,Not Reported,Not Reported,Not Reported,20140319,20140415,1,70,Not Reported
+10022535,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,68,Not Reported
+10022645,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,1,59,Not Reported
+10022690,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,1,68,Not Reported
+10023078,2,GB,1,Not Reported,Not Reported,1,20140319,20140717,2,60,Not Reported
+10023086,9,US,1,Not Reported,1,Not Reported,20140319,20141225,1,66,Not Reported
+10023103,1,GB,1,Not Reported,Not Reported,Not Reported,20140320,20140320,2,68,Not Reported
+10023324,1,US,2,Not Reported,Not Reported,Not Reported,20140320,20140320,2,64,Not Reported
+10023422,3,US,1,2,1,2,20140320,20221007,2,67,Not Reported
+10023576,1,US,2,Not Reported,Not Reported,Not Reported,20140319,20140319,1,62,Not Reported
+10023676,2,GB,1,Not Reported,Not Reported,Not Reported,20140320,20140402,1,69,Not Reported
+10023788,1,US,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,73,Not Reported
+10024040,1,US,2,Not Reported,Not Reported,Not Reported,20140320,20140320,1,Not Reported,Not Reported
+10024103,2,US,2,Not Reported,Not Reported,Not Reported,20140320,20140404,2,89,Not Reported
+10024197,6,US,1,Not Reported,1,Not Reported,20140320,20150518,2,77,Not Reported
+10024231,1,BR,1,Not Reported,Not Reported,Not Reported,20140128,20140128,1,Not Reported,Not Reported
+10003432,3,US,1,Not Reported,1,Not Reported,20140312,20150812,2,84,Not Reported
+10003539,2,US,1,Not Reported,1,Not Reported,20140312,20140507,1,71,Not Reported
+10003565,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10003632,2,US,1,Not Reported,1,Not Reported,20140312,20140312,1,77,Not Reported
+10003654,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,57,Not Reported
+10003803,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10004006,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,0,Not Reported,Not Reported
+10004018,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140315,2,39,Not Reported
+10004089,2,US,1,Not Reported,1,Not Reported,20140312,20140312,1,46,Not Reported
+10004162,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,1,82,Not Reported
+10004227,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,89,Not Reported
+10004262,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,55,Not Reported
+10004345,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140522,1,Not Reported,Not Reported
+10004359,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,71,Not Reported
+10004538,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20140327,1,80,Not Reported
+10004586,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,0,Not Reported,Not Reported
+10004629,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,64,Not Reported
+10004976,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10005199,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20150812,1,45,Not Reported
+10005204,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,2,76,Not Reported
+10005282,4,DE,1,Not Reported,1,Not Reported,20140312,20150924,2,85,Not Reported
+10005419,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10005429,1,US,1,Not Reported,1,Not Reported,20140312,20140312,1,40,Not Reported
+10005696,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140421,2,39,Not Reported
+10005720,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10006051,8,US,1,Not Reported,1,1,20140313,20140602,2,89,Not Reported
+10006130,1,US,1,1,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10006159,1,US,1,1,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10006166,1,US,1,1,Not Reported,Not Reported,20140313,20140313,1,60,Not Reported
+10006240,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,78,Not Reported
+10006269,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,26,Not Reported
+10006313,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10006341,1,SE,1,Not Reported,1,Not Reported,20140313,20140313,2,37,Not Reported
+10006434,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140313,20140313,2,85,Not Reported
+10006505,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,71,Not Reported
+10006537,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,67,Not Reported
+10006642,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20140428,2,57,Not Reported
+10006667,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20210114,2,58,Not Reported
+10006993,2,US,1,Not Reported,1,Not Reported,20140311,20140402,2,76,Not Reported
+10007021,1,US,1,Not Reported,Not Reported,Not Reported,20140311,20140311,1,47,Not Reported
+10007113,2,US,1,Not Reported,1,Not Reported,20140311,20140324,1,51,Not Reported
+10007195,1,US,1,1,Not Reported,Not Reported,20140312,20140312,2,62,Not Reported
+10007244,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10007368,3,US,1,1,1,Not Reported,20140313,20140515,2,63,Not Reported
+10007504,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140407,2,73,Not Reported
+10007513,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20141002,2,82,Not Reported
+10007667,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,0,Not Reported,Not Reported
+10007899,2,US,1,Not Reported,1,Not Reported,20140313,20140313,2,71,Not Reported
+10008529,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,38,Not Reported
+10008690,3,US,1,Not Reported,1,Not Reported,20140312,20200407,Not Reported,Not Reported,Not Reported
+10008739,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,82,Not Reported
+10008757,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,83,Not Reported
+10008779,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10008815,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,73,Not Reported
+10008827,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,67,Not Reported
+10008830,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,75,Not Reported
+10008869,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,77,Not Reported
+10008880,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,71,Not Reported
+10008912,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,86,Not Reported
+10008939,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,82,Not Reported
+10009320,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10009393,3,GB,1,1,Not Reported,Not Reported,20140313,20140417,1,63,Not Reported
+10009398,3,US,1,Not Reported,1,Not Reported,20140313,20150605,2,66,Not Reported
+10009431,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,70,Not Reported
+10009506,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,58,Not Reported
+10009555,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,86,Not Reported
+10009586,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10009664,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,76,Not Reported
+10009671,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,87,Not Reported
+10009686,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10009790,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,84,Not Reported
+10009793,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20170808,Not Reported,Not Reported,Not Reported
+10009810,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,81,Not Reported
+10009812,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,51,Not Reported
+10009867,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,66,Not Reported
+10009887,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,87,Not Reported
+10009935,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,70,Not Reported
+10009936,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,80,Not Reported
+10009995,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,93,Not Reported
+10009996,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10010172,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,58,Not Reported
+10010348,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,Not Reported,Not Reported
+10010364,3,US,1,1,Not Reported,Not Reported,20140314,20140516,2,Not Reported,Not Reported
+10010592,1,US,1,Not Reported,1,Not Reported,20140312,20140312,1,61,Not Reported
+10010673,1,GB,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,81,Not Reported
+10010700,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,66,Not Reported
+10010873,10,US,1,Not Reported,1,1,20140314,20140822,1,68,Not Reported
+10010971,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140522,2,55,Not Reported
+10011463,2,US,1,Not Reported,1,Not Reported,20140314,20140501,1,60,Not Reported
+10011469,2,US,1,Not Reported,1,Not Reported,20140314,20140428,1,53,Not Reported
+10011570,2,US,1,Not Reported,1,Not Reported,20140314,20140314,2,Not Reported,Not Reported
+10011572,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,44,Not Reported
+10011587,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,1,54,Not Reported
+10011779,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,73,Not Reported
+10011791,2,US,1,1,Not Reported,Not Reported,20140314,20140417,0,Not Reported,Not Reported
+10011879,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,1,79,Not Reported
+10012077,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,65,Not Reported
+10012179,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20140710,1,48,Not Reported
+10012204,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,47,Not Reported
+10012229,1,GB,1,Not Reported,1,Not Reported,20140314,20140314,1,58,Not Reported
+10012267,1,US,1,Not Reported,Not Reported,1,20140313,20140313,2,57,Not Reported
+10012368,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,66,Not Reported
+10012428,2,US,1,Not Reported,1,Not Reported,20140314,20140314,1,51,Not Reported
+10012706,3,US,2,Not Reported,Not Reported,Not Reported,20140314,20140407,1,66,Not Reported
+10012749,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140314,20140314,1,Not Reported,Not Reported
+10012859,3,GB,1,Not Reported,Not Reported,Not Reported,20140314,20160301,1,52,Not Reported
+10012932,2,US,2,Not Reported,Not Reported,Not Reported,20140314,20140512,2,41,Not Reported
+10013020,1,US,1,Not Reported,1,Not Reported,20140314,20140314,2,78,Not Reported
+10013367,2,US,1,Not Reported,1,Not Reported,20140314,20140415,2,77,Not Reported
+10013476,3,GB,1,1,Not Reported,Not Reported,20140314,20140418,1,63,Not Reported
+10013527,1,US,1,1,Not Reported,Not Reported,20140314,20140314,1,Not Reported,Not Reported
+10013633,2,US,2,Not Reported,Not Reported,Not Reported,20140315,20140404,2,64,Not Reported
+10013634,2,US,2,Not Reported,Not Reported,Not Reported,20140315,20140404,2,82,Not Reported
+10013743,3,US,1,Not Reported,1,Not Reported,20140316,20150622,2,27,Not Reported
+10014027,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,Not Reported,Not Reported
+10014064,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10014262,5,US,1,Not Reported,1,Not Reported,20140317,20141017,2,60,Not Reported
+10014271,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,Not Reported,Not Reported
+10014309,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,1,Not Reported,Not Reported
+10014366,1,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,68,Not Reported
+10014437,1,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10014561,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,73,Not Reported
+10014862,4,US,1,Not Reported,1,1,20140317,20150616,2,71,Not Reported
+10015014,2,US,1,Not Reported,Not Reported,Not Reported,20140317,20140317,2,73,Not Reported
+10015202,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20140513,2,Not Reported,Not Reported
+10015243,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140320,2,55,Not Reported
+10015286,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140527,2,52,Not Reported
+10015464,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140401,2,61,Not Reported
+10015579,1,COUNTRY NOT SPECIFIED,1,Not Reported,Not Reported,Not Reported,20140317,20140317,1,64,Not Reported
+10015623,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20200302,2,61,Not Reported
+10015708,3,US,2,Not Reported,Not Reported,Not Reported,20140317,20180813,1,50,Not Reported
+10015805,1,US,1,1,1,Not Reported,20140317,20140317,1,80,Not Reported
+10015822,2,US,1,Not Reported,1,Not Reported,20140317,20140522,1,55,Not Reported
+10006040,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,75,Not Reported
+10006041,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,73,Not Reported
+10006139,1,COUNTRY NOT SPECIFIED,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,74,Not Reported
+10006796,2,GB,1,Not Reported,Not Reported,Not Reported,20140311,20140331,2,74,Not Reported
+10008400,2,AU,1,Not Reported,Not Reported,Not Reported,20140313,20140527,2,74,Not Reported
+10010810,2,IT,1,Not Reported,1,Not Reported,20140311,20140318,2,86,Not Reported
+10010855,1,SK,1,Not Reported,1,Not Reported,20140314,20140314,0,82,Not Reported
+10012094,1,US,1,Not Reported,1,Not Reported,20140314,20140314,1,Not Reported,Not Reported
+10012156,2,BE,1,Not Reported,Not Reported,Not Reported,20140314,20151109,Not Reported,Not Reported,Not Reported
+10012579,3,JP,1,1,1,Not Reported,20140314,20140415,2,77,Not Reported
+10012586,4,JP,1,Not Reported,Not Reported,Not Reported,20140314,20140522,2,68,Not Reported
+10012639,1,BR,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,Not Reported,Not Reported
+10013854,2,IT,1,Not Reported,Not Reported,Not Reported,20140316,20140630,0,50,Not Reported
+10013876,1,GB,1,Not Reported,Not Reported,Not Reported,20140316,20140316,2,78,Not Reported
+10015875,4,VN,1,1,1,Not Reported,20140317,20141223,1,78,Not Reported
+10016491,1,IT,1,Not Reported,1,Not Reported,20140317,20140317,1,88,Not Reported
+10016513,3,US,1,1,1,Not Reported,20140317,20141031,2,70,Not Reported
+10017307,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,67,Not Reported
+10017345,1,IT,1,Not Reported,1,Not Reported,20140318,20140318,1,88,Not Reported
+10019164,3,GB,1,Not Reported,1,Not Reported,20140318,20140327,2,68,Not Reported
+10019208,1,GB,1,Not Reported,Not Reported,Not Reported,20140318,20140318,1,60,Not Reported
+10019549,3,GB,1,Not Reported,1,Not Reported,20140318,20140326,2,68,Not Reported
+10019867,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,1,67,Not Reported
+10019999,2,ES,1,1,1,Not Reported,20140318,20140404,0,Not Reported,Not Reported
+10020607,1,HR,1,Not Reported,1,Not Reported,20140319,20140319,0,Not Reported,Not Reported
+10020752,1,GB,1,Not Reported,1,Not Reported,20140319,20140319,2,81,Not Reported
+10021087,1,US,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,85,Not Reported
+10021223,1,JP,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,78,Not Reported
+10021307,1,JP,1,Not Reported,1,Not Reported,20140319,20140319,2,84,Not Reported
+10021366,3,DE,1,Not Reported,Not Reported,Not Reported,20140313,20140320,2,Not Reported,Not Reported
+10021412,1,JP,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,64,Not Reported
+10021886,2,DE,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,Not Reported,Not Reported
+10021887,1,DE,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,Not Reported,Not Reported
+10021924,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,1,81,Not Reported
+10022194,5,US,1,Not Reported,Not Reported,Not Reported,20140319,20191119,2,55,Not Reported
+10022416,1,US,1,Not Reported,1,Not Reported,20140319,20140319,2,59,Not Reported
+10022498,1,IT,1,Not Reported,Not Reported,Not Reported,20140319,20140319,1,81,Not Reported
+10022664,2,DE,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,84,Not Reported
+10024005,2,US,1,Not Reported,1,Not Reported,20140318,20140401,2,58,Not Reported
+10024297,1,US,1,Not Reported,Not Reported,Not Reported,20140320,20140320,2,69,Not Reported
+10024973,3,US,1,Not Reported,1,Not Reported,20140318,20140421,2,83,Not Reported
+10025006,6,CA,1,Not Reported,1,Not Reported,20140320,20141216,2,60,Not Reported
+10025367,1,US,1,Not Reported,1,Not Reported,20140319,20140319,1,57,Not Reported
+10025563,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,63,Not Reported
+10025576,1,US,1,Not Reported,1,Not Reported,20140314,20140314,1,55,Not Reported
+10025579,1,US,1,Not Reported,1,Not Reported,20140320,20140320,1,57,Not Reported
+10025642,1,US,1,Not Reported,Not Reported,Not Reported,20140314,20140314,1,64,Not Reported
+10025952,1,FR,1,Not Reported,Not Reported,1,20140314,20140314,2,68,Not Reported
+10026085,1,GB,1,Not Reported,Not Reported,Not Reported,20140320,20140320,1,48,Not Reported
+10026365,2,US,2,Not Reported,Not Reported,Not Reported,20140321,20140321,1,78,Not Reported
+10026456,1,GB,1,Not Reported,Not Reported,Not Reported,20140321,20140321,1,48,Not Reported
+10026928,1,GB,1,Not Reported,1,Not Reported,20140318,20140318,2,81,Not Reported
+10027789,2,GB,1,Not Reported,1,Not Reported,20140321,20140331,2,51,Not Reported
+10027838,2,GB,1,Not Reported,Not Reported,Not Reported,20140321,20140321,1,48,Not Reported
+10027840,1,GB,1,Not Reported,Not Reported,Not Reported,20140321,20140321,1,48,Not Reported
+10028107,1,US,1,Not Reported,1,Not Reported,20140321,20140321,1,61,Not Reported
+10028344,1,US,1,Not Reported,1,Not Reported,20140307,20140307,1,Not Reported,Not Reported
+10028348,1,KR,1,Not Reported,1,Not Reported,20140319,20140319,2,70,Not Reported
+10028373,5,COUNTRY NOT SPECIFIED,1,Not Reported,Not Reported,Not Reported,20140321,20150828,1,45,Not Reported
+10028444,2,US,1,Not Reported,1,Not Reported,20140320,20140417,1,63,Not Reported
+10028743,1,AU,1,Not Reported,1,Not Reported,20140321,20140321,1,56,Not Reported
+10029007,1,NL,1,Not Reported,1,Not Reported,20140321,20140321,1,77,Not Reported
+10029204,1,VN,1,1,Not Reported,Not Reported,20140321,20140321,1,Not Reported,Not Reported
+10029237,1,IT,1,Not Reported,1,Not Reported,20140321,20140321,2,57,Not Reported
+10029909,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,1,74,Not Reported
+10031302,1,ES,1,Not Reported,Not Reported,Not Reported,20140324,20140324,1,Not Reported,Not Reported
+10031407,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140324,20140324,1,61,Not Reported
+10031420,2,JP,1,Not Reported,1,Not Reported,20140324,20140327,2,84,Not Reported
+10031427,1,US,1,Not Reported,1,Not Reported,20140324,20140324,1,Not Reported,Not Reported
+10031870,2,US,1,Not Reported,1,Not Reported,20140324,20140324,1,61,Not Reported
+10031871,1,US,1,Not Reported,1,Not Reported,20140324,20140324,1,61,Not Reported
+10031951,2,US,1,Not Reported,1,Not Reported,20140324,20140428,1,65,Not Reported
+10032807,5,US,1,Not Reported,1,Not Reported,20140324,20170411,1,72,Not Reported
+10032897,2,US,1,1,Not Reported,Not Reported,20140324,20170519,2,66,Not Reported
+10033877,1,GB,1,Not Reported,1,Not Reported,20140325,20140325,1,83,Not Reported
+10033973,1,GB,1,Not Reported,Not Reported,Not Reported,20140320,20140320,1,48,Not Reported
+10034091,1,GB,1,Not Reported,Not Reported,Not Reported,20140320,20140320,1,48,Not Reported
+10034181,1,GB,1,Not Reported,Not Reported,Not Reported,20140325,20140325,2,66,Not Reported
+10034535,1,US,1,Not Reported,1,Not Reported,20140306,20140306,2,76,Not Reported
+10034586,1,US,1,Not Reported,1,1,20140324,20140324,1,57,Not Reported
+10034589,1,US,1,Not Reported,1,1,20140324,20140324,1,65,Not Reported
+10034701,1,GB,1,Not Reported,Not Reported,Not Reported,20140325,20140325,2,66,Not Reported
+10034743,3,US,1,Not Reported,1,Not Reported,20140325,20140625,1,59,Not Reported
+10034766,2,US,1,Not Reported,1,Not Reported,20140325,20140624,2,78,Not Reported
+10034784,1,US,1,Not Reported,1,Not Reported,20140325,20140325,2,54,Not Reported
+10034787,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,2,76,Not Reported
+10034883,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,1,63,Not Reported
+10035011,2,BR,1,Not Reported,Not Reported,Not Reported,20140325,20140425,1,52,Not Reported
+10035287,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,2,83,Not Reported
+10035908,1,NL,1,Not Reported,1,Not Reported,20140325,20140325,2,Not Reported,Not Reported
+10036239,1,IT,1,Not Reported,Not Reported,Not Reported,20140325,20140325,0,Not Reported,Not Reported
+10036243,1,IT,1,Not Reported,Not Reported,Not Reported,20140325,20140325,0,Not Reported,Not Reported
+10036251,1,IT,1,Not Reported,Not Reported,Not Reported,20140325,20140325,0,Not Reported,Not Reported
+10037075,1,US,1,1,1,1,20140325,20140325,2,74,Not Reported
+10037092,1,US,1,Not Reported,1,Not Reported,20140306,20140306,1,71,Not Reported
+10037345,1,GB,1,Not Reported,Not Reported,Not Reported,20140324,20140324,1,66,Not Reported
+10037563,1,US,1,1,Not Reported,Not Reported,20140326,20140326,1,82,Not Reported
+10037784,2,US,1,Not Reported,1,Not Reported,20140324,20140328,1,61,Not Reported
+10037964,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,2,81,Not Reported
+10037965,2,JP,1,Not Reported,1,Not Reported,20140321,20140411,1,86,Not Reported
+10038176,1,US,1,Not Reported,Not Reported,1,20140306,20140306,1,92,Not Reported
+10038545,1,US,1,Not Reported,1,Not Reported,20140306,20140306,2,84,Not Reported
+10038581,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,1,69,Not Reported
+10038621,1,US,1,Not Reported,1,Not Reported,20140306,20140306,1,75,Not Reported
+10038624,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,1,75,Not Reported
+10038629,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,2,82,Not Reported
+10038643,1,US,1,Not Reported,1,Not Reported,20140306,20140306,1,67,Not Reported
+10038735,3,TR,1,Not Reported,1,Not Reported,20140326,20180918,1,46,Not Reported
+10038765,2,JP,1,Not Reported,1,Not Reported,20140326,20140326,2,64,Not Reported
+10039022,1,IT,1,Not Reported,Not Reported,Not Reported,20140326,20140326,0,Not Reported,Not Reported
+10039031,1,IT,1,Not Reported,Not Reported,Not Reported,20140326,20140326,0,Not Reported,Not Reported
+10039039,1,IT,1,Not Reported,Not Reported,Not Reported,20140326,20140326,0,Not Reported,Not Reported
+10039054,1,IT,1,Not Reported,Not Reported,Not Reported,20140326,20140326,0,Not Reported,Not Reported
+10039082,1,US,1,Not Reported,1,Not Reported,20140306,20140306,1,81,Not Reported
+10039419,1,GB,1,Not Reported,Not Reported,Not Reported,20140326,20140326,1,66,Not Reported
+10039678,1,US,1,Not Reported,1,Not Reported,20140326,20140326,1,55,Not Reported
+10039740,1,IT,1,Not Reported,Not Reported,Not Reported,20140326,20140326,1,78,Not Reported
+10039930,5,US,1,Not Reported,Not Reported,Not Reported,20140326,20140414,1,Not Reported,Not Reported
+10039956,2,HU,1,1,1,Not Reported,20140326,20140327,1,62,Not Reported
+10040037,2,DE,1,Not Reported,Not Reported,1,20140326,20140326,1,50,Not Reported
+10040146,2,US,1,Not Reported,1,Not Reported,20140326,20140429,1,73,Not Reported
+10040534,2,JP,1,Not Reported,1,Not Reported,20140327,20140408,2,79,Not Reported
+10041008,2,CN,1,Not Reported,Not Reported,Not Reported,20140327,20140327,2,76,Not Reported
+10041194,1,US,1,Not Reported,1,Not Reported,20140326,20140326,1,64,Not Reported
+10041320,2,BR,1,Not Reported,1,Not Reported,20140327,20140404,2,79,Not Reported
+10041505,3,JP,1,Not Reported,1,Not Reported,20140327,20140529,0,Not Reported,Not Reported
+10041612,1,CN,1,1,Not Reported,Not Reported,20140327,20140327,0,Not Reported,Not Reported
+10041629,1,GB,1,Not Reported,Not Reported,Not Reported,20140325,20140325,1,68,Not Reported
+10042014,1,US,1,Not Reported,Not Reported,Not Reported,20140327,20140327,2,89,Not Reported
+10042375,2,BR,1,1,1,Not Reported,20140327,20190103,2,75,Not Reported
+10042392,1,IT,1,Not Reported,1,Not Reported,20140327,20140327,2,57,Not Reported
+10042501,1,AU,1,Not Reported,Not Reported,Not Reported,20140327,20140327,2,72,Not Reported
+10042530,3,US,1,Not Reported,1,Not Reported,20140325,20140411,0,59,Not Reported
+10042666,1,US,1,Not Reported,1,Not Reported,20140325,20140325,1,55,Not Reported
+10042960,3,GB,1,Not Reported,1,1,20140328,20171128,1,77,Not Reported
+10043209,1,GB,1,Not Reported,1,Not Reported,20140328,20140328,0,Not Reported,Not Reported
+10043553,1,GB,1,Not Reported,Not Reported,1,20140328,20140328,2,73,Not Reported
+10043630,1,GB,1,Not Reported,Not Reported,Not Reported,20140328,20140328,1,66,Not Reported
+10043767,1,US,1,1,Not Reported,Not Reported,20140326,20140326,1,47,Not Reported
+10044384,1,US,1,Not Reported,1,Not Reported,20140328,20140328,2,74,Not Reported
+10044388,4,CA,1,Not Reported,Not Reported,Not Reported,20140328,20140605,1,54,Not Reported
+10044575,1,US,1,Not Reported,Not Reported,Not Reported,20140328,20140328,1,85,Not Reported
+10045149,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140328,20140328,1,29,Not Reported
+10045237,2,FR,1,Not Reported,1,Not Reported,20140328,20160810,1,31710,Not Reported
+10045328,1,US,1,Not Reported,Not Reported,Not Reported,20140306,20140306,1,78,Not Reported
+10045495,2,US,2,Not Reported,Not Reported,Not Reported,20140328,20140509,2,65,Not Reported
+10045714,1,US,1,Not Reported,1,Not Reported,20140306,20140306,2,86,Not Reported
+10045787,1,GB,1,Not Reported,Not Reported,1,20140328,20140328,2,73,Not Reported
+10046084,1,US,1,Not Reported,Not Reported,Not Reported,20140326,20140326,1,83,Not Reported
+10046659,2,US,1,Not Reported,1,1,20140326,20140709,2,55,Not Reported
+10046690,3,DE,1,Not Reported,1,Not Reported,20140331,20140512,1,73,Not Reported
+10047086,1,US,2,Not Reported,Not Reported,Not Reported,20140331,20140331,1,64,Not Reported
+10047334,2,DE,1,Not Reported,1,Not Reported,20140331,20140528,1,70,Not Reported
+10047515,1,US,1,Not Reported,1,Not Reported,20140327,20140327,2,73,Not Reported
+10047641,1,US,1,Not Reported,Not Reported,Not Reported,20140331,20140331,1,49,Not Reported
+10047985,1,US,1,Not Reported,1,Not Reported,20140331,20140331,2,65,Not Reported
+10048357,2,DE,1,1,1,Not Reported,20140331,20140424,1,Not Reported,Not Reported
+10048576,1,GB,1,Not Reported,1,Not Reported,20140331,20140331,2,75,Not Reported
+10048608,1,FR,1,Not Reported,1,Not Reported,20140331,20140331,2,56,Not Reported
+10048654,1,US,2,Not Reported,Not Reported,Not Reported,20140331,20140331,2,66,Not Reported
+10049517,1,US,1,1,Not Reported,Not Reported,20140331,20140331,2,86,Not Reported
+10049634,1,GB,1,Not Reported,1,Not Reported,20140401,20140401,2,75,Not Reported
+10050169,1,SE,1,1,1,Not Reported,20140401,20140401,0,Not Reported,Not Reported
+10050187,1,SE,1,1,Not Reported,Not Reported,20140401,20140401,0,Not Reported,Not Reported
+10050191,1,BR,1,Not Reported,Not Reported,Not Reported,20140401,20140401,1,67,Not Reported
+10050244,1,PT,1,Not Reported,Not Reported,Not Reported,20140401,20140401,2,Not Reported,Not Reported
+10050361,1,GB,1,Not Reported,1,Not Reported,20140401,20140401,1,83,Not Reported
+10050386,1,GB,1,Not Reported,1,Not Reported,20140401,20140401,2,51,Not Reported
+10050392,1,US,1,Not Reported,Not Reported,Not Reported,20140401,20140401,1,85,Not Reported
+10050417,1,COUNTRY NOT SPECIFIED,1,1,Not Reported,Not Reported,20140401,20140401,2,53,Not Reported
+10003329,11,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140312,20150430,2,79,Not Reported
+10003470,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20150812,2,63,Not Reported
+10003652,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20150812,2,60,Not Reported
+10003749,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140312,20140326,2,Not Reported,Not Reported
+10003754,1,ES,1,Not Reported,1,Not Reported,20140312,20140312,2,77,Not Reported
+10003923,7,US,1,Not Reported,Not Reported,Not Reported,20140312,20170119,2,Not Reported,Not Reported
+10004116,3,FR,1,Not Reported,1,Not Reported,20140312,20140908,1,65,Not Reported
+10004285,3,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140312,20150117,2,54,Not Reported
+10004771,2,FR,1,Not Reported,1,Not Reported,20140312,20140911,1,65,Not Reported
+10005005,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,59,Not Reported
+10005033,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,2,64,Not Reported
+10005100,2,JP,1,Not Reported,Not Reported,Not Reported,20140312,20140312,0,Not Reported,Not Reported
+10005346,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140320,2,91,Not Reported
+10005780,2,IT,1,1,Not Reported,Not Reported,20140313,20140327,2,45,Not Reported
+10005923,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,76,Not Reported
+10006272,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,79,Not Reported
+10006584,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10006603,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,81,Not Reported
+10006778,1,US,1,Not Reported,1,Not Reported,20140311,20140311,1,68,Not Reported
+10006861,1,FR,1,Not Reported,1,Not Reported,20140311,20140311,2,89,Not Reported
+10006869,1,US,1,Not Reported,1,Not Reported,20140311,20140311,2,17,Not Reported
+10007000,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20150813,2,65,Not Reported
+10007002,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,83,Not Reported
+10007186,1,US,1,Not Reported,1,Not Reported,20140312,20140312,2,69,Not Reported
+10007358,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,84,Not Reported
+10007385,1,TN,1,Not Reported,1,Not Reported,20140311,20140311,2,59,Not Reported
+10007653,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150812,2,52,Not Reported
+10008014,7,US,1,Not Reported,1,Not Reported,20140313,20140410,1,89,Not Reported
+10008071,3,IT,1,Not Reported,1,Not Reported,20140313,20140529,2,86,Not Reported
+10008125,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,1,66,Not Reported
+10008134,1,MY,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,80,Not Reported
+10008621,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10008645,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,71,Not Reported
+10008661,2,FR,1,Not Reported,1,Not Reported,20140313,20140313,0,Not Reported,Not Reported
+10008697,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,65,Not Reported
+10008730,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,84,Not Reported
+10008886,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,78,Not Reported
+10008976,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,80,Not Reported
+10009032,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,2,82,Not Reported
+10009050,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150812,2,51,Not Reported
+10009166,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,2,76,Not Reported
+10009175,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,2,68,Not Reported
+10009226,3,US,2,Not Reported,Not Reported,Not Reported,20140313,20150814,1,59,Not Reported
+10009373,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,91,Not Reported
+10009378,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,65,Not Reported
+10009403,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10009422,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,75,Not Reported
+10009446,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,81,Not Reported
+10009512,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,91,Not Reported
+10009568,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,71,Not Reported
+10009589,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10009659,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,0,Not Reported,Not Reported
+10009689,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,75,Not Reported
+10009892,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,64,Not Reported
+10009920,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,1,96,Not Reported
+10010049,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,67,Not Reported
+10010062,2,IT,1,Not Reported,1,Not Reported,20140313,20140319,2,86,Not Reported
+10010074,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10010165,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,79,Not Reported
+10010193,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,79,Not Reported
+10010222,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10010271,2,US,1,Not Reported,Not Reported,Not Reported,20140314,20140407,2,58,Not Reported
+10010471,1,US,2,Not Reported,Not Reported,Not Reported,20140314,20140314,2,Not Reported,Not Reported
+10010652,3,JP,1,Not Reported,1,Not Reported,20140314,20150922,1,75,Not Reported
+10011344,1,AU,1,1,1,Not Reported,20140311,20140311,2,75,Not Reported
+10011549,1,JP,1,1,Not Reported,Not Reported,20140314,20140314,2,2,Not Reported
+10011692,1,US,1,1,1,Not Reported,20140312,20140312,2,78,Not Reported
+10011862,2,IT,1,1,1,Not Reported,20140314,20140324,2,58,Not Reported
+10011864,5,US,1,Not Reported,Not Reported,Not Reported,20140314,20141226,2,62,Not Reported
+10012101,6,JP,1,1,Not Reported,Not Reported,20140314,20161222,1,77,Not Reported
+10012143,6,US,1,Not Reported,1,Not Reported,20140314,20160407,1,Not Reported,Not Reported
+10012436,11,US,1,Not Reported,1,Not Reported,20140314,20180214,2,31,Not Reported
+10012448,3,JP,1,1,1,Not Reported,20140314,20140821,2,78,Not Reported
+10012675,2,FR,1,Not Reported,Not Reported,Not Reported,20140314,20140710,2,53,Not Reported
+10012916,1,IT,1,Not Reported,1,Not Reported,20140314,20140314,1,82,Not Reported
+10012951,1,FR,1,Not Reported,Not Reported,Not Reported,20140314,20140314,2,67,Not Reported
+10012955,5,ES,1,Not Reported,1,Not Reported,20140314,20170530,Not Reported,Not Reported,Not Reported
+10013688,2,IE,1,Not Reported,Not Reported,Not Reported,20140315,20140315,1,6,Not Reported
+10013875,2,IT,1,Not Reported,1,Not Reported,20140316,20141121,Not Reported,Not Reported,Not Reported
+10013967,2,FR,1,Not Reported,1,Not Reported,20140316,20140804,1,87,Not Reported
+10013993,1,GB,1,Not Reported,1,Not Reported,20140317,20140317,2,67,Not Reported
+10013994,1,GB,1,Not Reported,1,Not Reported,20140317,20140317,2,47,Not Reported
+10014432,46,CA,1,2,1,2,20140317,20230424,2,64,Not Reported
+10014535,11,US,1,1,Not Reported,Not Reported,20140317,20170721,1,77,Not Reported
+10014593,2,JP,1,1,1,Not Reported,20140317,20140801,2,42,Not Reported
+10014722,3,DK,1,1,1,Not Reported,20140317,20140328,1,68,Not Reported
+10014757,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20150401,2,48,Not Reported
+10014839,1,KR,1,1,Not Reported,Not Reported,20140317,20140317,1,53,Not Reported
+10014984,1,US,1,Not Reported,1,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10015189,3,US,1,Not Reported,Not Reported,Not Reported,20140317,20141104,2,42,Not Reported
+10015245,2,US,2,Not Reported,Not Reported,Not Reported,20140317,20140317,2,57,Not Reported
+10015467,3,SE,1,Not Reported,1,Not Reported,20140317,20150317,2,79,Not Reported
+10015470,3,US,1,Not Reported,1,Not Reported,20140317,20150717,2,75,Not Reported
+10015938,1,FR,1,Not Reported,1,Not Reported,20140317,20140317,1,66,Not Reported
+10016166,2,DK,1,1,1,Not Reported,20140317,20140326,1,68,Not Reported
+10016639,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140317,20140317,2,Not Reported,Not Reported
+10016690,2,IT,1,Not Reported,Not Reported,Not Reported,20140317,20140702,2,82,Not Reported
+10016753,2,ES,1,Not Reported,1,Not Reported,20140318,20140326,2,73,Not Reported
+10016771,3,COUNTRY NOT SPECIFIED,1,1,1,Not Reported,20140318,20140324,2,91,Not Reported
+10017113,2,NO,1,1,1,Not Reported,20140318,20140318,1,73,Not Reported
+10017192,1,US,1,1,Not Reported,Not Reported,20140318,20140318,1,Not Reported,Not Reported
+10017313,1,US,1,Not Reported,1,Not Reported,20140318,20140318,1,70,Not Reported
+10017475,4,CA,1,1,1,Not Reported,20140318,20160308,1,65,Not Reported
+10017880,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,66,Not Reported
+10017905,2,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,39,Not Reported
+10018149,1,US,1,1,Not Reported,Not Reported,20140312,20140312,2,74,Not Reported
+10018676,1,CA,1,1,Not Reported,Not Reported,20140318,20140318,2,24,Not Reported
+10018701,1,US,1,Not Reported,Not Reported,Not Reported,20140318,20140318,1,Not Reported,Not Reported
+10018903,2,FR,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,79,Not Reported
+10018904,2,NL,1,1,1,Not Reported,20140318,20140410,2,77,Not Reported
+10018905,2,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140318,20140516,2,58,Not Reported
+10018926,5,US,1,Not Reported,Not Reported,Not Reported,20140318,20160713,2,Not Reported,Not Reported
+10018929,13,US,1,Not Reported,1,Not Reported,20140318,20160805,2,49,Not Reported
+10018983,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140318,20140318,2,74,Not Reported
+10019043,3,US,1,Not Reported,1,Not Reported,20140318,20140513,0,Not Reported,Not Reported
+10019165,1,GB,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,63,Not Reported
+10019224,12,US,1,Not Reported,1,Not Reported,20140318,20150121,1,85,Not Reported
+10019396,1,COUNTRY NOT SPECIFIED,1,Not Reported,Not Reported,Not Reported,20140318,20140318,2,85,Not Reported
+10019398,1,GB,1,Not Reported,Not Reported,Not Reported,20140318,20140318,1,78,Not Reported
+10019399,2,US,1,1,1,Not Reported,20140318,20140401,1,69,Not Reported
+10019434,6,US,1,Not Reported,1,Not Reported,20140318,20150624,1,76,Not Reported
+10019609,2,US,1,Not Reported,Not Reported,Not Reported,20140318,20140430,2,55,Not Reported
+10019642,1,ES,1,Not Reported,1,Not Reported,20140318,20140318,2,88,Not Reported
+10019980,7,JP,1,Not Reported,Not Reported,Not Reported,20140318,20160714,2,48,Not Reported
+10019981,1,US,2,Not Reported,Not Reported,Not Reported,20140318,20140318,2,85,Not Reported
+10020023,2,DE,1,1,1,Not Reported,20140318,20140326,1,45,Not Reported
+10020314,3,US,1,Not Reported,1,Not Reported,20140319,20140902,2,50,Not Reported
+10020584,3,US,1,Not Reported,1,1,20140319,20140805,2,65,Not Reported
+10020643,1,US,1,Not Reported,1,Not Reported,20140319,20140319,0,Not Reported,Not Reported
+10020680,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,1,78,Not Reported
+10020804,1,GB,1,Not Reported,Not Reported,Not Reported,20140319,20140319,1,84,Not Reported
+10020880,1,US,1,Not Reported,1,Not Reported,20140318,20140318,1,76,Not Reported
+10020968,1,US,1,Not Reported,Not Reported,Not Reported,20140319,20140319,2,78,Not Reported
+10020994,4,DK,1,1,Not Reported,Not Reported,20140313,20140409,1,68,Not Reported
+10021217,4,ES,1,1,Not Reported,Not Reported,20140319,20161205,2,55,Not Reported
+10003304,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140424,2,Not Reported,Not Reported
+10003595,1,US,1,Not Reported,1,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10003740,1,GB,1,Not Reported,1,Not Reported,20140312,20140312,1,82,Not Reported
+10003864,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,72,Not Reported
+10004085,2,DE,1,Not Reported,1,Not Reported,20140312,20140618,0,Not Reported,Not Reported
+10004114,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,72,Not Reported
+10004130,3,US,2,Not Reported,Not Reported,Not Reported,20140312,20140912,2,75,Not Reported
+10004138,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,64,Not Reported
+10004140,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,68,Not Reported
+10004144,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,75,Not Reported
+10004211,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140313,2,26,Not Reported
+10004221,3,US,1,Not Reported,1,Not Reported,20140312,20140425,2,64,Not Reported
+10004254,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140502,1,69,Not Reported
+10004465,2,US,1,Not Reported,1,Not Reported,20140312,20140312,1,62,Not Reported
+10004486,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,62,Not Reported
+10004589,3,US,1,Not Reported,Not Reported,Not Reported,20140312,20140611,2,72,Not Reported
+10004604,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140430,1,88,Not Reported
+10004608,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140611,2,Not Reported,Not Reported
+10004634,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10004707,4,US,1,Not Reported,1,Not Reported,20140312,20140820,2,71,Not Reported
+10004795,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20191101,2,57,Not Reported
+10004803,2,US,1,Not Reported,1,Not Reported,20140312,20191104,2,46,Not Reported
+10004896,5,US,2,Not Reported,Not Reported,Not Reported,20140312,20180209,2,64,Not Reported
+10004923,2,COUNTRY NOT SPECIFIED,1,1,Not Reported,Not Reported,20140312,20140415,1,88,Not Reported
+10004971,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,84,Not Reported
+10005001,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,83,Not Reported
+10005231,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10005289,2,US,1,1,1,Not Reported,20140312,20140715,1,54,Not Reported
+10005296,1,US,1,Not Reported,1,Not Reported,20140312,20140312,1,72,Not Reported
+10005416,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,40,Not Reported
+10005542,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,49,Not Reported
+10005562,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140326,1,43,Not Reported
+10005664,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,68,Not Reported
+10005676,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,58,Not Reported
+10005772,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10005826,2,DE,1,Not Reported,1,Not Reported,20140313,20140313,2,75,Not Reported
+10005888,4,US,1,Not Reported,1,1,20140313,20180307,1,54,Not Reported
+10005993,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20140417,2,66,Not Reported
+10006097,4,US,2,Not Reported,Not Reported,Not Reported,20140313,20140613,1,63,Not Reported
+10006105,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10006117,3,US,1,1,Not Reported,Not Reported,20140313,20140324,2,67,Not Reported
+10006156,1,US,1,1,Not Reported,Not Reported,20140313,20140313,1,73,Not Reported
+10006158,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,Not Reported,Not Reported
+10006168,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,67,Not Reported
+10006170,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10006179,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,57,Not Reported
+10006203,2,GB,1,Not Reported,Not Reported,Not Reported,20140313,20150331,1,85,Not Reported
+10006218,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20140502,2,Not Reported,Not Reported
+10006236,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140326,2,Not Reported,Not Reported
+10006274,1,GB,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,83,Not Reported
+10006374,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20150217,2,54,Not Reported
+10006398,1,US,1,Not Reported,1,Not Reported,20140313,20140313,2,75,Not Reported
+10006449,1,US,1,Not Reported,1,Not Reported,20140311,20140311,1,12,Not Reported
+10006483,5,US,1,Not Reported,Not Reported,Not Reported,20140313,20150216,2,67,Not Reported
+10006498,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,65,Not Reported
+10006522,1,US,1,Not Reported,1,Not Reported,20140313,20140313,1,78,Not Reported
+10006576,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140618,2,59,Not Reported
+10006583,8,US,1,Not Reported,1,1,20140313,20141222,2,59,Not Reported
+10006746,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20150813,2,66,Not Reported
+10006834,1,US,1,Not Reported,1,Not Reported,20140311,20140311,1,69,Not Reported
+10007059,3,US,1,Not Reported,Not Reported,Not Reported,20140311,20140714,2,29,Not Reported
+10007132,15,US,1,Not Reported,1,Not Reported,20140313,20150327,1,76,Not Reported
+10007380,2,CA,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,75,Not Reported
+10007455,3,US,1,Not Reported,Not Reported,Not Reported,20140313,20150415,2,52,Not Reported
+10007511,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140612,2,75,Not Reported
+10007541,4,US,1,Not Reported,Not Reported,Not Reported,20140313,20141006,2,58,Not Reported
+10007648,1,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10008011,3,US,1,1,Not Reported,Not Reported,20140313,20140321,2,67,Not Reported
+10008054,1,DE,1,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10008154,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140331,2,72,Not Reported
+10008431,1,GB,1,Not Reported,1,Not Reported,20140313,20140313,2,78,Not Reported
+10008463,6,US,1,Not Reported,Not Reported,Not Reported,20140313,20150427,2,69,Not Reported
+10008535,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,79,Not Reported
+10008542,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,54,Not Reported
+10008573,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,81,Not Reported
+10008600,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,76,Not Reported
+10008608,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10008630,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,76,Not Reported
+10008680,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10008682,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,64,Not Reported
+10008684,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,60,Not Reported
+10008694,1,COUNTRY NOT SPECIFIED,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,85,Not Reported
+10008706,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,76,Not Reported
+10008720,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,79,Not Reported
+10008742,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,71,Not Reported
+10008750,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,Not Reported,Not Reported
+10008758,2,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,83,Not Reported
+10008760,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,64,Not Reported
+10008785,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,69,Not Reported
+10008798,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,61,Not Reported
+10008801,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,59,Not Reported
+10008822,2,COUNTRY NOT SPECIFIED,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10008832,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,70,Not Reported
+10008857,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,82,Not Reported
+10008865,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,77,Not Reported
+10008870,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,79,Not Reported
+10008934,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,64,Not Reported
+10008937,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,84,Not Reported
+10008938,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,70,Not Reported
+10008951,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,60,Not Reported
+10008956,2,BG,1,Not Reported,1,Not Reported,20140313,20140313,1,51,Not Reported
+10008981,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,83,Not Reported
+10009000,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,74,Not Reported
+10009012,2,COUNTRY NOT SPECIFIED,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,71,Not Reported
+10009030,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,2,75,Not Reported
+10009043,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,65,Not Reported
+10009079,1,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10009348,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,82,Not Reported
+10009384,2,US,1,Not Reported,Not Reported,Not Reported,20140313,20140313,2,64,Not Reported
+10009440,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10009445,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,76,Not Reported
+10009453,3,US,1,1,2,2,20140313,20211020,Not Reported,Not Reported,Not Reported
+10009460,1,COUNTRY NOT SPECIFIED,1,Not Reported,1,Not Reported,20140313,20140313,2,64,Not Reported
+10009462,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,67,Not Reported
+10009473,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,70,Not Reported
+10009474,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,1,78,Not Reported
+10009479,1,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,Not Reported,Not Reported
+10009484,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,Not Reported,Not Reported
+10009486,2,US,2,Not Reported,Not Reported,Not Reported,20140312,20140312,2,79,Not Reported
+10009494,2,US,2,Not Reported,Not Reported,Not Reported,20140313,20140313,1,83,Not Reported
+10009500,2,US,1,1,1,Not Reported,20140313,20140324,2,85,Not Reported
+10009511,1,US,1,Not Reported,Not Reported,Not Reported,20140312,20140312,2,66,Not Reported

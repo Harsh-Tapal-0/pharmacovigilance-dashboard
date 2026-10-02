@@ -1,0 +1,4469 @@
+report_id,reaction_name,reaction_outcome
+10003701,Chronic obstructive pulmonary disease,6
+10003701,Emphysema,6
+10003701,Bronchitis,6
+10003701,Dyspnoea,6
+10003701,Stress,6
+10003701,Anxiety,6
+10003713,Rash,6
+10003713,Dyspnoea,6
+10003859,Blood count abnormal,6
+10003859,Platelet count decreased,1
+10003922,Headache,3
+10003922,Drug effect incomplete,3
+10004175,Skin discolouration,1
+10004175,Rash,1
+10004186,Thrombotic microangiopathy,5
+10004186,Renal impairment,5
+10004186,Hepatic failure,5
+10004186,Mental status changes,5
+10004186,Stem cell transplant,5
+10004186,Graft versus host disease,5
+10004186,Fatigue,3
+10004186,Drug administration error,6
+10004302,Renal impairment,1
+10004302,Hyperkalaemia,1
+10004302,Iron deficiency anaemia,6
+10004302,Chronic gastritis,6
+10004340,Mental status changes,1
+10004360,Grand mal convulsion,1
+10004360,Postictal state,1
+10004383,Neuropathy peripheral,4
+10004383,Muscle spasms,4
+10004383,Myopathy,4
+10004383,Sleep disorder,4
+10004383,Blood glucose increased,4
+10004421,Dyspnoea,1
+10004421,Throat tightness,2
+10004428,Cerebrovascular accident,6
+10004428,Weight increased,2
+10004428,Withdrawal syndrome,6
+10004489,Drug hypersensitivity,6
+10004489,Rash,6
+10004497,Haematuria,6
+10004497,Pyrexia,6
+10004497,Myalgia,6
+10004497,Urinary tract infection,6
+10004505,Angiopathy,6
+10004505,Hearing impaired,6
+10004554,Cardiac stress test abnormal,2
+10004554,Arteriogram coronary abnormal,2
+10004554,Weight decreased,3
+10004599,Dysgeusia,3
+10004642,Vomiting,1
+10004642,Diplopia,1
+10004642,Gait disturbance,1
+10004642,Balance disorder,1
+10004642,Dyspnoea,1
+10004642,Gastroenteritis,1
+10004642,Dizziness,1
+10004661,Glucose tolerance impaired,3
+10004661,Type 2 diabetes mellitus,3
+10004694,Cataract,6
+10004694,Type 2 diabetes mellitus,6
+10004698,Type 2 diabetes mellitus,3
+10004818,Type 2 diabetes mellitus,3
+10004825,Myalgia,2
+10004825,Muscular weakness,2
+10004825,Fall,6
+10004825,Blood sodium decreased,6
+10004827,Type 2 diabetes mellitus,3
+10004843,Type 2 diabetes mellitus,3
+10004856,Type 2 diabetes mellitus,3
+10004862,Type 2 diabetes mellitus,3
+10004876,Type 2 diabetes mellitus,3
+10004879,Type 2 diabetes mellitus,3
+10004879,Diabetic dermopathy,3
+10004934,Type 2 diabetes mellitus,3
+10004940,Type 2 diabetes mellitus,3
+10004957,Type 2 diabetes mellitus,3
+10005122,Type 2 diabetes mellitus,3
+10005217,Type 2 diabetes mellitus,3
+10005217,Impaired gastric emptying,3
+10005238,Joint swelling,4
+10005238,Pain in extremity,4
+10005238,Anxiety,4
+10005238,Disturbance in attention,4
+10005238,Fatigue,1
+10005238,Insomnia,4
+10005489,Dysgeusia,3
+10005803,Asthma,2
+10005824,Urticaria,2
+10005824,Drug interaction,6
+10006049,Death,5
+10006049,Respiratory distress,3
+10006049,Anaemia,3
+10006049,Haematochezia,3
+10006074,Subarachnoid haemorrhage,5
+10006074,Cerebral haematoma,5
+10006074,Haematemesis,5
+10006143,Death,5
+10006145,Abdominal pain upper,6
+10006145,Angina unstable,6
+10006145,Cold sweat,6
+10006145,Nausea,6
+10006145,Vomiting,6
+10006213,Type 2 diabetes mellitus,6
+10006364,Type 2 diabetes mellitus,3
+10006364,Neuropathy peripheral,6
+10006364,Pain,6
+10006364,Pruritus,6
+10006371,Neuropathy peripheral,3
+10006371,Type 2 diabetes mellitus,3
+10006383,Cardiac disorder,6
+10006383,Visual acuity reduced,3
+10006383,Eye swelling,3
+10006383,Off label use,3
+10006383,Limb injury,6
+10006388,Neuropathy peripheral,3
+10006388,Type 2 diabetes mellitus,3
+10006401,Chillblains,6
+10006401,Pain in extremity,2
+10006401,Oedema peripheral,2
+10006489,Type 2 diabetes mellitus,3
+10006492,Small fibre neuropathy,3
+10006508,Small fibre neuropathy,6
+10006564,Type 2 diabetes mellitus,3
+10006566,Type 2 diabetes mellitus,3
+10006578,Type 2 diabetes mellitus,3
+10006581,Fatigue,6
+10006581,Asthenia,6
+10006581,Type 2 diabetes mellitus,3
+10006601,Syncope,2
+10006601,Fall,2
+10006601,Joint swelling,2
+10006601,Rheumatoid arthritis,6
+10006601,Painful respiration,2
+10006601,Skeletal injury,2
+10006601,Pain,2
+10006601,Swelling,2
+10006601,Excoriation,2
+10006622,Nightmare,3
+10006622,Arthralgia,3
+10006639,Myalgia,6
+10006651,Weight increased,Not Reported
+10006651,Hypoglycaemia,Not Reported
+10006651,Impaired driving ability,Not Reported
+10006655,Muscle spasms,6
+10006683,Application site paraesthesia,Not Reported
+10006683,Application site pain,Not Reported
+10006683,Application site erythema,Not Reported
+10006683,Application site exfoliation,Not Reported
+10006683,Drug administration error,Not Reported
+10006683,Inappropriate schedule of drug administration,Not Reported
+10007107,Oedema peripheral,6
+10007107,Fluid retention,6
+10007163,Mental status changes,Not Reported
+10007163,Pain,Not Reported
+10007188,Type 2 diabetes mellitus,3
+10007188,Glucose tolerance impaired,3
+10007229,Trigeminal palsy,1
+10007348,Breast cancer metastatic,3
+10007348,Nasopharyngitis,3
+10007348,Drug hypersensitivity,6
+10007365,Overdose,2
+10007365,Coma scale abnormal,2
+10007365,Heart rate decreased,2
+10007365,Blood pressure systolic decreased,1
+10007365,Metabolic acidosis,6
+10007386,Dyspnoea,Not Reported
+10007386,Cough,Not Reported
+10007386,Pleural effusion,Not Reported
+10007386,Pneumonia,Not Reported
+10007386,Anaemia,Not Reported
+10007453,Dysgeusia,3
+10007454,Haematuria,6
+10007454,Pyrexia,6
+10007454,Myalgia,6
+10007454,Urinary tract infection,6
+10007499,Type 2 diabetes mellitus,3
+10007499,Cerebrovascular accident,3
+10007542,Type 2 diabetes mellitus,3
+10007542,Neuropathy peripheral,3
+10007638,Type 2 diabetes mellitus,6
+10008027,Pneumonia,3
+10008035,Cardiac arrest,5
+10008035,Tachyarrhythmia,5
+10008035,Toxic epidermal necrolysis,2
+10008035,Purpura,6
+10008035,Blister,2
+10008035,Pyrexia,6
+10008035,Skin erosion,2
+10008035,Nikolsky^s sign,2
+10008035,Skin lesion,2
+10008035,Azotaemia,6
+10008035,Leukopenia,6
+10008035,Conjunctivitis,6
+10008035,Pulmonary sepsis,6
+10008035,Skin exfoliation,6
+10008035,Inflammation,6
+10008035,General physical health deterioration,6
+10008035,Hyperglycaemia,6
+10008035,Wound healing normal,6
+10008035,Renal failure,6
+10008039,Type 2 diabetes mellitus,3
+10008081,Type 2 diabetes mellitus,6
+10008082,Diabetic neuropathy,3
+10008082,Type 2 diabetes mellitus,3
+10008151,Cerebrovascular accident,6
+10008151,Weight increased,2
+10008151,Withdrawal syndrome,6
+10008226,Unevaluable event,6
+10008226,Deafness,6
+10008226,Middle ear effusion,6
+10008427,Type 2 diabetes mellitus,3
+10008427,Burning sensation,3
+10008437,Application site vesicles,Not Reported
+10008437,Application site pain,Not Reported
+10008471,Pulmonary alveolar haemorrhage,6
+10008471,Respiratory failure,6
+10008471,Epistaxis,6
+10008471,Rectal haemorrhage,6
+10008471,Haematospermia,6
+10008471,Haemorrhage,6
+10008490,Neutropenia,3
+10008490,Anaemia,1
+10008490,Pancytopenia,6
+10008490,Thrombocytopenia,3
+10008721,Tooth loss,6
+10008721,Somnolence,6
+10008756,Lipids abnormal,1
+10008756,Liver function test abnormal,1
+10008756,Platelet count decreased,1
+10008862,Rash erythematous,6
+10008862,Eye irritation,6
+10008862,Pruritus,6
+10008862,Ocular hyperaemia,6
+10008862,Eye swelling,6
+10008862,Foreign body sensation in eyes,6
+10008862,Swelling face,6
+10008862,Feeling hot,6
+10009033,Application site discomfort,Not Reported
+10009033,Application site erythema,Not Reported
+10009342,Cerebrovascular accident,6
+10009342,Weight increased,2
+10009342,Withdrawal syndrome,6
+10009416,Haematuria,6
+10009416,Urinary tract infection,6
+10009416,Pyrexia,6
+10009416,Myalgia,6
+10009791,Diarrhoea,1
+10009791,Headache,1
+10009791,Dizziness,1
+10010008,Anaemia,3
+10010008,Drug ineffective,6
+10010346,Intestinal obstruction,6
+10010346,Hearing impaired,6
+10010346,Arterial occlusive disease,6
+10010346,Coronary artery occlusion,6
+10010346,Renal impairment,6
+10010481,Convulsion,6
+10010481,Influenza,6
+10010481,Hirsutism,6
+10010481,Alopecia,6
+10010497,Urinary tract infection,6
+10010497,Haematuria,6
+10010497,Pyrexia,6
+10010497,Myalgia,6
+10010580,Pain in extremity,Not Reported
+10010580,Arthralgia,Not Reported
+10010580,Gait disturbance,Not Reported
+10010580,Product substitution issue,Not Reported
+10010587,Movement disorder,1
+10010587,Chest pain,1
+10010587,Neck pain,1
+10010587,Myalgia,1
+10010587,Pain in extremity,1
+10010594,Anaemia,Not Reported
+10010594,Gastritis haemorrhagic,Not Reported
+10010663,Drug ineffective,6
+10010663,Product quality issue,6
+10010707,Faecaloma,Not Reported
+10010758,Upper respiratory tract inflammation,3
+10010794,Expired drug administered,6
+10010794,Fatigue,3
+10010794,Headache,3
+10010794,Throat irritation,3
+10010794,Upper-airway cough syndrome,3
+10010794,Vomiting,3
+10010849,Urinary tract infection,6
+10010849,Pyrexia,6
+10010849,Haematuria,6
+10010849,Myalgia,6
+10010869,Epistaxis,1
+10010879,Myocardial infarction,1
+10010879,Nausea,1
+10010879,Weight increased,6
+10010879,Headache,1
+10010879,Dizziness,1
+10010879,Angina pectoris,1
+10010879,Fatigue,1
+10010879,Hyperhidrosis,1
+10010964,Pollakiuria,1
+10010964,Drug ineffective,6
+10011270,Cyst rupture,1
+10011270,Chromaturia,3
+10011384,Anaemia,6
+10011472,Abdominal pain upper,6
+10011472,Angina unstable,6
+10011472,Cold sweat,6
+10011472,Vomiting,6
+10011472,Nausea,6
+10011611,Nephropathy,3
+10011611,Type 2 diabetes mellitus,3
+10011642,Cerebral haemorrhage,5
+10011642,Haemorrhagic stroke,6
+10011642,Hydrocephalus,6
+10011642,Brain oedema,6
+10011642,Coma,3
+10011642,Inappropriate schedule of drug administration,6
+10011662,Joint swelling,4
+10011662,Pain in extremity,4
+10011662,Anxiety,4
+10011662,Disturbance in attention,4
+10011662,Fatigue,1
+10011662,Insomnia,4
+10011708,Type 2 diabetes mellitus,6
+10011708,Renal disorder,6
+10011709,Cerebrovascular accident,3
+10011709,Type 2 diabetes mellitus,3
+10011736,Type 2 diabetes mellitus,3
+10011741,Type 2 diabetes mellitus,6
+10011744,Type 2 diabetes mellitus,3
+10011745,Type 2 diabetes mellitus,3
+10011829,Type 2 diabetes mellitus,6
+10011829,Neuropathy peripheral,3
+10011848,Cervical spinal stenosis,1
+10011869,Type 2 diabetes mellitus,6
+10011869,Glucose tolerance impaired,3
+10011887,Enterocolitis,1
+10011887,Liver disorder,1
+10011937,Urinary retention,1
+10011937,Constipation,1
+10011994,Type 2 diabetes mellitus,3
+10012009,Renal neoplasm,6
+10012009,Type 2 diabetes mellitus,3
+10012126,Cerebrovascular accident,2
+10012126,Cardiac failure congestive,3
+10012126,Disability,3
+10012126,Coronary arterial stent insertion,6
+10012126,Treatment noncompliance,6
+10012245,Cellulitis,1
+10012245,Pyrexia,1
+10012260,Type 2 diabetes mellitus,6
+10012260,Myocardial infarction,6
+10012260,Arthritis,6
+10012262,Type 2 diabetes mellitus,6
+10012294,Type 2 diabetes mellitus,3
+10012369,Type 2 diabetes mellitus,3
+10012611,Type 2 diabetes mellitus,3
+10012686,Paranoia,6
+10012686,Delusion,6
+10012686,Suicidal ideation,6
+10012686,Depression,6
+10012686,Anxiety,6
+10012686,Panic attack,6
+10012686,Confusional state,6
+10012686,Insomnia,3
+10012686,Drug ineffective,Not Reported
+10012690,Type 2 diabetes mellitus,3
+10012690,Hypertension,6
+10012833,Dysgeusia,3
+10012902,Cardiac failure congestive,1
+10012902,Cardiac failure congestive,2
+10013093,Diarrhoea,6
+10013115,Fall,6
+10013115,Hip fracture,6
+10013115,Balance disorder,3
+10013115,Drug hypersensitivity,6
+10013115,Off label use,3
+10013115,Intentional drug misuse,6
+10013342,Drug ineffective,6
+10013364,Osteonecrosis,4
+10013366,Drug ineffective,6
+10013373,Myelodysplastic syndrome,3
+10013373,Pancytopenia,6
+10013469,Herpes simplex,1
+10013604,Tendon rupture,3
+10014009,Thrombocytopenia,3
+10014041,Abdominal pain upper,6
+10014041,Angina unstable,6
+10014041,Cold sweat,6
+10014041,Nausea,6
+10014041,Vomiting,6
+10014219,Grand mal convulsion,1
+10014219,Tongue biting,1
+10014219,Loss of consciousness,1
+10014607,Psoriasis,1
+10014644,Type 2 diabetes mellitus,3
+10014648,Nephropathy,3
+10014648,Nausea,6
+10014648,Type 2 diabetes mellitus,6
+10014648,Dizziness,3
+10014690,Type 2 diabetes mellitus,3
+10014752,Fatigue,6
+10014752,Type 2 diabetes mellitus,3
+10014752,Headache,6
+10014752,Myalgia,6
+10014784,Type 2 diabetes mellitus,3
+10014787,Type 2 diabetes mellitus,3
+10014911,Type 2 diabetes mellitus,3
+10015291,Ankle fracture,6
+10015347,Type 2 diabetes mellitus,6
+10015367,Abnormal dreams,6
+10015420,Lumbar spinal stenosis,1
+10015420,Brain neoplasm,1
+10015420,Lung carcinoma cell type unspecified recurrent,3
+10015483,Application site urticaria,1
+10015483,Erythema,1
+10015483,Pruritus,1
+10015509,Type 2 diabetes mellitus,3
+10015622,Type 2 diabetes mellitus,6
+10015629,Weight increased,6
+10015629,Type 2 diabetes mellitus,6
+10015629,Fatigue,6
+10015629,Asthenia,6
+10015648,Urticaria,6
+10015666,Low density lipoprotein increased,6
+10015666,Myalgia,2
+10015666,Pain in extremity,6
+10015666,Fatigue,6
+10015666,Malaise,6
+10015666,Muscle spasms,6
+10015713,Nausea,1
+10015713,Muscle disorder,6
+10015713,Hypokinesia,6
+10015713,Muscle spasms,1
+10015713,Arthralgia,1
+10015713,Rash,6
+10015713,Myalgia,6
+10015984,Urinary retention,6
+10015984,Drug ineffective,6
+10015984,Asthenia,3
+10015984,Malaise,3
+10015984,Hypersensitivity,6
+10015984,Nausea,6
+10015984,Insomnia,6
+10015984,Pruritus,6
+10016073,Renal failure,3
+10016073,Type 2 diabetes mellitus,3
+10016080,Type 2 diabetes mellitus,3
+10016086,Hypertension,6
+10016086,Type 2 diabetes mellitus,6
+10016086,Cerebrovascular accident,6
+10016125,Type 2 diabetes mellitus,3
+10016126,Type 2 diabetes mellitus,6
+10016157,Type 2 diabetes mellitus,6
+10016157,Parathyroid disorder,6
+10016165,Type 2 diabetes mellitus,6
+10016165,Seizure,3
+10016165,Neuropathy peripheral,6
+10016165,Upper limb fracture,1
+10016212,Type 2 diabetes mellitus,3
+10016220,Type 2 diabetes mellitus,6
+10016222,Type 2 diabetes mellitus,3
+10016264,Unevaluable event,1
+10016264,Drug effect decreased,6
+10016278,Type 2 diabetes mellitus,3
+10016291,Hypertension,3
+10016291,Type 2 diabetes mellitus,3
+10016299,Bladder spasm,6
+10016299,Drug ineffective,6
+10016312,Urticaria,6
+10016317,Dizziness,6
+10016322,Muscle spasms,6
+10016337,Muscle spasms,6
+10016337,Drug ineffective,6
+10016411,Libido decreased,6
+10016411,Testicular pain,6
+10016490,Pneumonitis,5
+10016490,Respiratory failure,6
+10016589,Colon cancer,1
+10016775,Aphasia,4
+10016775,Hemianopia,6
+10016775,Pulse absent,6
+10016775,Venous pressure increased,6
+10016775,Glomerular filtration rate decreased,6
+10016775,Sensory loss,6
+10016775,Motor dysfunction,6
+10016775,Unresponsive to stimuli,6
+10016775,Pulmonary vascular disorder,6
+10016775,Blood creatinine increased,6
+10016775,Muscular weakness,6
+10016775,Carotid arteriosclerosis,6
+10016775,Cerebrovascular accident,4
+10016775,Speech disorder,6
+10016775,Facial paresis,6
+10016775,VIIth nerve paralysis,6
+10016775,Dyspnoea,6
+10016775,Movement disorder,6
+10016775,Activated partial thromboplastin time prolonged,6
+10016775,Prothrombin time prolonged,6
+10016775,Neurologic neglect syndrome,6
+10016775,Visual acuity reduced,6
+10016775,Inguinal hernia,6
+10016775,Blood chloride increased,6
+10016775,Dysarthria,6
+10016775,Circulatory collapse,6
+10016775,Gliosis,6
+10016847,Thrombosis in device,1
+10017067,Maternal exposure during pregnancy,6
+10017067,Foetal death,6
+10017135,Malignant neoplasm progression,5
+10017145,Hepatic function abnormal,4
+10017145,Renal failure,6
+10017145,Hepatic failure,6
+10017145,Hypoaesthesia,6
+10017145,Pain,6
+10017145,Paralysis,6
+10017145,Rhabdomyolysis,4
+10017145,Visual acuity reduced,3
+10017148,Small fibre neuropathy,3
+10017333,Thrombocytosis,1
+10017416,Yellow skin,6
+10017416,Contusion,6
+10017416,Constipation,6
+10017775,Muscle injury,Not Reported
+10017775,Coronary artery occlusion,Not Reported
+10017775,Muscle spasms,Not Reported
+10017950,Pain,6
+10017950,Nausea,6
+10017950,Fibromyalgia,6
+10017987,Osteonecrosis,4
+10018018,Pruritus,Not Reported
+10018018,Cerebrovascular accident,Not Reported
+10018018,Pain in extremity,Not Reported
+10018018,Skin warm,Not Reported
+10018018,Myalgia,Not Reported
+10003349,Cerebrovascular accident,6
+10003349,Blood pressure increased,6
+10003349,Pain,6
+10003359,Erection increased,2
+10003496,Sleep disorder,6
+10003496,Somnolence,6
+10003532,Chest pain,1
+10003532,Oedema peripheral,1
+10003532,Gastrooesophageal reflux disease,1
+10003566,Subcutaneous haematoma,1
+10003566,Hypotension,1
+10003566,Anaemia,1
+10003566,Renal failure chronic,1
+10003636,Dehydration,1
+10003647,Erysipelas,5
+10003647,Sepsis,5
+10003844,Diabetes mellitus,2
+10003844,Gait disturbance,3
+10003844,Anaemia,2
+10003844,Blood triglycerides abnormal,3
+10003844,Muscular weakness,3
+10003844,Blood cholesterol abnormal,3
+10003844,Cough,2
+10003844,Influenza,1
+10003844,Bone disorder,3
+10003844,Patient-device incompatibility,2
+10003844,Pain,2
+10003915,Weight increased,3
+10003976,Hypomagnesaemia,1
+10003976,Drug interaction,6
+10004051,Pain,6
+10004051,Dizziness,6
+10004051,Headache,6
+10004057,Malaise,3
+10004057,Nausea,3
+10004057,Haemoglobin decreased,6
+10004057,Headache,3
+10004622,White blood cell count increased,6
+10004622,Platelet count decreased,6
+10004622,Contusion,6
+10004650,Femur fracture,6
+10004650,Incorrect drug administration duration,6
+10004717,Bronchitis,1
+10004717,Oxygen saturation decreased,6
+10005029,Wound,3
+10005029,Urinary tract infection,1
+10005052,Blood pressure decreased,6
+10005052,Headache,6
+10005052,Visual impairment,6
+10005078,Myelodysplastic syndrome,5
+10005078,Abasia,6
+10005078,Chronic obstructive pulmonary disease,6
+10005078,Diabetes mellitus,6
+10005078,Pancytopenia,6
+10005078,Asthenia,6
+10005138,Renal failure,3
+10005138,Parathyroid tumour,3
+10005138,Brain neoplasm,3
+10005138,Headache,6
+10005138,Type 2 diabetes mellitus,3
+10005187,Posterior reversible encephalopathy syndrome,1
+10005187,Grand mal convulsion,1
+10005187,Brain oedema,1
+10005187,Blood pressure increased,6
+10005224,Chronic obstructive pulmonary disease,6
+10005224,Dyspnoea,1
+10005245,Spleen disorder,6
+10005285,Bromhidrosis,1
+10005422,Lower respiratory tract infection,1
+10005422,Pneumonia,1
+10005492,Cough,3
+10005492,Sputum abnormal,3
+10005492,Ageusia,3
+10005492,Neuropathy peripheral,3
+10005492,Atrophic glossitis,6
+10005492,Alopecia,3
+10005492,Muscle spasms,3
+10005762,Constipation,6
+10005762,Flushing,6
+10005762,Pruritus,6
+10005778,Herpes zoster,6
+10005810,Cough,3
+10005810,Sleep disorder,3
+10005810,Muscular weakness,3
+10005810,Hypoaesthesia,6
+10005810,Paraesthesia,6
+10005810,Fatigue,3
+10005810,Myalgia,3
+10005827,Cough,3
+10005827,Muscle spasms,3
+10005827,Muscle twitching,3
+10005827,Diarrhoea,3
+10005827,Dizziness,3
+10005827,Feeling abnormal,3
+10005827,Arthralgia,3
+10005827,Myalgia,3
+10005827,Asthenia,3
+10005827,Nausea,3
+10005827,Fatigue,3
+10005827,Depression,3
+10005827,Drug prescribing error,6
+10005912,Pain,1
+10005912,Hepatic enzyme increased,1
+10005927,Appendicitis,1
+10005933,Dermatitis bullous,1
+10005933,Type IV hypersensitivity reaction,1
+10006042,Hypersensitivity,1
+10006042,Reaction to drug excipients,1
+10006053,Hypoglycaemic coma,1
+10006053,Insulinoma,6
+10006071,Cardiac arrest,5
+10006071,Blood urine present,6
+10006071,Unresponsive to stimuli,6
+10006071,Blood pressure decreased,6
+10006071,Haemoglobin decreased,6
+10006071,Abdominal pain,6
+10006150,Haemoptysis,6
+10006150,Dyspnoea,6
+10006150,Fatigue,6
+10006224,Back disorder,6
+10006224,Diabetic neuropathy,6
+10006224,Neuralgia,6
+10006224,Neuropathy peripheral,6
+10006237,Gastrointestinal haemorrhage,6
+10006237,Drug interaction,6
+10006237,Small intestinal haemorrhage,6
+10006237,Gastric haemorrhage,6
+10006301,Drug effect decreased,6
+10006338,Bronchial obstruction,6
+10006338,Rhonchi,6
+10006338,Wheezing,6
+10006338,Somnolence,1
+10006338,Confusional state,1
+10006463,Gastrointestinal haemorrhage,6
+10006463,Iron deficiency anaemia,6
+10006463,Upper gastrointestinal haemorrhage,6
+10006572,Type 2 diabetes mellitus,3
+10006725,Blindness,Not Reported
+10006725,Eye inflammation,Not Reported
+10006725,Blindness transient,Not Reported
+10006725,Incorrect product storage,Not Reported
+10006854,Drug ineffective,Not Reported
+10006854,Burning sensation,Not Reported
+10006854,Toe amputation,Not Reported
+10006854,Wound infection staphylococcal,Not Reported
+10006854,Osteomyelitis,Not Reported
+10006887,Rash,Not Reported
+10006887,Drug eruption,Not Reported
+10006887,Hepatic function abnormal,Not Reported
+10006887,Alanine aminotransferase increased,Not Reported
+10006887,Toxic epidermal necrolysis,Not Reported
+10006982,Nausea,Not Reported
+10006982,Tremor,Not Reported
+10006982,Dizziness,Not Reported
+10006982,Anxiety,Not Reported
+10006982,Headache,Not Reported
+10006982,Blood pressure systolic increased,Not Reported
+10006982,Product label on wrong product,Not Reported
+10006982,Wrong drug administered,Not Reported
+10007246,Disorientation,1
+10007246,Dizziness,1
+10007246,Hypersensitivity,6
+10007313,Atrial flutter,1
+10007387,Death,5
+10007387,Fungal peritonitis,6
+10007387,Peritoneal dialysis complication,1
+10007441,Asthenia,Not Reported
+10007441,Mental status changes,Not Reported
+10007441,Cerebrovascular accident,Not Reported
+10007486,Local swelling,2
+10007486,Musculoskeletal stiffness,6
+10007486,Peripheral coldness,6
+10007506,Local swelling,3
+10007506,Fatigue,3
+10007506,Gait disturbance,3
+10007523,Myelodysplastic syndrome,5
+10007531,Haemoptysis,1
+10007531,Pneumonia aspiration,1
+10007531,Anaemia,2
+10007552,Type 2 diabetes mellitus,3
+10007552,Cerebrovascular accident,6
+10007552,Pulmonary thrombosis,6
+10007940,Portal vein thrombosis,5
+10007940,Hepatorenal syndrome,6
+10007940,Hepatic encephalopathy,6
+10007940,Hypoglycaemia,1
+10007940,Disorientation,1
+10007940,Somnolence,1
+10007940,Drug interaction,6
+10008133,Bromhidrosis,1
+10008241,Nasal congestion,1
+10008241,Hypotension,1
+10008241,Dyspnoea,1
+10008241,Swelling face,1
+10008360,Hypomagnesaemia,1
+10008360,Drug interaction,6
+10008688,Oedema peripheral,6
+10008767,Abdominal discomfort,6
+10008767,Platelet count decreased,6
+10008774,Hypoaesthesia,1
+10008774,Paraesthesia,1
+10008774,Sensation of heaviness,1
+10008774,Anaemia,1
+10008776,Dry eye,6
+10008782,Transfusion,6
+10008883,Asthenia,3
+10008949,Tooth infection,6
+10008949,Platelet count decreased,6
+10008980,Fatigue,6
+10008980,Nausea,6
+10008980,Muscle spasms,6
+10008980,Burning sensation,6
+10009223,Renal failure acute,2
+10009223,Lactic acidosis,2
+10009391,Blister,1
+10009421,Paraesthesia,1
+10009421,Asthenia,1
+10009421,Platelet count decreased,1
+10009421,Blood count abnormal,1
+10009427,Dyspnoea,6
+10009427,Fatigue,6
+10009427,Peripheral coldness,6
+10009427,Anaemia,6
+10009434,Anaemia,3
+10009434,Blood count abnormal,6
+10009470,Gastrooesophageal reflux disease,6
+10009470,Blood count abnormal,1
+10009499,Epistaxis,1
+10009588,Angina pectoris,6
+10009588,Dehydration,6
+10009588,Malaise,6
+10009588,Pain,6
+10009588,Oral surgery,6
+10009588,Immunosuppressant drug level increased,1
+10009588,Drug interaction,6
+10009600,Insomnia,1
+10009600,Wrong technique in drug usage process,6
+10009600,Dizziness,1
+10009627,Dysgeusia,3
+10009670,Weight decreased,6
+10009670,Night sweats,6
+10009670,Hot flush,6
+10009670,Feeling cold,6
+10009670,Asthenia,6
+10009670,Headache,6
+10009728,Thrombocytopenia,1
+10009728,Drug dose omission,6
+10009730,Rash,3
+10009730,Skin swelling,3
+10009730,Weight increased,3
+10009735,Haemoglobin decreased,2
+10009735,Platelet count decreased,2
+10009736,Colon neoplasm,1
+10009736,Abdominal pain,1
+10009736,Flatulence,1
+10009736,Abdominal distension,1
+10009787,Anaemia,6
+10009787,Medication error,3
+10009807,Influenza,6
+10009807,Nasopharyngitis,6
+10009820,White blood cell count increased,3
+10009830,Flatulence,6
+10009830,Abdominal pain upper,6
+10009830,Anaemia,6
+10009835,Abasia,6
+10009835,Pain in extremity,2
+10009835,Arthralgia,6
+10009835,Headache,6
+10009908,Cellulitis,6
+10009908,Frequent bowel movements,6
+10009940,Platelet count decreased,2
+10009940,Wrong technique in drug usage process,6
+10009992,Chills,6
+10009992,Body temperature decreased,6
+10010030,Platelet count increased,6
+10010031,Sluggishness,6
+10010031,Haemoglobin decreased,6
+10010103,Gastrointestinal disorder,6
+10010103,Transfusion,6
+10010109,Somnolence,6
+10010109,Night sweats,6
+10010109,Migraine,6
+10010109,White blood cell count decreased,6
+10010109,Haemoglobin decreased,6
+10010109,Platelet count decreased,6
+10010228,Hypomagnesaemia,1
+10010228,Drug interaction,6
+10010232,Extrapulmonary tuberculosis,5
+10010232,Oral candidiasis,3
+10010335,Hypersensitivity vasculitis,1
+10010681,Angioedema,1
+10010733,Nephrolithiasis,1
+10010733,Neuralgia,3
+10010733,Chest discomfort,3
+10010733,Vision blurred,3
+10010774,Diabetes mellitus,6
+10010775,Drug ineffective,6
+10010821,Femur fracture,Not Reported
+10010821,Incorrect drug administration duration,Not Reported
+10010875,Interstitial lung disease,3
+10010875,Pancreatitis,1
+10010875,Disseminated intravascular coagulation,6
+10010875,Tracheostomy,6
+10010875,Mechanical ventilation,6
+10010875,Gastric haemorrhage,6
+10010875,Hepatic function abnormal,6
+10010875,Cholelithiasis,6
+10010900,Liver function test abnormal,1
+10010900,Salmonellosis,1
+10010900,Hepatic steatosis,6
+10010900,Herpes simplex,6
+10010900,Spinal osteoarthritis,6
+10010900,Arthritis,6
+10010900,Renal failure acute,1
+10010900,Duodenal polyp,6
+10010900,Electrolyte imbalance,6
+10010900,Oesophagitis,6
+10011222,Drug interaction,Not Reported
+10011222,Hypomagnesaemia,Not Reported
+10011527,Hepatic enzyme increased,1
+10011562,Performance status decreased,6
+10011562,Hepatic function abnormal,1
+10011562,Decreased appetite,1
+10011569,Blood pressure increased,6
+10011569,Abdominal discomfort,3
+10011569,Vision blurred,3
+10011569,Nervousness,6
+10011569,Depression,3
+10011569,Insomnia,3
+10011569,Decreased appetite,3
+10011569,Weight decreased,3
+10011569,Incorrect dose administered,6
+10011663,Angioedema,6
+10011663,Lip swelling,6
+10011663,Dyspnoea,6
+10011721,Nausea,3
+10011721,Depression,3
+10011721,Cough,3
+10011721,Arthralgia,3
+10011721,Fatigue,3
+10011721,Asthenia,3
+10011721,Diarrhoea,3
+10011721,Muscle spasms,3
+10011721,Dizziness,3
+10011721,Feeling abnormal,3
+10011721,Drug prescribing error,6
+10011721,Myalgia,3
+10011721,Muscle twitching,3
+10011822,Local swelling,2
+10011822,Musculoskeletal stiffness,6
+10011822,Peripheral coldness,6
+10011828,Mood altered,1
+10011828,Apathy,6
+10011828,Somnolence,6
+10011828,Flat affect,6
+10011907,Ischaemic stroke,6
+10012021,Cholestasis,1
+10012163,Neuropathy peripheral,1
+10012163,Hypertension,6
+10012163,Drug ineffective,6
+10012178,Cerebellar haemorrhage,3
+10012178,Hypertension,3
+10012208,Vision blurred,Not Reported
+10012208,Eyelid margin crusting,Not Reported
+10012208,Dry mouth,Not Reported
+10012208,Dry throat,Not Reported
+10012208,Choking,Not Reported
+10012208,Constipation,Not Reported
+10012208,Photophobia,Not Reported
+10012208,Haemorrhage,Not Reported
+10012249,Hypomagnesaemia,1
+10012249,Drug interaction,6
+10012451,Paraesthesia,1
+10012460,Drug hypersensitivity,6
+10012460,Rash,3
+10012460,Intentional drug misuse,6
+10012474,Pruritus,1
+10012482,Femur fracture,6
+10012482,Incorrect drug administration duration,6
+10012721,Bradycardia,1
+10012721,Hyperkalaemia,1
+10012738,Bronchitis,6
+10012738,Diarrhoea,1
+10012738,Vomiting,1
+10012764,Agitation,3
+10012764,Delirium,3
+10012765,Fall,2
+10012765,Supraventricular tachycardia,2
+10012836,Drug administered at inappropriate site,6
+10012836,Drug ineffective,6
+10012836,Product adhesion issue,6
+10012836,Product packaging issue,6
+10012896,Foot fracture,1
+10012896,Fall,1
+10012925,Diabetes mellitus,3
+10012925,Thrombocytopenia,3
+10013023,Skin lesion,2
+10013023,Squamous cell carcinoma,1
+10013023,Purulent discharge,2
+10013039,Unresponsive to stimuli,1
+10013136,Oropharyngeal pain,1
+10013136,Staphylococcal sepsis,1
+10013136,Upper respiratory tract infection,1
+10013136,Pharyngitis,1
+10013136,Erythrodermic psoriasis,6
+10013136,Pneumonia influenzal,6
+10013202,Hypertension,2
+10013202,Nausea,1
+10013202,Vomiting,1
+10013329,Pain,3
+10013329,Irritability,3
+10013329,Paraesthesia,3
+10013329,Movement disorder,3
+10013368,Prostate cancer,3
+10013368,Cataract,1
+10013368,Vision blurred,3
+10013398,Rash,6
+10013505,Angina unstable,1
+10013505,Iron deficiency anaemia,1
+10013516,White blood cell count decreased,3
+10013516,Eosinophil count decreased,3
+10013516,Neutrophil count decreased,3
+10013516,Monocyte count decreased,3
+10013658,Neck injury,3
+10013658,Pharyngitis,1
+10013658,Drug ineffective,3
+10013658,Product quality issue,1
+10013697,Nephrogenic systemic fibrosis,3
+10013698,Hypersensitivity,1
+10013698,Palpitations,1
+10013698,Syncope,1
+10013698,Obstructive airways disorder,1
+10013698,Pruritus generalised,1
+10013698,Pharyngeal oedema,1
+10013698,Dyspnoea,1
+10013698,Therapeutic response changed,Not Reported
+10013698,Incorrect dose administered,Not Reported
+10013915,Insomnia,6
+10014010,Unresponsive to stimuli,1
+10014038,Clonus,6
+10014038,Hypertonia,6
+10014038,Injection site pain,6
+10014038,Muscular weakness,6
+10014038,Muscle spasticity,6
+10014058,Influenza like illness,1
+10014058,Vomiting,1
+10014058,Diarrhoea,1
+10014264,Fall,1
+10014264,Muscular weakness,3
+10014411,Chest pain,6
+10014411,Dizziness,6
+10014411,Dyspnoea,6
+10014431,Tuberculosis,2
+10014431,Joint tuberculosis,2
+10014434,Syncope,1
+10014435,Hepatitis acute,1
+10014435,Coagulopathy,1
+10014435,Activated partial thromboplastin time,6
+10014435,International normalised ratio increased,1
+10014435,Epistaxis,1
+10014446,Cholelithiasis,1
+10014511,Aplastic anaemia,2
+10014591,Haemorrhagic diathesis,3
+10014591,Increased tendency to bruise,3
+10014622,Atrial fibrillation,3
+10014622,Pneumonia legionella,5
+10014622,Multiple organ dysfunction syndrome,5
+10014650,Aortic aneurysm,6
+10014714,Cardiovascular disorder,6
+10014714,Chest pain,6
+10014728,Dehydration,6
+10014728,Blood potassium decreased,6
+10014728,Haemoglobin decreased,6
+10014728,Pollakiuria,6
+10015022,Peripheral swelling,2
+10015022,Pain in extremity,2
+10015022,International normalised ratio increased,6
+10015022,Infection,2
+10015022,Mobility decreased,2
+10015022,Back pain,3
+10015022,Arthralgia,3
+10015022,Asthenia,2
+10015022,Fall,3
+10015022,Tremor,6
+10015022,Loss of personal independence in daily activities,1
+10015022,Pain,1
+10015022,Arthritis,3
+10015055,Hepatic failure,3
+10015055,Ammonia increased,6
+10015055,Confusional state,6
+10015105,Completed suicide,5
+10015105,Multiple organ dysfunction syndrome,5
+10015105,Hypotension,6
+10015105,Intentional overdose,5
+10015105,Gastrointestinal necrosis,5
+10015208,Muscle spasms,6
+10015208,Pain,6
+10015272,Pain,6
+10015272,Headache,6
+10015272,Dizziness,6
+10015296,Thyroid disorder,6
+10015320,Eye disorder,6
+10015320,Urine odour abnormal,6
+10015335,Haemoglobin decreased,3
+10015335,Colon cancer,2
+10015335,Localised infection,1
+10015335,Pharyngitis streptococcal,1
+10015335,Anaemia,6
+10015335,Renal failure,6
+10015335,Gastritis,6
+10015335,Reticulocyte count increased,6
+10015335,Haemorrhage,6
+10015344,Drug hypersensitivity,6
+10015344,Dermatitis exfoliative,6
+10015344,Pruritus,3
+10015344,Dermatitis,3
+10015344,Drug interaction,6
+10015344,Erythema,3
+10015344,Burning sensation,3
+10015344,Swelling face,3
+10015344,Rash,3
+10015379,Gastrointestinal haemorrhage,6
+10015379,Physical disability,3
+10015379,Psychological trauma,3
+10015379,Economic problem,3
+10015379,Anhedonia,3
+10015379,Multiple injuries,3
+10015379,Pain,3
+10015379,Tension,3
+10015379,Deformity,3
+10015379,Social problem,3
+10015379,Loss of employment,3
+10015462,Pneumonia,6
+10015462,Malaise,6
+10015462,Pseudomonas infection,6
+10015462,Dysphonia,2
+10015462,Staphylococcal infection,6
+10015462,Aphonia,2
+10015462,Cough,3
+10015475,Cough,3
+10015475,Hypoaesthesia,6
+10015475,Paraesthesia,6
+10015475,Muscular weakness,3
+10015475,Fatigue,3
+10015475,Sleep disorder,3
+10015475,Myalgia,3
+10015485,Local swelling,2
+10015485,Musculoskeletal stiffness,6
+10015485,Peripheral coldness,6
+10015650,Overdose,6
+10015650,Suicide attempt,6
+10015650,Pneumonia aspiration,6
+10015650,Alcohol withdrawal syndrome,6
+10015650,Drug withdrawal syndrome,6
+10015650,Acute respiratory distress syndrome,6
+10015650,Shock,6
+10015650,Non-cardiogenic pulmonary oedema,6
+10015650,Renal failure acute,6
+10015650,Acute myocardial infarction,6
+10015675,Arthralgia,6
+10015675,Dyskinesia,6
+10015675,Weight increased,6
+10015675,Local swelling,6
+10015675,Mobility decreased,6
+10015675,Drug withdrawal syndrome,6
+10015690,Drug hypersensitivity,6
+10015690,Dizziness,6
+10015690,Abdominal discomfort,6
+10015690,Malaise,6
+10015695,Malaise,6
+10015695,Influenza,6
+10015777,Vaginal haemorrhage,2
+10015777,Chest pain,1
+10015777,Pyrexia,6
+10015784,Drug ineffective,6
+10015784,Diarrhoea,3
+10015784,Hospitalisation,3
+10015784,Skin disorder,3
+10015784,Neuralgia,3
+10015835,Renal failure acute,1
+10015835,Haemolytic uraemic syndrome,2
+10015835,Nephrocalcinosis,1
+10015835,Renal tubular necrosis,1
+10015874,Haemoglobin decreased,1
+10015914,Extradural haematoma,5
+10015914,Cerebral haemorrhage,2
+10016246,Hypoglycaemia,1
+10016246,Drug interaction,1
+10003305,Drug hypersensitivity,6
+10003310,Back pain,1
+10003581,Blood count abnormal,6
+10003581,Haemoglobin decreased,6
+10003582,Hypertension,6
+10003582,Dehydration,6
+10003582,Night sweats,6
+10003582,Panic attack,1
+10003582,Hyperlipidaemia,6
+10003582,Insomnia,1
+10003582,Cold sweat,3
+10003582,Bipolar disorder,6
+10003582,Hyperhidrosis,6
+10003582,Dysgeusia,3
+10003582,Nausea,3
+10003687,Somnolence,1
+10003687,Trismus,1
+10003687,Fatigue,6
+10003717,Haemoglobin decreased,3
+10003717,Weight increased,6
+10003792,Grand mal convulsion,1
+10003792,Vomiting,1
+10003792,Amnesia,3
+10003840,Fluid retention,6
+10003840,Feeling abnormal,6
+10003840,Abnormal dreams,6
+10003840,Nightmare,6
+10003840,Insomnia,6
+10003840,Testicular swelling,6
+10003849,Transfusion,6
+10003849,Vision blurred,6
+10003849,Intraocular pressure increased,6
+10003899,Flatulence,6
+10003899,Abdominal distension,6
+10003899,Diarrhoea,6
+10004008,Hypothyroidism,1
+10004008,Night sweats,6
+10004008,Fatigue,6
+10004008,Blood count abnormal,6
+10004101,Rash,6
+10004244,Major depression,2
+10004244,Hemiparesis,6
+10004244,Quadriplegia,6
+10004244,Multiple sclerosis,6
+10004480,Diarrhoea,6
+10004480,Fatigue,6
+10004480,Furuncle,6
+10004545,Respiratory disorder,6
+10004628,Laboratory test abnormal,6
+10004628,Vertigo,3
+10004640,Hypertension,6
+10004640,Increased appetite,6
+10004640,Weight increased,6
+10004640,Haemoglobin decreased,Not Reported
+10004712,Coronary arterial stent insertion,1
+10004712,Atrioventricular block,1
+10004759,Myocardial infarction,1
+10004759,Coronary arterial stent insertion,1
+10004759,Drug administration error,6
+10004885,Blood pressure increased,1
+10005015,Weight decreased,6
+10005102,Dyspnoea,3
+10005174,Type 2 diabetes mellitus,6
+10005345,Septic shock,5
+10005377,Heart rate increased,1
+10005377,Palpitations,1
+10005377,Chest pain,6
+10005592,Gastrooesophageal reflux disease,6
+10005592,Headache,6
+10005592,Fatigue,6
+10005592,Sinusitis,6
+10005592,Urinary tract infection,6
+10005592,Wound,6
+10005708,Alopecia,6
+10005908,Drug interaction,1
+10005908,Headache,1
+10006072,Haematoma,6
+10006072,Dysphagia,6
+10006100,Rectal haemorrhage,6
+10006100,Drug interaction,6
+10006109,Gingival bleeding,6
+10006109,Drug interaction,6
+10006126,Haemorrhage,6
+10006126,Drug interaction,6
+10006147,Dizziness,6
+10006147,Fatigue,3
+10006147,Rash,6
+10006283,Paraesthesia oral,3
+10006283,Ageusia,3
+10006283,Dysgeusia,3
+10006283,Tongue disorder,3
+10006283,Glossodynia,3
+10006283,Abdominal pain upper,1
+10006314,Gastrointestinal haemorrhage,6
+10006314,Drug interaction,6
+10006412,Gastrointestinal haemorrhage,6
+10006412,Drug interaction,6
+10006412,Diverticulum intestinal haemorrhagic,6
+10006412,Rectal haemorrhage,6
+10006412,Melaena,6
+10006465,Anaemia,6
+10006475,Leukaemia,Not Reported
+10006475,Local swelling,Not Reported
+10006475,Heart rate decreased,Not Reported
+10006512,Ulcer haemorrhage,6
+10006512,Drug interaction,6
+10006712,Lacrimation increased,6
+10007058,Hypotension,6
+10007058,Fluid retention,6
+10007058,Dyspnoea,6
+10007105,Dyspnoea,Not Reported
+10007105,Anxiety,Not Reported
+10007105,Insomnia,Not Reported
+10007105,Local swelling,Not Reported
+10007105,Peripheral coldness,Not Reported
+10007105,Syncope,Not Reported
+10007133,Disorientation,6
+10007133,Product quality issue,6
+10007147,Chest discomfort,Not Reported
+10007147,Tachycardia,Not Reported
+10007147,Dyspnoea,Not Reported
+10007147,Hypertension,Not Reported
+10007147,Anxiety,Not Reported
+10007187,Cerebrovascular accident,6
+10007232,Atrial fibrillation,1
+10007234,Constipation,3
+10007234,Off label use,6
+10007397,Gastrointestinal haemorrhage,6
+10007397,Drug interaction,6
+10007468,Gastrointestinal haemorrhage,6
+10007468,Drug interaction,6
+10007670,Anaemia,6
+10007839,Brain injury,Not Reported
+10007839,Dizziness,Not Reported
+10007839,Vomiting,Not Reported
+10007839,Cognitive disorder,Not Reported
+10007850,Malaise,6
+10008006,Syncope,1
+10008006,Asthenia,6
+10008006,Electrocardiogram ST segment abnormal,6
+10008006,Subdural haematoma,6
+10008006,Nausea,1
+10008006,Vomiting,1
+10008006,Overdose,1
+10008095,Asthenia,3
+10008095,Nausea,3
+10008095,Vomiting,3
+10008095,Decreased appetite,3
+10008095,Blood electrolytes abnormal,3
+10008095,Renal disorder,3
+10008409,Swelling,3
+10008409,Arthralgia,3
+10008409,Joint swelling,3
+10008409,Weight increased,3
+10008506,Sepsis,6
+10008506,Coccidioidomycosis,6
+10008506,Pneumonia pseudomonal,6
+10008506,Pancreatitis,6
+10008506,Drug dose omission,6
+10008506,Hepatomegaly,6
+10008506,Liver function test abnormal,6
+10008553,Malaise,Not Reported
+10008553,Decreased appetite,Not Reported
+10008553,Diarrhoea,Not Reported
+10008553,Hypoaesthesia,Not Reported
+10008553,Vision blurred,Not Reported
+10008553,Insomnia,Not Reported
+10008553,Dizziness,Not Reported
+10008553,Headache,Not Reported
+10008595,Rash,6
+10008622,Blood glucose decreased,6
+10008674,Therapeutic response unexpected,6
+10008729,Haemoglobin decreased,6
+10008734,Therapy change,6
+10008737,Blood pressure increased,6
+10008781,Joint swelling,3
+10008781,Arthralgia,3
+10008781,Contusion,3
+10008793,Flatulence,3
+10008793,Bowel movement irregularity,3
+10008819,White blood cell count increased,6
+10008824,Epistaxis,1
+10008831,Malaise,3
+10008831,Pain,3
+10008831,Asthenia,3
+10008831,Adverse drug reaction,3
+10008831,Headache,3
+10008846,Liver tenderness,6
+10008846,Blood triglycerides increased,6
+10008846,Thrombocytopenia,3
+10008847,Anaemia,6
+10008847,Blood count abnormal,6
+10008914,Fatigue,6
+10008914,Anaemia,6
+10008960,Haemoglobin decreased,6
+10008986,Haemoglobin decreased,6
+10008986,Dizziness,6
+10008986,Fall,6
+10009019,Arthralgia,3
+10009019,Diarrhoea,3
+10009019,Abdominal pain,3
+10009038,Nasopharyngitis,6
+10009044,Congenital hydronephrosis,3
+10009044,Ureteric stenosis,3
+10009044,Foetal exposure during pregnancy,3
+10009464,Drug ineffective,2
+10009464,Anaemia,2
+10009493,Anaemia,1
+10009493,Blood creatinine increased,6
+10009493,Hyperkalaemia,6
+10009493,Dyspnoea,4
+10009493,Fatigue,6
+10009493,Dyspnoea exertional,6
+10009493,Thrombocytosis,6
+10009493,Dizziness,1
+10009508,Haemoglobin decreased,6
+10009508,Fatigue,6
+10009508,Blood count abnormal,6
+10009510,Vision blurred,6
+10009510,Bradyphrenia,6
+10009510,Flatulence,6
+10009510,Diarrhoea,6
+10009510,Dizziness,6
+10009529,Diarrhoea,6
+10009538,Gout,6
+10009538,Hypoaesthesia,6
+10009538,Pain,6
+10009539,Oral pain,3
+10009539,Pyrexia,1
+10009594,Platelet count decreased,3
+10009594,Blood glucose decreased,1
+10009594,Asthenia,6
+10009609,Tremor,3
+10009609,Abdominal pain,3
+10009609,Blood count abnormal,3
+10009657,Platelet count decreased,1
+10009725,Transfusion,6
+10009726,Diarrhoea,6
+10009726,Contusion,6
+10009749,Aspartate aminotransferase increased,1
+10009749,Alanine aminotransferase increased,1
+10009749,Pyrexia,2
+10009788,Arthralgia,6
+10009788,Cardiovascular disorder,6
+10009808,Anaemia,1
+10009808,Fatigue,3
+10009808,Weight decreased,3
+10009837,Rash,6
+10009837,Pruritus,6
+10009893,Local swelling,6
+10009894,Abdominal discomfort,2
+10009894,Dizziness,1
+10009894,Anaemia,6
+10009897,Platelet count increased,6
+10009897,White blood cell count increased,6
+10009901,Platelet count decreased,2
+10009944,Arthralgia,6
+10010015,Fatigue,6
+10010015,Contusion,6
+10010015,Bone pain,6
+10010015,Malaise,2
+10010015,Body temperature decreased,2
+10010015,Drug dose omission,1
+10010015,Swelling,6
+10010018,Pollakiuria,6
+10010018,Head discomfort,6
+10010018,Sensation of heaviness,6
+10010018,Hypoaesthesia,6
+10010018,Dry skin,6
+10010018,Binge eating,6
+10010018,Headache,6
+10010058,Dyspepsia,6
+10010058,Oesophageal pain,6
+10010058,Insomnia,6
+10010071,Oral candidiasis,3
+10010077,Death,5
+10010077,Nausea,6
+10010077,Weight decreased,6
+10010077,Peripheral swelling,6
+10010077,Epistaxis,6
+10010077,Anaemia,2
+10010077,Diarrhoea,6
+10010078,Increased appetite,6
+10010078,Weight increased,6
+10010078,Headache,6
+10010078,Anaemia,6
+10010091,Splenomegaly,6
+10010092,Platelet count decreased,6
+10010092,White blood cell count increased,Not Reported
+10010092,Urinary tract infection,Not Reported
+10010100,Somnolence,6
+10010104,Drug dose omission,6
+10010104,Transfusion,6
+10010168,Diarrhoea,6
+10010168,Platelet count increased,6
+10010168,Rhinorrhoea,6
+10010168,Oral pain,6
+10010168,Sensation of heaviness,6
+10010168,Insomnia,6
+10010168,Nail bed disorder,6
+10010168,Appetite disorder,6
+10010168,Alopecia,6
+10010168,Weight increased,6
+10010170,Tooth infection,6
+10010543,Rotator cuff syndrome,6
+10010543,Nausea,6
+10010543,Decreased appetite,6
+10010543,Weight decreased,6
+10010543,Anosmia,6
+10010543,Hypogeusia,6
+10010674,Abortion missed,1
+10010827,Kidney duplex,6
+10010827,Congenital hearing disorder,6
+10010827,Foetal exposure during pregnancy,1
+10010827,Congenital choroid plexus cyst,6
+10010827,Supernumerary nipple,6
+10010829,Blood pressure inadequately controlled,Not Reported
+10010829,Hypertension,Not Reported
+10011255,Extra dose administered,6
+10011255,No adverse event,6
+10011439,Ear infection,3
+10011439,Mastoiditis,1
+10011439,Hypertension,1
+10011439,Blood pressure increased,3
+10011648,Cardiac failure congestive,3
+10011648,Pericardial effusion,3
+10011648,Atrial fibrillation,6
+10011722,Myocardial infarction,5
+10011783,Gastrointestinal haemorrhage,1
+10011926,Malaise,1
+10011926,Somnolence,1
+10011926,Dizziness,1
+10011926,Confusional state,1
+10011926,Disorientation,1
+10011926,Anxiety,1
+10011931,Duodenal ulcer,1
+10011931,Oesophagitis,1
+10011931,Gastroenteritis aeromonas,2
+10012040,Clavicle fracture,6
+10012040,Fall,6
+10012040,Pathological fracture,2
+10012040,Drug intolerance,6
+10012040,Encephalopathy,2
+10012054,Type 2 diabetes mellitus,3
+10012075,Type 2 diabetes mellitus,3
+10012175,Pleural effusion,2
+10012175,Gastric cancer,5
+10012175,Pulmonary embolism,1
+10012175,Pneumonitis,1
+10012205,Ejection fraction decreased,4
+10012386,Dehydration,1
+10012386,Asthenia,1
+10012386,Scratch,6
+10012419,Therapeutic response unexpected,3
+10012419,Fatigue,1
+10012419,Abdominal discomfort,1
+10012419,Drug ineffective,6
+10012419,Therapy cessation,1
+10012419,Gait disturbance,3
+10012419,Off label use,1
+10012450,Platelet count decreased,3
+10012450,White blood cell count decreased,3
+10012518,Large intestinal obstruction,1
+10012518,Foreign body,1
+10012518,Medication residue present,1
+10012704,Dementia Alzheimer^s type,3
+10012704,Poor peripheral circulation,3
+10012704,Stress,3
+10012704,Visual acuity reduced,3
+10012704,Incorrect dose administered,6
+10012725,International normalised ratio abnormal,6
+10012725,Gastrointestinal haemorrhage,6
+10012725,Gastritis,6
+10012725,Large intestine polyp,6
+10012725,Decreased appetite,2
+10012725,Weight decreased,6
+10012725,Nasopharyngitis,6
+10012725,Abdominal distension,6
+10012725,Cough,6
+10012725,Viral infection,6
+10012725,Abdominal pain,6
+10012725,Constipation,1
+10012725,Abdominal discomfort,6
+10012725,Eructation,6
+10012725,Off label use,6
+10012725,Drug dose omission,6
+10012725,Drug interaction,6
+10012770,Renal infarct,3
+10012889,Blindness unilateral,6
+10012889,Ocular retrobulbar haemorrhage,6
+10012904,Ventricular asystole,1
+10012904,Syncope,1
+10012904,Bradycardia,1
+10012904,Dysstasia,1
+10012904,Abasia,1
+10013047,Drug hypersensitivity,6
+10013116,Blood pressure increased,1
+10013116,Migraine,6
+10013116,Chest discomfort,6
+10013116,Drug ineffective,6
+10013419,Drug hypersensitivity,6
+10013453,Disseminated intravascular coagulation,5
+10013453,Haemorrhage,5
+10013453,Post procedural haemorrhage,5
+10013453,Intestinal ischaemia,5
+10013453,Colon gangrene,6
+10013453,Acute abdomen,6
+10013460,Somnolence,6
+10013460,Dizziness,6
+10013613,Nephrogenic systemic fibrosis,3
+10013699,Cerebral haemorrhage,5
+10013699,Drug interaction,Not Reported
+10013702,Lung infection,Not Reported
+10013702,Increased bronchial secretion,Not Reported
+10013702,Productive cough,Not Reported
+10013833,Application site pruritus,1
+10013833,Application site erythema,1
+10013849,Exposure during pregnancy,1
+10013849,Abortion missed,1
+10013850,Abortion missed,1
+10013850,Exposure during pregnancy,1
+10013851,Abortion missed,1
+10013851,Exposure during pregnancy,1
+10013917,Asthenia,3
+10013917,Plasma cell myeloma,5
+10014036,Electrocardiogram abnormal,3
+10014036,Diarrhoea,3
+10014036,Headache,3
+10014036,Herpes ophthalmic,6
+10014036,Rhinorrhoea,3
+10014036,QRS axis abnormal,3
+10014036,Urinary tract infection,3
+10014036,Sinusitis,3
+10014036,Myocardial infarction,3
+10014036,Haemorrhoids,3
+10014036,Therapeutic response unexpected,6
+10014466,Rheumatoid lung,1
+10014466,Squamous cell carcinoma,6
+10014466,Metastases to lung,6
+10014466,Pneumothorax,1
+10014466,Benign prostatic hyperplasia,6
+10014466,Herpes zoster,1
+10014466,Intestinal polyp,6
+10014466,Gastrointestinal erosion,6
+10014530,Incorrect dose administered,6
+10014530,Death,5
+10014575,Coronary bypass thrombosis,6
+10014638,Urosepsis,1
+10014864,Acute respiratory distress syndrome,3
+10014864,Tumour lysis syndrome,3
+10014864,Lung infection,3
+10014977,Swelling face,3
+10014977,Abdominal pain,3
+10014977,Abdominal distension,1
+10014977,Fluid retention,1
+10014977,Blood glucose increased,3
+10014977,Blood pressure increased,3
+10015449,Colon cancer metastatic,5
+10015682,Vision blurred,3
+10015743,Bladder cancer,3
+10015785,Limb injury,6
+10015785,Fall,6
+10015785,Neuropathy peripheral,6
+10015806,Cardiac failure congestive,3
+10015806,Constipation,3
+10015806,Arthralgia,3
+10015806,Nausea,3
+10015806,Gastrooesophageal reflux disease,3
+10015806,Hypothyroidism,3
+10015806,Vomiting,6
+10015806,Drug dose omission,6
+10015838,Cardiac flutter,6
+10015838,Depression,6
+10015838,Discomfort,6
+10015838,Gastric disorder,6
+10015838,Fatigue,6
+10015838,Palpitations,6
+10015838,Emotional distress,6
+10015838,Feeling abnormal,6
+10015838,Drug administration error,6
+10015838,Malaise,6
+10015883,Disorientation,1
+10015883,Confusional state,1
+10015883,Hallucination,1
+10015883,Muscular weakness,3
+10015883,Hypokinesia,1
+10015883,Speech disorder,1
+10015883,Ammonia increased,6
+10015883,Aphasia,3
+10015883,Aspartate aminotransferase increased,6
+10015883,Neutrophil count decreased,6
+10015883,Lymphocyte count increased,6
+10015883,Blood alkaline phosphatase increased,6
+10015883,Alanine aminotransferase increased,6
+10015883,Ataxia,3
+10015920,Cerebral haemorrhage,1
+10015921,Headache,1
+10016029,Dehydration,1
+10016029,Viral infection,6
+10016038,Cerebral atrophy,3
+10016038,Memory impairment,6
+10016038,Fatigue,3
+10016038,Dizziness,1
+10016058,Multiple injuries,6
+10016058,Gastrointestinal haemorrhage,6
+10016136,Dyspnoea,6
+10016136,Abdominal discomfort,6
+10016136,Deformity,3
+10016136,Haemorrhagic anaemia,6
+10016136,Fatigue,6
+10016136,Loss of employment,3
+10016136,Social problem,3
+10016136,Pain,3
+10016136,Anhedonia,3
+10016136,Gastrointestinal haemorrhage,6
+10016136,Injury,3
+10016136,Physical disability,3
+10016136,Tension,3
+10016136,Economic problem,3
+10016136,Psychological trauma,3
+10016174,Death,5
+10016174,Transplant evaluation,6
+10016174,Nasopharyngitis,6
+10016174,Toothache,6
+10016174,Arthritis,6
+10016174,Hypoxia,6
+10016174,Oropharyngeal pain,6
+10016174,Hepatomegaly,6
+10016174,Influenza,6
+10016174,Dyspnoea,6
+10016174,Dyspnoea exertional,6
+10016174,Wheezing,6
+10016174,Cough,6
+10016174,Oedema peripheral,6
+10016174,Fatigue,6
+10016271,Off label use,6
+10016271,Rash,6
+10016271,Deafness,6
+10016297,Myocardial infarction,1
+10016297,Blood pressure abnormal,3
+10016297,Off label use,Not Reported
+10003320,Headache,6
+10003320,Hypotension,6
+10003332,Proctalgia,3
+10003332,Anorectal discomfort,3
+10003332,Rectal haemorrhage,3
+10003642,Osteomyelitis,1
+10003885,Ammonia increased,1
+10003959,Splenomegaly,6
+10003959,Dyspnoea,6
+10003959,Insomnia,6
+10004111,Rash,3
+10004111,Headache,6
+10004443,Electrocardiogram QT prolonged,1
+10004506,Blood pressure increased,3
+10004506,Sjogren^s syndrome,3
+10004506,Chest pain,3
+10004506,Infusion related reaction,3
+10004506,Drug ineffective,3
+10004506,Fatigue,3
+10004506,Hypoaesthesia,3
+10004506,Nausea,3
+10004506,Weight increased,3
+10004506,Alopecia,3
+10004506,Eye disorder,3
+10004506,Body height decreased,3
+10004506,Decreased appetite,3
+10004506,Arthritis,3
+10004506,Fall,3
+10004506,Dyspnoea,3
+10004506,Oral mucosal blistering,3
+10004506,Rash generalised,3
+10004687,Arteritis,1
+10005094,Death,5
+10005378,Proteinuria,6
+10005378,Abortion spontaneous,6
+10005378,Hypertension,1
+10005378,Maternal exposure during pregnancy,6
+10005537,Paraspinal abscess,2
+10005537,Osteomyelitis,2
+10005632,Bronchopneumonia,6
+10005759,Urticaria,6
+10005759,Dyspnoea,6
+10005759,Pruritus,6
+10005816,Lung neoplasm malignant,5
+10005816,Metastases to heart,5
+10005816,Metastasis,6
+10005821,Fall,6
+10005821,Bedridden,3
+10005821,Limb injury,6
+10005821,Drug administration error,6
+10005821,Pruritus,3
+10005821,Incorrect dose administered,6
+10005821,Ear infection,6
+10005821,Application site vesicles,6
+10005821,Application site erythema,6
+10005821,Application site pruritus,6
+10006198,Eye swelling,2
+10006198,Rash,1
+10006198,Ocular hyperaemia,2
+10006198,Incorrect dose administered,6
+10006212,Death,5
+10006212,Pain,3
+10006212,Pruritus,3
+10006212,Mucosal inflammation,3
+10006367,Type 2 diabetes mellitus,3
+10006515,Loss of consciousness,3
+10006515,Arrhythmia,3
+10007306,Drug ineffective,6
+10007306,Product closure removal difficult,6
+10008620,Weight decreased,Not Reported
+10008658,Abdominal discomfort,3
+10008658,Nausea,3
+10008752,Vision blurred,1
+10008752,Nausea,1
+10008752,Fatigue,1
+10008752,Dizziness,1
+10008752,Anaemia,1
+10008894,Haemoglobin decreased,6
+10009483,Haemoglobin decreased,3
+10009483,Urinary tract infection,3
+10009551,Swelling face,6
+10009551,Local swelling,6
+10009551,Pharyngeal oedema,6
+10009551,Pharyngeal erythema,6
+10009551,Therapeutic response unexpected,Not Reported
+10009580,Blood glucose fluctuation,6
+10009580,Dysphonia,6
+10009580,Fatigue,6
+10009581,Musculoskeletal pain,6
+10009623,Haematocrit decreased,2
+10009623,Haemoglobin decreased,2
+10009623,Aspartate aminotransferase increased,2
+10009849,Fall,1
+10009849,Dizziness,6
+10009849,Drug dose omission,6
+10009903,Fatigue,6
+10009903,Drug administration error,6
+10010000,Ascites,3
+10010012,Prothrombin time shortened,6
+10010033,Splenomegaly,6
+10010033,Drug dose omission,6
+10010073,Product label issue,6
+10010073,White blood cell count decreased,2
+10010073,White blood cell count abnormal,2
+10010073,Oropharyngeal pain,2
+10010073,Nasopharyngitis,2
+10010122,Eye haemorrhage,3
+10010156,Anaemia,6
+10010156,Dry mouth,6
+10010156,Drug ineffective,6
+10010160,Back pain,6
+10010160,Musculoskeletal pain,6
+10010198,Gingival pain,1
+10010198,Gingival swelling,1
+10010198,Tooth disorder,1
+10010231,Electrocardiogram QT prolonged,1
+10010591,Fatigue,Not Reported
+10010591,Melaena,Not Reported
+10010591,International normalised ratio increased,Not Reported
+10010591,Haemoglobin decreased,Not Reported
+10010591,Haematocrit decreased,Not Reported
+10010591,Gastritis,Not Reported
+10010591,Oesophageal candidiasis,Not Reported
+10010591,Gastrointestinal haemorrhage,Not Reported
+10010701,Multiple sclerosis relapse,6
+10010735,Deep vein thrombosis,1
+10011059,Acute myocardial infarction,5
+10011690,Urticaria,Not Reported
+10011690,Product label issue,Not Reported
+10011690,Product quality issue,Not Reported
+10011771,Cataract,2
+10011771,Goitre,6
+10011845,Tremor,2
+10011845,Ischaemic stroke,6
+10011845,Hemiparesis,6
+10011845,Seizure,6
+10011845,Off label use,6
+10011845,Haemorrhagic stroke,6
+10011845,Bradyphrenia,6
+10011845,Malaise,6
+10012029,Febrile neutropenia,1
+10012291,Rash erythematous,1
+10012291,Application site erythema,6
+10012449,Electrocardiogram QT prolonged,1
+10012461,Gingival swelling,1
+10012461,Gingival pain,1
+10012461,Tooth disorder,1
+10012629,Osteoarthritis,1
+10012629,Arthralgia,3
+10012629,Rheumatoid arthritis,3
+10012635,Blood pressure abnormal,6
+10012635,Urinary tract infection,6
+10012635,Malaise,3
+10012635,Diarrhoea,1
+10012635,Spinal pain,2
+10012635,Dizziness,3
+10012635,Tremor,3
+10012635,Cold sweat,3
+10012635,Presyncope,3
+10012635,Feeling abnormal,6
+10012635,Hypoaesthesia,6
+10012635,Dyspnoea,6
+10012635,Pollakiuria,6
+10012635,Urinary incontinence,6
+10012635,Insomnia,6
+10012635,Abdominal pain upper,1
+10012635,Asthenia,3
+10012635,Back pain,6
+10012635,Pain in extremity,2
+10013545,Breast cancer in situ,3
+10013637,Dizziness,1
+10013637,Headache,1
+10013689,Cardiac arrest,1
+10013689,Arrhythmia,1
+10013689,Fatigue,1
+10013689,Chest pain,1
+10013689,Drug dose omission,1
+10013689,Off label use,3
+10013999,Bone neoplasm,3
+10013999,Prostatic specific antigen increased,3
+10013999,Drug ineffective,6
+10014065,Blood potassium decreased,3
+10014065,Pyrexia,6
+10014065,Injection site mass,3
+10014254,Drug ineffective,6
+10014254,Nasal congestion,6
+10014254,Cough,6
+10014254,Infusion site urticaria,6
+10014442,Breast cancer,6
+10014442,Drug ineffective,6
+10014515,Pruritus,1
+10014515,Application site rash,2
+10015007,Blood pressure increased,1
+10015007,Dizziness,1
+10015007,Palpitations,1
+10015221,Fall,6
+10015221,Hand fracture,1
+10015234,Cardiac disorder,6
+10015234,Palpitations,6
+10015237,Vision blurred,6
+10015237,Chromatopsia,6
+10015293,Chromatopsia,6
+10015293,Vision blurred,6
+10015892,Atrial fibrillation,6
+10015892,Arthralgia,6
+10015892,Synovitis,6
+10015892,Sleep disorder,6
+10015892,Thrombosis,6
+10015892,Drug interaction,6
+10015892,Joint stiffness,6
+10015892,Hypersensitivity,6
+10016301,Blood glucose increased,6
+10016301,Pain,1
+10016301,Application site erythema,1
+10016301,Application site pruritus,1
+10016301,Off label use,6
+10016328,Pancreatic carcinoma,5
+10016376,Blood pressure inadequately controlled,1
+10016376,Upper respiratory tract infection,1
+10016376,Photopsia,6
+10016376,Pain in extremity,6
+10016425,Renal failure acute,2
+10016425,Condition aggravated,6
+10016450,Small intestinal obstruction,3
+10016450,Pneumonia,3
+10016450,Swelling,6
+10016450,Pneumonia,6
+10016450,Abdominal pain,6
+10016450,Chest pain,6
+10016453,Oedema mouth,3
+10016453,Hypersensitivity,3
+10016453,Swollen tongue,1
+10016453,Oral mucosal erythema,3
+10016453,Stomatitis,3
+10016453,Oral disorder,3
+10016453,Oral mucosal blistering,3
+10016453,Thermal burn,3
+10016481,Photosensitivity reaction,2
+10016481,Rash erythematous,2
+10016481,Rash papular,2
+10016481,Ephelides,2
+10016481,Graft versus host disease in skin,6
+10016546,Fluid retention,1
+10016546,Dyspnoea,6
+10016546,Oedema peripheral,6
+10016668,Sciatica,6
+10016668,Flank pain,6
+10016668,Retinal infarction,1
+10016668,Mood swings,6
+10016668,Hypoaesthesia,6
+10016668,Appetite disorder,6
+10016668,Parosmia,6
+10016668,Rash,6
+10016668,Influenza like illness,6
+10016668,Nausea,6
+10016738,Depression,6
+10016738,Blood glucose increased,6
+10016738,Hyperuricaemia,6
+10016738,Blood cholesterol,6
+10016738,Blood triglycerides,6
+10016738,Cytomegalovirus viraemia,6
+10017075,Renal cyst,1
+10017075,Multiple sclerosis relapse,1
+10017140,Dyspnoea,3
+10017140,Upper respiratory tract infection,1
+10017140,Dizziness,1
+10017140,Secretion discharge,3
+10017140,Cough,3
+10017186,Renal failure acute,2
+10017186,Condition aggravated,6
+10017353,Immune-mediated necrotising myopathy,2
+10017354,Blood pressure fluctuation,3
+10017354,Arrhythmia,3
+10017354,Anxiety,3
+10017354,Tachycardia,3
+10017354,Skin disorder,3
+10017354,Muscular weakness,3
+10017354,Abdominal pain upper,3
+10017354,Malaise,3
+10017427,Incorrect product storage,6
+10017427,Drug ineffective,6
+10017446,Disease progression,6
+10017446,Renal cancer,6
+10017502,Neuropathy peripheral,Not Reported
+10017502,Disease recurrence,Not Reported
+10017502,Somnolence,Not Reported
+10017502,Dry mouth,Not Reported
+10017502,Product substitution issue,Not Reported
+10017530,Stress,Not Reported
+10017530,Blood glucose increased,Not Reported
+10017530,Fluid retention,Not Reported
+10017530,Muscle tightness,Not Reported
+10017530,Dry throat,Not Reported
+10017530,Pain,Not Reported
+10017530,Constipation,Not Reported
+10017530,Sluggishness,Not Reported
+10017530,Dyspnoea,Not Reported
+10017530,Speech disorder,Not Reported
+10017530,Pollakiuria,Not Reported
+10017530,Drug ineffective,Not Reported
+10017550,Drug administration error,6
+10017550,Inappropriate schedule of drug administration,6
+10017550,Drug effect decreased,6
+10017668,Musculoskeletal stiffness,Not Reported
+10017668,Gait disturbance,Not Reported
+10017668,Musculoskeletal pain,Not Reported
+10017668,Arthralgia,Not Reported
+10017668,Pain in extremity,Not Reported
+10017668,Cough,Not Reported
+10017848,Mania,6
+10017848,Depression,6
+10017848,Suicidal ideation,6
+10017848,Fear,6
+10018205,Movement disorder,Not Reported
+10018205,Dysphonia,Not Reported
+10018253,Rash,6
+10018253,Ageusia,6
+10018253,Stomatitis,6
+10018253,Dysphagia,6
+10018342,Drug dispensing error,Not Reported
+10018342,Wrong drug administered,Not Reported
+10018342,Product label on wrong product,Not Reported
+10018342,Renal failure chronic,Not Reported
+10018342,Kidney transplant rejection,Not Reported
+10018533,Cardiac failure chronic,1
+10018533,Chronic obstructive pulmonary disease,1
+10018533,Acute respiratory failure,1
+10018533,Dyspnoea,6
+10018533,Fluid retention,6
+10018533,Nasopharyngitis,1
+10018637,Death,5
+10018637,Diarrhoea,3
+10018637,Dehydration,3
+10018637,Abdominal distension,3
+10018637,Peripheral swelling,3
+10018637,Asthenia,3
+10018637,Renal failure acute,6
+10018637,Cardiac failure acute,6
+10018649,Gait disturbance,3
+10018649,Hepatic enzyme increased,3
+10018683,Open fracture,6
+10018683,Rash,6
+10018713,Muscle spasms,1
+10018908,Ischaemic stroke,4
+10018908,Cerebral infarction,4
+10018915,Drug effect decreased,6
+10018915,Product adhesion issue,6
+10018967,Breast cancer,1
+10018991,Confusional state,1
+10018991,Amnesia,1
+10018991,Hypoaesthesia,1
+10018991,Muscular weakness,1
+10018991,Facial paresis,1
+10018991,Dizziness,1
+10018991,Drug ineffective,6
+10018993,Chest pain,1
+10018993,Blood creatinine increased,1
+10018993,Musculoskeletal pain,1
+10018993,Pain in extremity,1
+10019040,Inappropriate antidiuretic hormone secretion,Not Reported
+10019040,Hypovolaemia,Not Reported
+10019040,Hypokalaemia,Not Reported
+10019040,Hypocalcaemia,Not Reported
+10019040,Hyperglycaemia,Not Reported
+10019040,Hypophosphataemia,Not Reported
+10019040,Tachycardia,Not Reported
+10019040,Bone pain,Not Reported
+10019040,Disease progression,Not Reported
+10019135,Memory impairment,6
+10019135,Abdominal pain upper,6
+10019146,Erectile dysfunction,3
+10019373,Nasal discomfort,3
+10019373,Pain,3
+10019385,Arthralgia,2
+10019385,Pain,2
+10019385,Limb discomfort,2
+10019392,Hospitalisation,6
+10019393,Back pain,4
+10019393,Muscle spasms,6
+10019397,Arteritis,1
+10019641,Myalgia,1
+10019641,Musculoskeletal stiffness,1
+10019641,Pain in extremity,1
+10019652,Immune-mediated necrotising myopathy,2
+10019727,Flushing,1
+10019727,Erythema,1
+10019727,Swelling face,1
+10019727,Rash macular,1
+10019727,Feeling hot,1
+10019745,Condition aggravated,3
+10019745,Rebound effect,3
+10019745,Pallor,1
+10019745,Pruritus,3
+10019745,Erythema,3
+10019745,Skin burning sensation,3
+10019745,Flushing,3
+10019745,Off label use,1
+10019776,Condition aggravated,3
+10019776,Rash macular,3
+10019776,Erythema,3
+10019776,Skin burning sensation,3
+10020057,Depression,5
+10020057,Pneumonia,5
+10020057,Fluid retention,5
+10020064,Drug hypersensitivity,1
+10020064,Pulmonary embolism,1
+10020439,Bronchitis,6
+10020638,Platelet count decreased,1
+10020638,Pneumonia,2
+10020638,Infusion related reaction,1
+10020651,Pneumonia,Not Reported
+10020651,Oedema,Not Reported
+10020651,Chronic obstructive pulmonary disease,Not Reported
+10020729,Blood pressure increased,Not Reported
+10020729,Influenza like illness,Not Reported
+10020729,Atrial fibrillation,Not Reported
+10020729,Cardiac failure,Not Reported
+10020729,Renal failure,Not Reported
+10020729,International normalised ratio abnormal,Not Reported
+10020729,Blood pressure inadequately controlled,Not Reported
+10020729,Hypothyroidism,Not Reported
+10020729,Lung disorder,Not Reported
+10020729,Drug interaction,Not Reported
+10020729,Asthenia,Not Reported
+10020729,Orthopnoea,Not Reported
+10020729,Pulmonary oedema,Not Reported
+10020729,Dyspnoea,Not Reported
+10020729,Hypertensive crisis,Not Reported
+10020757,Pyrexia,6
+10020757,Myalgia,6
+10020757,Haematuria,6
+10020757,Urinary tract infection,6
+10020826,Clostridium difficile infection,3
+10020826,Gastric haemorrhage,3
+10020988,Arteritis,1
+10021000,Dizziness,Not Reported
+10021000,Hypertension,Not Reported
+10021011,Drug ineffective,Not Reported
+10021011,Dysgeusia,Not Reported
+10021011,Dry mouth,Not Reported
+10021011,Product shape issue,Not Reported
+10021234,Haematuria,6
+10021234,Urinary tract infection,6
+10021234,Pyrexia,6
+10021234,Myalgia,6
+10021278,International normalised ratio increased,Not Reported
+10021278,Bronchopneumonia,Not Reported
+10021278,Infective exacerbation of chronic obstructive airways disease,Not Reported
+10021339,Pain in extremity,2
+10021339,Oedema peripheral,2
+10021339,Chillblains,6
+10021355,Burning sensation,Not Reported
+10021355,Paraesthesia,Not Reported
+10021355,Hypoaesthesia,Not Reported
+10021355,Muscle spasms,Not Reported
+10021355,Neuropathy peripheral,Not Reported
+10021552,Hypertensive crisis,1
+10021552,Hypoglycaemia,1
+10021552,Vision blurred,1
+10021552,Dizziness,1
+10021877,Oedema peripheral,2
+10021877,Pain in extremity,2
+10021877,Chillblains,6
+10021891,Portal vein thrombosis,Not Reported
+10021891,Gastric ulcer,Not Reported
+10021891,Atrioventricular block first degree,Not Reported
+10021891,Electrocardiogram ST segment abnormal,Not Reported
+10021891,Varices oesophageal,Not Reported
+10021891,Portal hypertensive gastropathy,Not Reported
+10021891,Duodenal ulcer,Not Reported
+10021891,Mesenteric vein thrombosis,Not Reported
+10021891,International normalised ratio increased,Not Reported
+10021891,Sinus bradycardia,Not Reported
+10022041,Pancytopenia,5
+10022041,Cardio-respiratory arrest,5
+10022159,Respiratory distress,5
+10022159,Chest pain,5
+10022159,Cardio-respiratory arrest,5
+10022159,Acute myocardial infarction,5
+10022175,Vision blurred,1
+10022249,Tendonitis,Not Reported
+10022329,Hypersensitivity,1
+10022329,Lymphoedema,6
+10022329,Peripheral swelling,2
+10022329,Pain in extremity,2
+10022329,Somnolence,1
+10022329,Malaise,1
+10022329,Flushing,1
+10022329,Joint swelling,2
+10022329,Fatigue,1
+10022329,Pain,1
+10022329,Feeling abnormal,6
+10022329,Blood pressure decreased,6
+10022329,Shock,6
+10022329,Loss of consciousness,1
+10022535,Pain in extremity,2
+10022535,Oedema peripheral,2
+10022535,Chillblains,6
+10022645,Dyspnoea,1
+10022645,Eye irritation,1
+10022645,Hypersensitivity,6
+10022690,Cough,1
+10022690,Heart rate irregular,1
+10023078,Arteritis,1
+10023086,Necrotising fasciitis,1
+10023086,Septic shock,1
+10023086,Adrenal insufficiency,1
+10023103,Pain in extremity,2
+10023103,Oedema peripheral,2
+10023103,Chillblains,6
+10023324,Multiple allergies,6
+10023422,Femur fracture,6
+10023422,Low turnover osteopathy,6
+10023422,Anxiety,6
+10023422,Emotional distress,6
+10023576,Vomiting,Not Reported
+10023676,Lower respiratory tract infection,1
+10023676,Oropharyngeal pain,1
+10023788,Lip swelling,Not Reported
+10023788,Dyspnoea,Not Reported
+10023788,Palatal oedema,Not Reported
+10024040,Musculoskeletal chest pain,2
+10024103,Drug ineffective,6
+10024197,Heat stroke,6
+10024197,Drug intolerance,1
+10024197,Alopecia,2
+10024197,Dry mouth,3
+10024231,Lipids increased,Not Reported
+10003432,Oedema peripheral,6
+10003432,Fluid retention,1
+10003539,Pulmonary embolism,1
+10003539,Anaemia,1
+10003539,Haemoglobin decreased,6
+10003565,Fatigue,2
+10003565,Insomnia,2
+10003632,Influenza,2
+10003632,Pneumonia,2
+10003654,Hair growth abnormal,2
+10003654,Skin disorder,3
+10003654,Alopecia,3
+10003803,Balance disorder,2
+10003803,Gait disturbance,2
+10004006,Nausea,2
+10004006,Vomiting,2
+10004006,Abdominal pain upper,2
+10004006,Fatigue,2
+10004006,Haemoglobin decreased,2
+10004018,Anaphylactic reaction,1
+10004018,Metrorrhagia,3
+10004018,Dizziness,6
+10004089,Convulsion,1
+10004089,Alcohol detoxification,1
+10004089,Loss of consciousness,1
+10004089,Alcohol withdrawal syndrome,1
+10004089,Renal failure acute,1
+10004089,Dehydration,1
+10004089,Joint injury,1
+10004089,Tongue injury,1
+10004089,Swollen tongue,1
+10004089,Electrolyte imbalance,1
+10004089,Dysarthria,1
+10004089,Fall,1
+10004089,Laceration,1
+10004089,Gait disturbance,1
+10004089,Headache,1
+10004089,Drug ineffective,6
+10004162,Fatigue,3
+10004162,Stomatitis,6
+10004162,Haemoglobin decreased,3
+10004162,Platelet count decreased,3
+10004162,Weight increased,3
+10004227,Glaucoma,6
+10004227,Cataract,6
+10004227,Vitamin D decreased,6
+10004227,Arthropathy,6
+10004262,Dry mouth,3
+10004262,Dry eye,3
+10004345,Retinal detachment,6
+10004345,Visual field defect,6
+10004345,Fibromyalgia,6
+10004345,Eye disorder,6
+10004359,Abdominal pain upper,1
+10004359,Headache,1
+10004359,Dizziness,1
+10004538,Drug ineffective,6
+10004586,Hepatic enzyme increased,6
+10004629,Diarrhoea,1
+10004976,Respiratory tract congestion,6
+10005199,Chest pain,6
+10005199,Abdominal pain,6
+10005199,Scleroderma,6
+10005199,Dyspnoea,6
+10005199,Abdominal distension,6
+10005204,Nasal congestion,1
+10005204,Constipation,1
+10005204,Spondylitis,1
+10005204,Weight increased,6
+10005282,Circulatory collapse,1
+10005419,Injection site haemorrhage,6
+10005429,Intentional underdose,3
+10005429,Wrong technique in drug usage process,3
+10005429,Drug withdrawal syndrome,6
+10005429,Insomnia,1
+10005429,Decreased appetite,1
+10005429,Loss of consciousness,1
+10005429,Dehydration,1
+10005429,Blood glucose abnormal,1
+10005696,Influenza,1
+10005696,Mental impairment,1
+10005696,Stress,1
+10005696,Paraesthesia,3
+10005696,Nausea,1
+10005696,Flushing,6
+10005696,Erythema,1
+10005696,Vomiting,1
+10005696,Abdominal discomfort,1
+10005696,Gastroenteritis viral,6
+10005720,Cough,6
+10005720,Rhinorrhoea,6
+10005720,Flushing,6
+10005720,Nausea,6
+10005720,Abdominal discomfort,6
+10006051,Blindness,3
+10006051,Deafness,3
+10006051,Loss of consciousness,6
+10006051,Contusion,6
+10006051,Glaucoma,6
+10006051,Pruritus,6
+10006051,Muscle disorder,3
+10006051,Confusional state,6
+10006051,Skin lesion,6
+10006051,Pain,6
+10006051,Oral disorder,6
+10006051,Delusion,6
+10006051,Aggression,6
+10006130,Death,5
+10006159,Blood disorder,5
+10006159,Neoplasm malignant,5
+10006166,Incorrect dose administered,6
+10006166,Death,5
+10006240,Gastrointestinal haemorrhage,6
+10006240,Drug interaction,6
+10006269,Pulmonary embolism,Not Reported
+10006313,Haemorrhage,6
+10006313,Drug interaction,6
+10006341,Coma,1
+10006341,Suicide attempt,1
+10006341,Tachycardia,1
+10006341,Oxygen saturation decreased,1
+10006341,Electrocardiogram QT prolonged,1
+10006341,Hypotension,1
+10006341,Endotracheal intubation,1
+10006341,Poisoning,1
+10006341,Overdose,6
+10006434,Gastrointestinal haemorrhage,6
+10006505,Haemorrhage,6
+10006505,Drug interaction,6
+10006537,Coronary artery occlusion,1
+10006537,Eye haemorrhage,1
+10006537,Blood pressure increased,1
+10006537,Sleep apnoea syndrome,3
+10006537,Dyspnoea,6
+10006537,Rash maculo-papular,1
+10006537,Nervousness,1
+10006642,Palmar-plantar erythrodysaesthesia syndrome,1
+10006642,Off label use,6
+10006642,Neuropathy peripheral,3
+10006642,Disease progression,6
+10006642,Thyroid cancer metastatic,6
+10006642,Toxicity to various agents,6
+10006642,Muscle spasms,3
+10006642,Weight decreased,6
+10006642,Drug intolerance,6
+10006642,Pain,6
+10006642,Transaminases increased,6
+10006667,Headache,6
+10006667,Nasopharyngitis,6
+10006667,Bone disorder,6
+10006993,Vomiting,Not Reported
+10006993,Loss of consciousness,Not Reported
+10006993,Dizziness,Not Reported
+10006993,Hyperhidrosis,Not Reported
+10006993,Asthenia,Not Reported
+10006993,Nausea,Not Reported
+10006993,Headache,Not Reported
+10007021,Drug hypersensitivity,Not Reported
+10007021,Cellulitis,Not Reported
+10007113,Intentional overdose,Not Reported
+10007113,Speech disorder,Not Reported
+10007113,Incoherent,Not Reported
+10007113,"Hallucination, visual",Not Reported
+10007113,Metabolic acidosis,Not Reported
+10007113,Rhabdomyolysis,Not Reported
+10007113,Confusional state,Not Reported
+10007113,Hyperkalaemia,Not Reported
+10007113,Haemodialysis,Not Reported
+10007113,Electrolyte imbalance,Not Reported
+10007195,Nausea,Not Reported
+10007195,Dehydration,Not Reported
+10007195,Cardiac arrest,Not Reported
+10007195,Abdominal pain,Not Reported
+10007244,Investigation,1
+10007244,Adverse event,1
+10007368,Pneumonia aspiration,5
+10007368,Aspiration,6
+10007368,Hypoxia,6
+10007368,Respiratory failure,6
+10007368,Multi-organ failure,6
+10007368,Oxygen supplementation,6
+10007368,Pneumonia,6
+10007368,Diarrhoea,2
+10007368,Fatigue,6
+10007368,Dehydration,6
+10007368,Asthenia,6
+10007368,Hypokalaemia,6
+10007368,Alopecia,6
+10007368,Fluid replacement,6
+10007368,Weight decreased,6
+10007368,Decreased appetite,6
+10007368,Cough,6
+10007368,Nausea,6
+10007368,Vomiting,6
+10007504,Seizure like phenomena,1
+10007504,Fatigue,3
+10007504,Muscle spasms,3
+10007513,Type 2 diabetes mellitus,3
+10007513,Visual impairment,3
+10007667,Logorrhoea,6
+10007667,Drug effect decreased,6
+10007667,Inappropriate schedule of drug administration,6
+10007667,Heart rate increased,6
+10007667,Overdose,6
+10007899,Dehydration,1
+10007899,Febrile neutropenia,1
+10008529,Diarrhoea,6
+10008529,Abdominal pain upper,6
+10008690,Vomiting,1
+10008690,Anxiety,6
+10008690,Diarrhoea,3
+10008690,Weight increased,3
+10008690,Urinary tract infection,2
+10008690,Pruritus,6
+10008690,Dry skin,6
+10008690,Stomatitis,3
+10008690,Paraesthesia,3
+10008690,Dysphagia,6
+10008690,Depression,6
+10008690,Nausea,1
+10008690,Dysgeusia,3
+10008690,Therapeutic response unexpected,6
+10008690,Pyrexia,3
+10008690,Off label use,6
+10008690,Headache,3
+10008690,Night sweats,3
+10008690,Insomnia,6
+10008690,Hypoaesthesia,3
+10008690,Thrombocytopenia,1
+10008690,Rash,6
+10008690,Chest pain,2
+10008690,Constipation,3
+10008690,Anaemia,2
+10008690,Hot flush,3
+10008690,Cough,3
+10008739,Diarrhoea,3
+10008757,Diarrhoea,1
+10008779,Abdominal pain upper,6
+10008779,Diarrhoea,6
+10008779,Back pain,6
+10008779,Headache,6
+10008815,Chills,6
+10008815,Hyperhidrosis,6
+10008815,Neck pain,6
+10008815,Musculoskeletal pain,6
+10008815,Influenza like illness,6
+10008815,Headache,6
+10008815,Blood count abnormal,6
+10008815,Dizziness,6
+10008827,Platelet count decreased,6
+10008827,Wrong technique in drug usage process,3
+10008830,Platelet count decreased,6
+10008830,Blood count abnormal,6
+10008869,Venous thrombosis limb,3
+10008869,Pain in extremity,3
+10008869,Hypoaesthesia,3
+10008869,Fall,6
+10008869,Asthenia,6
+10008869,Paraesthesia,6
+10008869,Constipation,3
+10008869,Arthralgia,3
+10008869,Contusion,3
+10008869,Fatigue,3
+10008869,Intervertebral disc protrusion,3
+10008880,Pruritus generalised,3
+10008880,Therapeutic response unexpected,1
+10008880,Rash,6
+10008880,Pyrexia,3
+10008880,Hot flush,3
+10008880,Night sweats,3
+10008880,Cough,3
+10008880,Stomatitis,3
+10008880,Nausea,3
+10008880,Vomiting,3
+10008880,Dry skin,6
+10008880,Constipation,3
+10008880,Diarrhoea,3
+10008880,Insomnia,6
+10008880,Anxiety,6
+10008880,Hypoaesthesia,3
+10008880,Paraesthesia,3
+10008880,Weight increased,3
+10008880,Anaemia,3
+10008880,Headache,3
+10008880,Platelet count decreased,1
+10008880,Contusion,6
+10008880,Dysphagia,6
+10008880,Depression,Not Reported
+10008912,Blood count abnormal,6
+10008939,Haemoglobin decreased,6
+10009320,Adverse drug reaction,6
+10009393,Lobar pneumonia,5
+10009398,Blood pressure increased,2
+10009398,Haemorrhage,2
+10009398,Increased appetite,2
+10009398,Weight increased,2
+10009398,Heart rate increased,2
+10009398,Fatigue,2
+10009431,Tinea cruris,3
+10009431,Alopecia,3
+10009506,Hypersomnia,3
+10009555,Platelet count decreased,1
+10009555,Haemoglobin decreased,3
+10009586,Pain in extremity,6
+10009586,Arthralgia,6
+10009664,Platelet count decreased,2
+10009664,Anaemia,2
+10009664,Fatigue,2
+10009671,Pollakiuria,3
+10009686,Abdominal distension,3
+10009686,Abdominal pain upper,3
+10009686,Dyspnoea,3
+10009686,Fatigue,3
+10009686,Iron deficiency,3
+10009790,Rash pruritic,6
+10009790,Oedema peripheral,6
+10009790,Abdominal distension,6
+10009790,Condition aggravated,6
+10009790,Blood iron decreased,6
+10009793,Platelet count increased,6
+10009793,Off label use,6
+10009793,Abdominal pain,6
+10009793,White blood cell count increased,6
+10009793,Anaemia,6
+10009793,Fatigue,6
+10009810,Blood potassium increased,1
+10009810,Cough,6
+10009810,Feeling abnormal,6
+10009810,Anaemia,1
+10009810,White blood cell count decreased,1
+10009812,Drug ineffective,3
+10009867,Blood uric acid increased,2
+10009867,Wrong technique in drug usage process,6
+10009887,Chest pain,6
+10009887,Nausea,6
+10009887,Fatigue,6
+10009887,Decreased appetite,6
+10009887,Anaemia,6
+10009887,Headache,6
+10009887,Weight decreased,Not Reported
+10009935,Anaemia,6
+10009935,Red blood cell count decreased,6
+10009935,Sinusitis,1
+10009935,Bronchitis,1
+10009935,Mastoiditis,6
+10009935,Frequent bowel movements,6
+10009935,Mucosal inflammation,6
+10009935,Muscle spasms,6
+10009935,Dyspnoea,6
+10009935,Epistaxis,6
+10009935,Anxiety,Not Reported
+10009935,Diarrhoea,6
+10009935,Erythema,6
+10009935,Contusion,6
+10009935,Dizziness,6
+10009936,Anaemia,6
+10009936,Disease progression,3
+10009936,Splenomegaly,3
+10009936,Lung consolidation,6
+10009936,Goitre,6
+10009995,Palpitations,6
+10009995,Hypoaesthesia,6
+10009995,Abdominal distension,6
+10009995,Chills,6
+10009995,Fatigue,6
+10009995,Asthenia,6
+10009995,Abdominal pain,6
+10009995,Decreased appetite,6
+10009995,Dizziness,6
+10009996,Diarrhoea,3
+10009996,Rash,6
+10009996,Hernia,6
+10009996,Bronchitis,6
+10009996,Anaemia,6
+10010172,Pain,6
+10010172,Chest pain,6
+10010172,Skin lesion,6
+10010172,Fatigue,6
+10010172,Epistaxis,6
+10010172,Headache,6
+10010172,Contusion,Not Reported
+10010348,Renal cell carcinoma,6
+10010348,Metastases to adrenals,6
+10010348,Prostate cancer,6
+10010348,Squamous cell carcinoma,6
+10010348,Hypertension,6
+10010348,Hypercholesterolaemia,6
+10010348,Neuropathy peripheral,6
+10010348,Food aversion,6
+10010348,Pain in extremity,6
+10010348,Gastrooesophageal reflux disease,6
+10010348,Drug ineffective,6
+10010364,Death,5
+10010364,Cholecystitis,6
+10010364,Haemorrhage,6
+10010592,Renal failure acute,Not Reported
+10010673,Muscular weakness,6
+10010673,Muscle spasms,4
+10010673,Hypoaesthesia,6
+10010673,Muscle rigidity,4
+10010673,Sleep disorder,6
+10010673,Musculoskeletal stiffness,4
+10010700,Swollen tongue,1
+10010700,Hypoaesthesia oral,1
+10010700,Haemoglobin abnormal,3
+10010700,Haematocrit abnormal,3
+10010700,Inappropriate schedule of drug administration,Not Reported
+10010700,Blood potassium abnormal,3
+10010700,Blood calcium abnormal,3
+10010700,Blood cholesterol increased,3
+10010873,Cerebrovascular accident,1
+10010873,Transient ischaemic attack,1
+10010873,Thrombosis,1
+10010873,Diplopia,3
+10010873,Pulmonary embolism,1
+10010873,Headache,6
+10010971,Renal disorder,3
+10010971,Intestinal resection,1
+10010971,Colon cancer metastatic,3
+10010971,Pain,3
+10010971,Hypertension,3
+10010971,Malaise,3
+10011463,Pancreatic carcinoma stage IV,2
+10011463,Lipase increased,6
+10011469,Cholecystitis,1
+10011469,Gallbladder disorder,6
+10011570,Rectal prolapse,6
+10011570,Fungal infection,6
+10011570,Pyrexia,6
+10011570,Influenza like illness,6
+10011572,Upper respiratory tract infection,Not Reported
+10011572,Febrile neutropenia,Not Reported
+10011587,Dyspnoea exertional,3
+10011779,Hypoaesthesia,3
+10011779,Headache,3
+10011791,Chronic obstructive pulmonary disease,5
+10011791,Pneumonia streptococcal,6
+10011879,Nausea,1
+10011879,Retching,1
+10012077,Angioedema,Not Reported
+10012179,Peripheral swelling,6
+10012179,Nodule,6
+10012179,Pain in extremity,6
+10012179,Musculoskeletal pain,6
+10012204,Drug ineffective,6
+10012229,Haematemesis,1
+10012229,Neutrophil count decreased,1
+10012229,Vertigo,1
+10012229,Infection,1
+10012229,Nausea,6
+10012229,Vomiting,6
+10012229,Diarrhoea,6
+10012229,Malaise,6
+10012229,Neutropenia,6
+10012229,Pancytopenia,6
+10012229,Febrile neutropenia,6
+10012229,Thrombocytopenia,6
+10012267,Cough,Not Reported
+10012267,Vomiting,Not Reported
+10012267,Quality of life decreased,Not Reported
+10012267,Urinary incontinence,Not Reported
+10012368,Application site dryness,2
+10012368,Application site erythema,2
+10012368,Application site pruritus,2
+10012428,Transient ischaemic attack,1
+10012428,Hypoglycaemia,1
+10012428,Hypertension,1
+10012428,Multiple sclerosis,3
+10012428,Anaemia,1
+10012428,Hyperlipidaemia,1
+10012428,Gout,1
+10012428,Drug ineffective,6
+10012706,Drug dose omission,6
+10012706,Product quality issue,6
+10012749,Malaise,1
+10012749,Transient ischaemic attack,3
+10012749,Psoriasis,3
+10012749,Loss of consciousness,1
+10012749,Dehydration,1
+10012749,Ear infection,1
+10012749,Bradyphrenia,3
+10012859,Pruritus,3
+10012859,Decreased appetite,3
+10012859,Rash generalised,3
+10012859,Nightmare,3
+10012859,Suicidal ideation,6
+10012859,General physical health deterioration,3
+10012859,Rash,3
+10012859,Burning sensation,3
+10012932,Pollakiuria,1
+10012932,Condition aggravated,1
+10012932,Incorrect drug administration duration,6
+10012932,Off label use,6
+10012932,Drug ineffective,6
+10013020,Pneumonia,2
+10013020,Balance disorder,2
+10013020,Tremor,2
+10013020,Nervousness,2
+10013367,Pneumonia,1
+10013367,Lung neoplasm malignant,3
+10013367,Dementia,3
+10013476,Lobar pneumonia,5
+10013527,Death,5
+10013633,Condition aggravated,1
+10013633,Drug ineffective,6
+10013634,Condition aggravated,1
+10013634,Drug ineffective,6
+10013743,Pain,Not Reported
+10013743,Uterine perforation,Not Reported
+10013743,Injury,Not Reported
+10014027,Cough,6
+10014064,Blood count abnormal,6
+10014262,Femoral neck fracture,1
+10014262,Fall,1
+10014262,Hip fracture,6
+10014262,Multiple sclerosis relapse,1
+10014262,Feeling hot,6
+10014262,Restlessness,6
+10014271,Fatigue,6
+10014271,Hot flush,6
+10014271,Nausea,6
+10014271,Abdominal pain upper,6
+10014271,Diarrhoea,6
+10014271,Pruritus,6
+10014271,Erythema,6
+10014309,Suicidal ideation,3
+10014309,Anger,3
+10014309,White blood cell count decreased,3
+10014309,Flushing,6
+10014366,Urinary tract infection,6
+10014366,Dyspnoea,6
+10014366,Middle insomnia,6
+10014366,Flushing,6
+10014366,Rash,1
+10014366,Hot flush,6
+10014366,Erythema,6
+10014366,Feeling hot,6
+10014437,Benign lung neoplasm,1
+10014561,Gastrointestinal haemorrhage,3
+10014561,Faeces discoloured,3
+10014561,Faeces discoloured,1
+10014561,Extra dose administered,Not Reported
+10014561,Incorrect drug administration duration,Not Reported
+10014561,Labelled drug-drug interaction medication error,Not Reported
+10014862,Physical disability,3
+10014862,Tension,3
+10014862,Anhedonia,3
+10014862,Psychological trauma,3
+10014862,Gastrointestinal haemorrhage,3
+10014862,Multiple injuries,3
+10014862,Deformity,3
+10014862,Social problem,3
+10014862,Pain,3
+10014862,Economic problem,3
+10014862,Loss of employment,3
+10015014,Vascular graft occlusion,6
+10015014,Liver function test abnormal,6
+10015014,Alanine aminotransferase increased,6
+10015014,Aspartate aminotransferase increased,6
+10015014,Blood alkaline phosphatase increased,6
+10015014,Blood bilirubin increased,6
+10015014,Chest pain,6
+10015014,Dyspnoea exertional,6
+10015014,Haemoglobin decreased,6
+10015202,Tarsal tunnel syndrome,1
+10015202,Renal failure chronic,3
+10015243,Gingival pain,3
+10015243,Dry mouth,3
+10015243,Dry skin,3
+10015243,Oral pain,6
+10015243,Diarrhoea,6
+10015286,Pyrexia,6
+10015286,Vomiting,6
+10015286,Diarrhoea,6
+10015286,Skin disorder,6
+10015286,Disease progression,6
+10015286,Renal cancer,6
+10015464,Injection site extravasation,6
+10015464,Pain,6
+10015464,Mood swings,6
+10015464,Back pain,6
+10015464,Chest pain,6
+10015464,Insomnia,6
+10015464,Headache,6
+10015464,Pyrexia,6
+10015464,Chills,6
+10015464,Hypersensitivity,6
+10015464,Rash,6
+10015579,Device dislocation,1
+10015579,Nausea,3
+10015623,Muscular weakness,3
+10015623,Type 2 diabetes mellitus,3
+10015708,Drug hypersensitivity,6
+10015805,Chronic obstructive pulmonary disease,5
+10015805,Cardiac failure congestive,5
+10015805,Atrial fibrillation,5
+10015822,Chronic obstructive pulmonary disease,1
+10015822,Hyperventilation,1
+10015822,Coma,1
+10015822,Pneumothorax,1
+10006040,Nausea,3
+10006041,Confusional state,3
+10006041,Headache,3
+10006041,Purpura,3
+10006041,Speech disorder,3
+10006041,Fatigue,3
+10006041,Asthenia,3
+10006041,Heart rate increased,3
+10006041,Dyspnoea,3
+10006041,Urine output decreased,3
+10006041,Visual impairment,3
+10006139,Vaginal haemorrhage,1
+10006139,Haematuria,1
+10006139,Contusion,1
+10006796,Contusion,Not Reported
+10006796,Vaginal haemorrhage,Not Reported
+10006796,Dizziness,Not Reported
+10006796,Feeling abnormal,Not Reported
+10006796,Chromaturia,Not Reported
+10006796,Haematuria,Not Reported
+10006796,Drug interaction,Not Reported
+10006796,Self-medication,Not Reported
+10008400,Cerebrovascular accident,2
+10008400,Drug ineffective,6
+10010810,Altered state of consciousness,Not Reported
+10010810,Sopor,Not Reported
+10010810,Aspartate aminotransferase increased,Not Reported
+10010810,Blood creatine phosphokinase increased,Not Reported
+10010810,Off label use,Not Reported
+10010810,Sedation,Not Reported
+10010855,Thrombosis in device,1
+10010855,Drug resistance,1
+10012094,Gait disturbance,6
+10012156,Platelet aggregation increased,6
+10012579,No adverse event,5
+10012579,No adverse event,3
+10012586,Pyelonephritis,6
+10012639,Infarction,2
+10012639,Venous occlusion,2
+10012639,Cataract,2
+10012639,Visual impairment,2
+10012639,Cardiac disorder,2
+10012639,Glucose tolerance impaired,2
+10012639,Blood pressure fluctuation,2
+10012639,Blood glucose increased,2
+10013854,Insomnia,1
+10013854,Nausea,1
+10013854,Tachycardia,1
+10013854,Vomiting,1
+10013854,Product substitution issue,1
+10013876,Hallucination,3
+10013876,Rash,3
+10013876,Oedema,3
+10013876,Balance disorder,3
+10015875,Respiratory failure,5
+10015875,Hepatic enzyme increased,5
+10015875,Pneumonia,5
+10016491,Haematuria,1
+10016491,Strangury,1
+10016513,Tobacco user,5
+10016513,Pain,6
+10016513,Rash macular,1
+10016513,Urticaria,1
+10016513,Anhedonia,6
+10016513,Chest pain,1
+10016513,Atrial fibrillation,1
+10016513,Chronic kidney disease,5
+10016513,Fibrin D dimer increased,1
+10016513,Dyspnoea,1
+10016513,Peritonitis bacterial,1
+10016513,Regurgitation,6
+10016513,Diarrhoea,6
+10016513,Feeling of despair,6
+10016513,Device leakage,1
+10016513,Pruritus,1
+10016513,Hypertension,5
+10016513,Abdominal distension,6
+10017307,Influenza like illness,Not Reported
+10017307,Oropharyngeal pain,Not Reported
+10017307,Fatigue,Not Reported
+10017307,Arthralgia,Not Reported
+10017307,Lethargy,Not Reported
+10017307,Pyrexia,Not Reported
+10017345,Haematuria,1
+10017345,Strangury,1
+10019164,Rectal haemorrhage,1
+10019208,Dyspnoea,2
+10019208,Paraesthesia,6
+10019208,Drug hypersensitivity,6
+10019549,Rectal haemorrhage,1
+10019867,Dermatitis,1
+10019867,Drug ineffective for unapproved indication,1
+10019867,Off label use,1
+10019999,Abscess jaw,5
+10019999,Acute myeloid leukaemia,6
+10019999,Pneumonia,6
+10019999,Pleural effusion,6
+10020607,Gastritis,1
+10020752,Carpal tunnel syndrome,6
+10020752,Impaired healing,6
+10020752,Hepatitis,1
+10021087,Haemorrhage subcutaneous,Not Reported
+10021087,Product quality issue,Not Reported
+10021223,Hypotension,Not Reported
+10021223,Activated partial thromboplastin time prolonged,Not Reported
+10021223,Vision blurred,Not Reported
+10021223,Dizziness,Not Reported
+10021223,Blood pressure systolic decreased,Not Reported
+10021223,Drug interaction,Not Reported
+10021307,Subdural haematoma,1
+10021307,Brain herniation,1
+10021307,Respiration abnormal,1
+10021307,Depressed level of consciousness,1
+10021307,Coma,1
+10021366,Abortion missed,Not Reported
+10021366,Maternal exposure during pregnancy,Not Reported
+10021412,Cerebral microhaemorrhage,6
+10021412,Paralysis,1
+10021886,Exposure during pregnancy,1
+10021886,Abortion missed,1
+10021887,Abortion missed,1
+10021887,Exposure during pregnancy,1
+10021924,Feeling hot,Not Reported
+10021924,Oxygen saturation decreased,Not Reported
+10021924,Unresponsive to stimuli,Not Reported
+10021924,Vomiting,Not Reported
+10021924,Pulse absent,Not Reported
+10022194,Type 2 diabetes mellitus,3
+10022416,Cardiac disorder,6
+10022498,Angioedema,2
+10022664,Hyponatraemia,3
+10024005,Stress fracture,Not Reported
+10024005,Femur fracture,Not Reported
+10024005,Arthralgia,Not Reported
+10024005,Flank pain,Not Reported
+10024005,Weight bearing difficulty,Not Reported
+10024005,Pain in extremity,Not Reported
+10024005,Groin pain,Not Reported
+10024005,Osteogenesis imperfecta,Not Reported
+10024005,Bone disorder,Not Reported
+10024005,Low turnover osteopathy,Not Reported
+10024297,Syncope,1
+10024297,Dehydration,1
+10024973,Fracture displacement,Not Reported
+10024973,Fall,Not Reported
+10024973,Femur fracture,Not Reported
+10024973,Arthralgia,Not Reported
+10024973,Bone disorder,Not Reported
+10024973,Osteogenesis imperfecta,Not Reported
+10024973,Low turnover osteopathy,Not Reported
+10024973,Stress fracture,Not Reported
+10024973,Multiple fractures,Not Reported
+10024973,Gait disturbance,Not Reported
+10024973,Nervous system disorder,Not Reported
+10024973,Bursitis,Not Reported
+10024973,Pubis fracture,Not Reported
+10024973,Aortic aneurysm,Not Reported
+10024973,Lumbar spinal stenosis,Not Reported
+10024973,Cardiac failure congestive,Not Reported
+10024973,Myocardial infarction,Not Reported
+10024973,Depression,Not Reported
+10024973,Weight decreased,Not Reported
+10024973,Acetabulum fracture,Not Reported
+10025006,Hypoxia,1
+10025367,Angioedema,Not Reported
+10025563,Atrial fibrillation,Not Reported
+10025563,Drug dose omission,Not Reported
+10025576,Tremor,Not Reported
+10025576,Lethargy,Not Reported
+10025576,Mental status changes,Not Reported
+10025576,Confusional state,Not Reported
+10025576,Hypotension,Not Reported
+10025576,Localised infection,Not Reported
+10025576,Myoclonus,Not Reported
+10025576,Neurotoxicity,Not Reported
+10025576,Condition aggravated,Not Reported
+10025579,Cholecystitis,1
+10025642,Pupil fixed,Not Reported
+10025642,Dizziness,Not Reported
+10025642,Headache,Not Reported
+10025642,Blood glucose increased,Not Reported
+10025642,Hypotension,Not Reported
+10025952,Osteonecrosis,Not Reported
+10025952,Lymphoma,Not Reported
+10025952,Hyperthermia,Not Reported
+10025952,Normochromic normocytic anaemia,Not Reported
+10025952,Hyponatraemia,Not Reported
+10025952,General physical condition abnormal,Not Reported
+10025952,Weight decreased,Not Reported
+10025952,Hyperhidrosis,Not Reported
+10025952,Inflammation,Not Reported
+10025952,Eosinophilia,Not Reported
+10026085,Haematuria,6
+10026085,Pyrexia,6
+10026085,Myalgia,6
+10026085,Urinary tract infection,6
+10026365,Corrective lens user,2
+10026365,Visual acuity reduced,2
+10026365,Vision blurred,2
+10026456,Haematuria,6
+10026456,Pyrexia,6
+10026456,Myalgia,6
+10026456,Urinary tract infection,6
+10026928,Malaise,Not Reported
+10026928,Hepatitis,Not Reported
+10026928,Carpal tunnel syndrome,Not Reported
+10026928,Dupuytren^s contracture,Not Reported
+10026928,Activities of daily living impaired,Not Reported
+10026928,Asthenia,Not Reported
+10027789,Pulmonary embolism,3
+10027789,Deep vein thrombosis,6
+10027789,Incorrect route of drug administration,6
+10027789,Off label use,6
+10027838,Haematuria,6
+10027838,Urinary tract infection,6
+10027838,Pyrexia,6
+10027838,Myalgia,6
+10027840,Haematuria,6
+10027840,Urinary tract infection,6
+10027840,Pyrexia,6
+10027840,Myalgia,6
+10028107,Renal tubular disorder,2
+10028107,Tubulointerstitial nephritis,2
+10028344,Hospitalisation,Not Reported
+10028348,Grand mal convulsion,Not Reported
+10028348,Blood pressure increased,Not Reported
+10028348,Blood potassium decreased,Not Reported
+10028348,Blood glucose increased,Not Reported
+10028348,Hyponatraemia,Not Reported
+10028373,Ventricular extrasystoles,3
+10028444,Weight decreased,Not Reported
+10028444,Hypertension,Not Reported
+10028444,Thrombotic thrombocytopenic purpura,Not Reported
+10028444,Renal arteriosclerosis,Not Reported
+10028444,Renal embolism,Not Reported
+10028444,Nephrotic syndrome,Not Reported
+10028444,Microangiopathic haemolytic anaemia,Not Reported
+10028743,Pneumonitis,1
+10028743,Pulmonary haemorrhage,1
+10028743,Haemoptysis,1
+10028743,Labelled drug-drug interaction medication error,Not Reported
+10029007,Circulatory collapse,1
+10029007,Tachypnoea,1
+10029204,Death,5
+10029237,Haemoptysis,6
+10029909,Hip fracture,Not Reported
+10029909,Diarrhoea,Not Reported
+10031302,Inguinal hernia,6
+10031407,Renal failure acute,2
+10031407,Renal tubular necrosis,2
+10031407,Tubulointerstitial nephritis,2
+10031407,Rectal haemorrhage,6
+10031420,Subdural haematoma,2
+10031420,Labelled drug-drug interaction medication error,Not Reported
+10031420,Brain herniation,Not Reported
+10031427,Constipation,6
+10031427,Fall,6
+10031427,Loss of consciousness,6
+10031427,Rash,6
+10031427,Laceration,6
+10031427,Dehydration,6
+10031427,Abdominal pain upper,6
+10031427,Musculoskeletal stiffness,6
+10031427,Muscular weakness,6
+10031427,Muscle twitching,6
+10031427,Confusional state,6
+10031427,Excoriation,6
+10031427,Head injury,6
+10031427,Haemorrhage,6
+10031427,Dyspnoea,6
+10031427,Dry skin,6
+10031427,Feeling abnormal,6
+10031427,Hypokinesia,6
+10031870,Tubulointerstitial nephritis,2
+10031870,Renal tubular disorder,2
+10031871,Renal tubular disorder,2
+10031871,Tubulointerstitial nephritis,2
+10031951,Ischaemia,1
+10032807,Haemorrhage,1
+10032807,Cardiac disorder,6
+10032807,Carcinoid tumour of the gastrointestinal tract,1
+10032807,Incarcerated incisional hernia,1
+10032807,Diarrhoea,2
+10032807,Nausea,6
+10032897,Death,5
+10032897,Nausea,6
+10032897,Oropharyngeal pain,6
+10032897,Diarrhoea,1
+10033877,Retroperitoneal haematoma,3
+10033877,Haemarthrosis,6
+10033877,Haematoma,3
+10033877,Haematuria,6
+10033877,Acquired haemophilia,3
+10033877,Splenic rupture,6
+10033973,Haematuria,Not Reported
+10033973,Urinary tract infection,Not Reported
+10033973,Myalgia,Not Reported
+10033973,Pyrexia,Not Reported
+10034091,Urinary tract infection,Not Reported
+10034091,Haematuria,Not Reported
+10034181,Rash,1
+10034535,Influenza,Not Reported
+10034535,Bronchitis,Not Reported
+10034535,Syncope,Not Reported
+10034535,Head injury,Not Reported
+10034586,Chest pain,Not Reported
+10034586,Acute myocardial infarction,Not Reported
+10034586,Coronary artery stenosis,Not Reported
+10034586,Disease recurrence,Not Reported
+10034589,Air embolism,Not Reported
+10034589,Coronary artery restenosis,Not Reported
+10034701,Rash,1
+10034743,Arterial restenosis,1
+10034766,Dyspnoea exertional,1
+10034784,Dyspnoea exertional,1
+10034787,Acute myeloid leukaemia,Not Reported
+10034787,Myelodysplastic syndrome transformation,Not Reported
+10034787,Haemoglobin decreased,Not Reported
+10034883,Interstitial lung disease,Not Reported
+10034883,Neutropenia,Not Reported
+10034883,Anaemia,Not Reported
+10034883,Fatigue,Not Reported
+10035011,Cardiac operation,1
+10035011,Dyspnoea,1
+10035011,Pulmonary haemorrhage,1
+10035011,Injection site pain,1
+10035011,Arrhythmia,6
+10035287,Nasopharyngitis,Not Reported
+10035287,Laboratory test abnormal,Not Reported
+10035287,Weight decreased,Not Reported
+10035287,Dyspnoea,Not Reported
+10035908,Adverse event,6
+10035908,Contusion,6
+10036239,Shock,6
+10036243,Pulmonary oedema,6
+10036251,Shock,6
+10037075,Pancreatic carcinoma metastatic,Not Reported
+10037092,Malaise,Not Reported
+10037092,Kidney infection,Not Reported
+10037345,Vasospasm,Not Reported
+10037563,Incorrect dose administered,6
+10037563,Death,5
+10037563,Pruritus generalised,3
+10037784,Renal tubular disorder,Not Reported
+10037784,Tubulointerstitial nephritis,Not Reported
+10037784,Renal injury,Not Reported
+10037784,Nephropathy toxic,Not Reported
+10037784,Rectal haemorrhage,Not Reported
+10037784,Staphylococcal bacteraemia,Not Reported
+10037784,Renal failure,Not Reported
+10037784,Anaemia,Not Reported
+10037784,Blood sodium decreased,Not Reported
+10037784,Blood chloride decreased,Not Reported
+10037784,Carbon dioxide decreased,Not Reported
+10037784,Blood albumin decreased,Not Reported
+10037784,Globulins increased,Not Reported
+10037784,White blood cell count decreased,Not Reported
+10037784,Glucose urine present,Not Reported
+10037784,Albumin urine present,Not Reported
+10037784,Drug hypersensitivity,Not Reported
+10037964,Platelet count decreased,Not Reported
+10037965,Pain in extremity,Not Reported
+10037965,Inflammation,Not Reported
+10037965,Pyrexia,Not Reported
+10037965,White blood cell disorder,Not Reported
+10037965,C-reactive protein abnormal,Not Reported
+10037965,Decreased appetite,Not Reported
+10037965,Hypoaesthesia,Not Reported
+10037965,Diabetes mellitus inadequate control,Not Reported
+10038176,Cellulitis,Not Reported
+10038176,Skin disorder,Not Reported
+10038545,Cardiac failure,Not Reported
+10038581,Blood immunoglobulin A increased,Not Reported
+10038581,Red blood cell count decreased,Not Reported
+10038621,Deep vein thrombosis,Not Reported
+10038621,Vision blurred,Not Reported
+10038621,Dysgeusia,Not Reported
+10038621,Fatigue,Not Reported
+10038624,Incorrect dose administered,Not Reported
+10038629,Glossodynia,Not Reported
+10038629,Sinusitis,Not Reported
+10038629,Bronchitis,Not Reported
+10038629,Insomnia,Not Reported
+10038629,Fatigue,Not Reported
+10038629,Asthenia,Not Reported
+10038629,Pain,Not Reported
+10038629,Back pain,Not Reported
+10038643,Rectal haemorrhage,Not Reported
+10038643,Muscle spasms,Not Reported
+10038735,Angioedema,Not Reported
+10038735,Arteriospasm coronary,Not Reported
+10038735,Respiratory distress,Not Reported
+10038735,Kounis syndrome,Not Reported
+10038765,Cerebral artery embolism,Not Reported
+10038765,Cerebral haemorrhage,Not Reported
+10038765,Labelled drug-drug interaction medication error,Not Reported
+10039022,Shock,6
+10039031,Shock,6
+10039039,Shock,6
+10039054,Shock,6
+10039082,Dizziness,Not Reported
+10039419,Vasospasm,1
+10039678,Myoclonus,1
+10039678,Toxicity to various agents,1
+10039678,Confusional state,1
+10039678,Lethargy,6
+10039740,Epistaxis,1
+10039740,Nasal septum deviation,1
+10039930,Lung neoplasm malignant,3
+10039956,Intestinal obstruction,5
+10039956,Aortic thrombosis,5
+10039956,Mesenteric artery thrombosis,5
+10039956,Gastrointestinal necrosis,5
+10039956,Psychotic disorder,1
+10039956,Cerebrovascular disorder,5
+10040037,Vitreous haemorrhage,4
+10040146,Convulsion,1
+10040534,Tendonitis,6
+10041008,Gastric ulcer,6
+10041008,Abdominal discomfort,6
+10041008,Sinus bradycardia,2
+10041194,Headache,Not Reported
+10041194,Mental status changes,Not Reported
+10041194,Vomiting,Not Reported
+10041194,Brain midline shift,Not Reported
+10041194,Cerebral haemorrhage,Not Reported
+10041320,Aneurysm,2
+10041320,Thrombosis,2
+10041320,Vascular pseudoaneurysm,1
+10041320,Vitamin D deficiency,6
+10041320,Impaired healing,6
+10041320,Post procedural persistent drain fluid,6
+10041320,Thrombosis,6
+10041320,Injection site pain,1
+10041320,Hyperglycaemia,1
+10041320,Slow speech,6
+10041505,Subdural haematoma,1
+10041505,Brain contusion,2
+10041505,Subarachnoid haemorrhage,1
+10041505,Skull fracture,3
+10041505,Bacteraemia,2
+10041612,Death,5
+10041612,Drug resistance,6
+10041629,Skin irritation,Not Reported
+10041629,Scab,Not Reported
+10041629,Surgical procedure repeated,Not Reported
+10042014,Cardiac disorder,6
+10042375,Parkinson^s disease,5
+10042375,Dementia Alzheimer^s type,5
+10042375,Cardiomyopathy,5
+10042375,Diabetes mellitus,5
+10042375,Pneumonia,6
+10042375,Sepsis,5
+10042375,Urinary tract infection,6
+10042392,Haemoptysis,6
+10042501,Vasculitis,2
+10042501,Rash erythematous,2
+10042501,Skin mass,2
+10042501,Pruritus,1
+10042501,Pain,1
+10042501,Hypersensitivity,6
+10042501,Rash,6
+10042501,Vasculitic rash,2
+10042530,Ischaemic stroke,Not Reported
+10042530,Drug effect incomplete,Not Reported
+10042530,Arterial thrombosis,Not Reported
+10042666,Hypotension,Not Reported
+10042666,Localised infection,Not Reported
+10042666,Condition aggravated,Not Reported
+10042666,Lethargy,Not Reported
+10042666,Confusional state,Not Reported
+10042666,Blood creatinine increased,Not Reported
+10042666,Myoclonus,Not Reported
+10042666,Toxicity to various agents,Not Reported
+10042666,Mental status changes,Not Reported
+10042960,Sepsis,4
+10042960,Renal failure,4
+10043209,Splenic rupture,6
+10043209,Acquired haemophilia,3
+10043209,Haemarthrosis,6
+10043209,Haematoma,3
+10043209,Haematuria,6
+10043553,Pain,1
+10043630,Vasospasm,1
+10043767,Completed suicide,Not Reported
+10043767,Exposure via ingestion,Not Reported
+10043767,Toxicity to various agents,Not Reported
+10044384,Oesophageal haemorrhage,1
+10044384,Labelled drug-drug interaction medication error,Not Reported
+10044388,Haemorrhage,1
+10044388,Fall,1
+10044388,Contusion,1
+10044388,Skin abrasion,1
+10044575,Thrombocytopenia,2
+10044575,Haemoptysis,2
+10044575,Disseminated intravascular coagulation,Not Reported
+10044575,Labelled drug-drug interaction medication error,Not Reported
+10045149,Embolism,6
+10045149,Retinopathy,6
+10045149,Takayasu^s arteritis,6
+10045149,Anxiety,6
+10045149,Tremor,6
+10045149,Neutropenia,6
+10045237,Bone marrow failure,6
+10045237,Thrombocytopenia,6
+10045237,Bronchitis,6
+10045237,Therapy cessation,6
+10045237,Cardiac failure,6
+10045328,Rectal haemorrhage,Not Reported
+10045328,Bleeding time prolonged,Not Reported
+10045328,Faeces pale,Not Reported
+10045328,Diarrhoea,Not Reported
+10045495,Discomfort,6
+10045495,Epistaxis,6
+10045495,Dyspnoea,6
+10045495,Fatigue,6
+10045495,Drug hypersensitivity,6
+10045495,Contusion,6
+10045714,Deep vein thrombosis,Not Reported
+10045787,Pain,1
+10046084,Hallucination,Not Reported
+10046084,Unevaluable event,Not Reported
+10046659,Gangrene,Not Reported
+10046659,Osteomyelitis,Not Reported
+10046659,Blood glucose increased,Not Reported
+10046659,Foot amputation,Not Reported
+10046659,Soft tissue infection,Not Reported
+10046659,Dry gangrene,Not Reported
+10046690,Pneumonia aspiration,1
+10046690,Medical device complication,3
+10047086,Drug ineffective,3
+10047086,Pain,3
+10047086,Drug screen negative,3
+10047086,Inappropriate schedule of drug administration,1
+10047334,Epistaxis,2
+10047334,Dizziness,2
+10047334,Haematochezia,2
+10047334,Haematuria,2
+10047515,Pulmonary arterial hypertension,Not Reported
+10047515,Pneumonia,Not Reported
+10047515,Drug dose omission,Not Reported
+10047641,Cardiac disorder,6
+10047985,Myocardial infarction,1
+10048357,Pneumonia,5
+10048576,Hyperkalaemia,1
+10048576,Hypercalcaemia,6
+10048608,Neutropenia,1
+10048654,Pain,6
+10048654,Gait disturbance,6
+10048654,Arthralgia,6
+10048654,Limb discomfort,6
+10048654,Pain in extremity,6
+10049517,Fall,Not Reported
+10049634,Hyperkalaemia,1
+10049634,Hypercalcaemia,6
+10050169,Platelet aggregation increased,6
+10050169,Death,5
+10050187,Death,5
+10050191,Myocardial infarction,6
+10050191,Diabetes mellitus,6
+10050191,Off label use,6
+10050244,Bronchospasm,3
+10050361,Acquired haemophilia,3
+10050361,Retroperitoneal haematoma,3
+10050361,Haematuria,6
+10050361,Haemarthrosis,6
+10050361,Splenic rupture,6
+10050361,Fall,6
+10050386,Hyperglycaemia,1
+10050386,Thirst,6
+10050386,Lethargy,6
+10050392,Disseminated intravascular coagulation,2
+10050392,Thrombocytopenia,2
+10050392,Haemoptysis,2
+10050417,Chest pain,5
+10050417,Acute myocardial infarction,5
+10003329,Diarrhoea,1
+10003329,Abdominal pain,1
+10003329,Asthenia,1
+10003329,Weight decreased,3
+10003329,Blood creatinine increased,1
+10003329,C-reactive protein increased,1
+10003329,Dysuria,1
+10003329,Pyrexia,1
+10003329,Pleural effusion,1
+10003470,Drug ineffective,6
+10003470,Pulmonary arterial hypertension,6
+10003652,Weight increased,6
+10003652,Oedema peripheral,6
+10003652,Fluid retention,6
+10003749,Chronic obstructive pulmonary disease,6
+10003754,Hypoacusis,2
+10003923,Increased appetite,6
+10003923,Incontinence,6
+10003923,Off label use,6
+10003923,Epistaxis,6
+10003923,Blindness,6
+10003923,Weight increased,6
+10003923,Skin cancer,6
+10003923,Nasopharyngitis,6
+10003923,Dizziness,6
+10003923,Dry eye,6
+10003923,Wrong technique in product usage process,6
+10003923,Pruritus,6
+10003923,Increased tendency to bruise,6
+10003923,Diarrhoea,6
+10003923,Constipation,6
+10004116,Thrombocytopenia,1
+10004116,Petechiae,6
+10004285,Cerebrovascular accident,6
+10004285,Migraine,6
+10004285,Presyncope,6
+10004285,Syncope,6
+10004771,Petechiae,6
+10004771,Thrombocytopenia,1
+10004771,Intra-abdominal haematoma,6
+10005005,Oedema peripheral,6
+10005005,Hypoaesthesia,6
+10005005,Musculoskeletal stiffness,6
+10005033,Nasopharyngitis,6
+10005033,Diarrhoea,6
+10005100,Lymphoma,2
+10005346,Drug ineffective,6
+10005780,Toxic epidermal necrolysis,5
+10005923,Atypical pneumonia,1
+10005923,Hypoacusis,3
+10006272,Gastrointestinal haemorrhage,6
+10006272,Drug interaction,6
+10006584,Inappropriate schedule of drug administration,6
+10006603,Haemorrhage,6
+10006603,Drug interaction,6
+10006778,Pyrexia,Not Reported
+10006778,Unresponsive to stimuli,Not Reported
+10006778,Hypotonia,Not Reported
+10006778,Atrial fibrillation,Not Reported
+10006778,Sick sinus syndrome,Not Reported
+10006778,Ischaemic stroke,Not Reported
+10006861,Thrombophlebitis superficial,Not Reported
+10006861,Confusional state,Not Reported
+10006861,Deep vein thrombosis,Not Reported
+10006869,Renal failure acute,Not Reported
+10006869,Continuous haemodiafiltration,Not Reported
+10006869,Renal tubular necrosis,Not Reported
+10006869,Drug interaction,Not Reported
+10007000,Hypotension,6
+10007002,Gastrointestinal haemorrhage,6
+10007002,Drug interaction,6
+10007002,Haematochezia,6
+10007186,Asthenia,Not Reported
+10007186,Melaena,Not Reported
+10007186,Anaemia,Not Reported
+10007186,Gastritis,Not Reported
+10007186,Erosive oesophagitis,Not Reported
+10007186,Gastrointestinal haemorrhage,Not Reported
+10007358,Blindness,6
+10007358,Chronic respiratory failure,6
+10007358,Dyspnoea,6
+10007385,Drug hypersensitivity,Not Reported
+10007385,Drug reaction with eosinophilia and systemic symptoms,Not Reported
+10007653,Hepatic enzyme increased,6
+10008014,Gastrointestinal haemorrhage,2
+10008014,Haemoglobin decreased,2
+10008014,Incorrect dose administered,6
+10008071,Drug abuse,2
+10008071,Hypokalaemia,2
+10008071,Oedema peripheral,2
+10008071,Renal failure acute,2
+10008071,Overdose,2
+10008125,Oedema peripheral,6
+10008134,Electrocardiogram QT prolonged,1
+10008621,Abnormal dreams,6
+10008645,Blood potassium increased,6
+10008661,Acute generalised exanthematous pustulosis,6
+10008661,Hyponatraemia,6
+10008697,Vomiting,1
+10008697,Dizziness,1
+10008697,Asthenia,1
+10008730,Haematochezia,3
+10008730,Abdominal pain upper,3
+10008730,Haemorrhoids,3
+10008730,Local swelling,3
+10008730,Wound,3
+10008886,Stomatitis,3
+10008886,Tongue coated,3
+10008886,Hot flush,3
+10008976,Haemoglobin decreased,6
+10008976,Platelet count decreased,6
+10009032,Diarrhoea,6
+10009032,Weight increased,6
+10009032,Joint swelling,6
+10009032,Anaemia,6
+10009050,Insomnia,6
+10009166,Oedema peripheral,3
+10009175,Oedema peripheral,6
+10009175,Vomiting,6
+10009226,Anaemia,3
+10009373,Diarrhoea,6
+10009373,Muscle spasms,6
+10009373,Fatigue,6
+10009373,Drug dose omission,6
+10009373,Asthenia,6
+10009373,Haemoglobin decreased,6
+10009373,Haematocrit decreased,6
+10009378,Dyspnoea exertional,3
+10009403,Hepatic pain,1
+10009403,Liver function test abnormal,1
+10009403,Blood test abnormal,1
+10009403,Haemoglobin decreased,1
+10009403,Platelet count decreased,1
+10009403,Drug ineffective,1
+10009422,Rash,6
+10009422,Skin irritation,6
+10009446,Pruritus,3
+10009446,Skin discolouration,3
+10009446,Weight increased,3
+10009512,Splenomegaly,6
+10009512,Weight increased,6
+10009568,Diarrhoea,3
+10009568,Decreased appetite,3
+10009568,Nausea,3
+10009568,Vomiting,3
+10009568,Headache,6
+10009589,Haemoglobin decreased,6
+10009589,Platelet count decreased,6
+10009589,Haematocrit decreased,6
+10009659,Platelet count abnormal,6
+10009689,Platelet count decreased,1
+10009892,Headache,6
+10009892,Hair texture abnormal,6
+10009892,Alopecia,6
+10009892,Onychoclasis,6
+10009892,Insomnia,6
+10009892,Thrombocytosis,6
+10009892,Iron deficiency,6
+10009892,Weight increased,6
+10009920,Haemoglobin decreased,2
+10009920,Platelet count decreased,2
+10009920,White blood cell count decreased,1
+10009920,Haematocrit decreased,2
+10010049,Haemoglobin abnormal,6
+10010062,Renal failure acute,2
+10010062,Hypokalaemia,2
+10010062,Oedema peripheral,2
+10010062,Overdose,2
+10010074,Pain,6
+10010165,Anaemia,3
+10010165,Fatigue,6
+10010165,Dyspnoea,6
+10010193,Diarrhoea,6
+10010193,Pruritus,6
+10010193,Bone pain,6
+10010193,Gait disturbance,6
+10010193,Haemoglobin decreased,6
+10010222,Rash,6
+10010271,Peripheral swelling,1
+10010271,Cataract,6
+10010471,Adverse event,6
+10010471,Fatigue,6
+10010652,Fat embolism,2
+10010652,Hypertension,2
+10010652,Polycythaemia,1
+10010652,Sciatica,2
+10011344,Diarrhoea,Not Reported
+10011344,Cerebrovascular disorder,Not Reported
+10011344,Renal failure acute,Not Reported
+10011344,Acidosis,Not Reported
+10011344,Hyperphosphataemia,Not Reported
+10011344,Hyperkalaemia,Not Reported
+10011549,Renal failure acute,5
+10011549,Drug-induced liver injury,3
+10011692,Pulmonary arterial hypertension,Not Reported
+10011692,Disease progression,Not Reported
+10011692,Fluid overload,Not Reported
+10011862,Arthralgia,5
+10011862,Dyspnoea,5
+10011862,Nausea,5
+10011862,Renal failure,5
+10011862,Vomiting,5
+10011864,Type 2 diabetes mellitus,3
+10012101,Acute respiratory distress syndrome,5
+10012101,Pneumonia,5
+10012101,Interstitial lung disease,5
+10012143,Fall,6
+10012143,Tremor,6
+10012143,Mental status changes,6
+10012143,Muscle tightness,6
+10012143,Respiratory depression,6
+10012143,Pain,6
+10012143,Incorrect dose administered,6
+10012143,Loss of consciousness,6
+10012143,Overdose,6
+10012143,Hypersensitivity,6
+10012143,Lethargy,6
+10012143,Muscle spasms,6
+10012143,Therapeutic response decreased,6
+10012143,Muscle spasticity,6
+10012436,Neuropathy peripheral,6
+10012436,Neck pain,6
+10012436,Flushing,6
+10012436,Sepsis,6
+10012436,Catheter site pain,6
+10012436,Catheter site infection,6
+10012436,Pain in jaw,6
+10012436,Catheter site pruritus,6
+10012436,Dyspnoea,6
+10012436,Heart rate increased,6
+10012436,Product physical issue,1
+10012436,Catheter site rash,6
+10012436,Diarrhoea,6
+10012436,Dermatitis contact,6
+10012436,Catheter site haemorrhage,6
+10012436,Erythema,6
+10012436,Catheter site swelling,6
+10012436,Catheter site urticaria,6
+10012436,Headache,6
+10012448,Depressed level of consciousness,5
+10012448,Haematoma,5
+10012448,Subdural haemorrhage,5
+10012448,Craniotomy,6
+10012448,Left ventricular failure,2
+10012448,Speech disorder,5
+10012675,Drug interaction,6
+10012675,Ischaemic stroke,1
+10012916,Hyponatraemia,2
+10012951,Renal failure,6
+10012951,Hypovolaemia,6
+10012951,Renal impairment,2
+10012951,No therapeutic response,6
+10012955,Chronic kidney disease,1
+10012955,Cognitive disorder,1
+10012955,Renal failure,3
+10012955,Cardiac failure,1
+10013688,Irritability,1
+10013688,Crying,6
+10013688,Pyrexia,1
+10013688,Injection site erythema,1
+10013688,Injection site papule,1
+10013875,Dyspnoea,1
+10013875,Nausea,1
+10013875,Arthralgia,1
+10013875,Renal failure,1
+10013875,Vomiting,1
+10013875,Dehydration,1
+10013967,Cardiac failure,1
+10013967,Renal failure acute,1
+10013967,Hyperglycaemia,1
+10013967,Hepatic failure,1
+10013993,Fall,6
+10013993,Abnormal behaviour,6
+10013994,Hepatic cirrhosis,3
+10013994,Ascites,6
+10013994,Coagulopathy,6
+10013994,Encephalopathy,6
+10014432,Coma,1
+10014432,Gastrooesophageal reflux disease,1
+10014432,Pneumonia aspiration,1
+10014432,Somnolence,1
+10014432,Underdose,6
+10014535,Appendicectomy,6
+10014535,Androgen deficiency,6
+10014535,Diverticulitis,1
+10014535,Influenza,6
+10014535,Muscular weakness,6
+10014535,Atrial fibrillation,6
+10014535,Prostatic specific antigen increased,3
+10014535,Death,5
+10014535,Peripheral swelling,1
+10014535,Drug effect decreased,3
+10014593,Melaena,1
+10014593,Dyspnoea,3
+10014593,Glomerular filtration rate decreased,3
+10014593,Nausea,1
+10014593,Jaundice,5
+10014593,Alanine aminotransferase increased,5
+10014593,Aspartate aminotransferase increased,5
+10014593,Back pain,3
+10014593,Dehydration,3
+10014593,Vomiting,1
+10014593,Blood bilirubin increased,5
+10014593,Blood potassium increased,1
+10014593,Bilirubin conjugated increased,5
+10014593,Blood lactate dehydrogenase increased,3
+10014593,Blood urea increased,3
+10014593,White blood cell count increased,3
+10014593,Malaise,3
+10014593,Abdominal pain,3
+10014593,Platelet count decreased,3
+10014722,Cardiac failure,2
+10014722,Haematemesis,1
+10014722,Abdominal pain upper,1
+10014722,International normalised ratio increased,1
+10014722,Coagulation factor increased,1
+10014722,Infection,1
+10014722,Pulmonary oedema,1
+10014722,Hypotension,1
+10014722,Syncope,3
+10014722,Renal failure,3
+10014722,Arteriosclerosis,3
+10014722,Hyperkalaemia,1
+10014722,Anaemia,1
+10014722,Acute myocardial infarction,5
+10014722,Aortic valve stenosis,1
+10014757,Type 2 diabetes mellitus,3
+10014839,Torsade de pointes,5
+10014984,Coma,1
+10014984,Blood sodium decreased,1
+10014984,Pneumonia,1
+10014984,Dyspnoea,1
+10014984,Muscle spasms,1
+10014984,Irritability,1
+10014984,Vomiting,1
+10014984,Insomnia,1
+10015189,Back pain,Not Reported
+10015189,Drug dose omission,Not Reported
+10015189,Uterine haemorrhage,Not Reported
+10015245,Malaise,3
+10015467,Urinary tract infection,6
+10015467,Prerenal failure,6
+10015467,Flank pain,2
+10015467,Acute kidney injury,3
+10015470,Colitis ischaemic,2
+10015470,Confusional state,6
+10015470,Diarrhoea,6
+10015470,Dyspnoea,2
+10015470,Hyponatraemia,6
+10015470,Blood pressure measurement,2
+10015470,Dizziness,6
+10015470,Off label use,6
+10015470,Constipation,6
+10015470,Feeling abnormal,6
+10015470,Hypomagnesaemia,1
+10015470,Hypokalaemia,1
+10015470,Chronic respiratory failure,6
+10015470,Barrett^s oesophagus,6
+10015470,Chronic obstructive pulmonary disease,6
+10015470,Weight decreased,6
+10015470,Intentional product misuse,6
+10015470,Fluid retention,6
+10015470,Oedema,2
+10015470,Abdominal pain lower,6
+10015470,Hypothyroidism,6
+10015470,Hyperlipidaemia,6
+10015470,Drug dose omission,6
+10015938,Drug interaction,6
+10015938,Intra-abdominal haematoma,1
+10016166,Acute myocardial infarction,5
+10016166,Renal failure,3
+10016166,Hypotension,1
+10016166,Arteriosclerosis,3
+10016166,Haematemesis,1
+10016166,Cardiac failure,2
+10016166,Anaemia,1
+10016166,Aortic valve stenosis,1
+10016166,Abdominal pain upper,1
+10016166,International normalised ratio increased,1
+10016166,Coagulation factor increased,1
+10016166,Infection,1
+10016166,Pulmonary oedema,1
+10016166,Syncope,3
+10016166,Hyperkalaemia,1
+10016639,Malnutrition,1
+10016639,Gastrointestinal inflammation,2
+10016639,Intestinal polyp,2
+10016639,Fistula,2
+10016639,Weight decreased,3
+10016639,Diarrhoea,3
+10016639,Deep vein thrombosis,1
+10016639,Pulmonary embolism,1
+10016639,Impaired healing,6
+10016639,Hypersensitivity,6
+10016690,Syncope,2
+10016753,Renal failure acute,1
+10016753,Haemangioma,3
+10016753,Anaemia,1
+10016753,Melaena,1
+10016771,Renal failure,5
+10016771,Gastric ulcer haemorrhage,5
+10016771,Pulmonary sepsis,5
+10016771,Memory impairment,3
+10017113,Metastases to liver,5
+10017113,Pancreatic carcinoma,5
+10017192,Nephrogenic systemic fibrosis,5
+10017313,Deep vein thrombosis,6
+10017313,Incorrect dose administered,6
+10017475,Arthralgia,3
+10017475,Death,5
+10017475,Rheumatoid arthritis,3
+10017475,Haemorrhage,6
+10017880,Onychoclasis,6
+10017880,Dry skin,6
+10017905,Skin fissures,6
+10017905,Skin exfoliation,6
+10017905,Constipation,3
+10017905,Blister,6
+10017905,Gastric disorder,6
+10017905,Nausea,6
+10017905,Pain in extremity,6
+10017905,Drug dose omission,6
+10017905,Skin ulcer,6
+10017905,Contusion,6
+10017905,Dry skin,6
+10018149,Death,Not Reported
+10018676,Circulatory collapse,5
+10018676,Eosinophilia,5
+10018676,Eosinophilic myocarditis,5
+10018676,Heart transplant rejection,5
+10018676,Sudden cardiac death,5
+10018676,Transplant rejection,5
+10018676,Wound infection pseudomonas,5
+10018676,Pseudomonas infection,5
+10018701,Bladder disorder,6
+10018903,Somnolence,1
+10018903,Product substitution issue,6
+10018904,Pneumonia,5
+10018904,Respiratory failure,5
+10018905,Renal neoplasm,3
+10018905,Procedural haemorrhage,3
+10018905,Abdominal pain,3
+10018905,Drug ineffective,2
+10018905,Abdominal distension,3
+10018905,Haematoma,3
+10018905,Pain,3
+10018905,Waist circumference increased,3
+10018905,Gait disturbance,3
+10018905,Injection site haemorrhage,3
+10018905,Scratch,3
+10018905,Skin haemorrhage,3
+10018926,Cough,6
+10018926,Wheezing,6
+10018926,Eye pain,6
+10018926,Pain in jaw,6
+10018926,Tooth disorder,1
+10018926,Oropharyngeal candidiasis,2
+10018926,Visual acuity reduced,6
+10018926,Dyspnoea exertional,3
+10018926,Candida infection,1
+10018926,Multiple sclerosis,6
+10018926,Tooth extraction,6
+10018926,Overdose,3
+10018926,Dyspnoea,6
+10018926,Oral candidiasis,6
+10018926,Device use error,6
+10018926,Therapy cessation,6
+10018926,Osteoporosis,3
+10018926,Emphysema,6
+10018926,Oropharyngeal pain,6
+10018926,Throat irritation,6
+10018926,Malaise,3
+10018926,Bone disorder,3
+10018926,Wrong technique in product usage process,6
+10018926,Dry mouth,6
+10018926,Arthralgia,3
+10018926,Muscle spasms,3
+10018926,Blood calcium decreased,1
+10018926,Off label use,3
+10018926,Drug ineffective,6
+10018926,Dizziness,6
+10018926,Drug administration error,6
+10018929,Diplopia,1
+10018929,Visual field defect,2
+10018929,Refraction disorder,6
+10018929,Hemiparesis,1
+10018929,Dysarthria,2
+10018929,Paraesthesia,2
+10018929,Joint range of motion decreased,2
+10018929,Musculoskeletal stiffness,3
+10018929,Cubital tunnel syndrome,6
+10018929,Muscular weakness,1
+10018929,Drug ineffective,6
+10018929,Anticonvulsant drug level above therapeutic,6
+10018929,Crying,6
+10018929,Fear,6
+10018929,Fatigue,6
+10018929,Pharyngitis,6
+10018929,Amnesia,6
+10018929,Scleral discolouration,6
+10018929,Headache,3
+10018929,Intervertebral disc protrusion,6
+10018929,Musculoskeletal pain,6
+10018929,Diarrhoea,6
+10018929,Dysphagia,1
+10018929,Weight decreased,6
+10018929,Dyspnoea,6
+10018929,Mood altered,6
+10018929,Occipital neuralgia,6
+10018929,Asthenopia,2
+10018929,Dry eye,6
+10018929,Road traffic accident,6
+10018929,Spinal fusion surgery,6
+10018929,Neck pain,2
+10018929,Medication residue present,6
+10018929,Fall,6
+10018929,Drug hypersensitivity,6
+10018929,Decreased appetite,6
+10018929,Activities of daily living impaired,3
+10018929,Dyschromatopsia,6
+10018929,Mental impairment,1
+10018929,Spinal cord compression,6
+10018929,Depression,1
+10018929,Pain,6
+10018929,Chest pain,6
+10018929,Back pain,6
+10018929,Cervical radiculopathy,6
+10018929,Aphasia,2
+10018929,Brain oedema,6
+10018929,Spinal osteoarthritis,6
+10018929,Back injury,6
+10018929,Arthralgia,6
+10018929,Emotional distress,6
+10018929,Adjustment disorder,6
+10018929,Lymph node pain,6
+10018929,Upper-airway cough syndrome,6
+10018929,Rash,6
+10018929,Inappropriate schedule of drug administration,6
+10018929,Condition aggravated,6
+10018929,Constipation,6
+10018929,Transient ischaemic attack,6
+10018929,Cervical vertebral fracture,2
+10018929,Eye colour change,2
+10018929,Hemianopia,6
+10018929,Nystagmus,1
+10018929,Photophobia,6
+10018929,Disturbance in attention,1
+10018929,Urinary incontinence,1
+10018929,Intervertebral disc operation,6
+10018929,Arthritis,6
+10018929,Migraine-triggered seizure,3
+10018929,Convulsive threshold lowered,6
+10018929,Migraine,6
+10018929,Initial insomnia,1
+10018929,Insomnia,1
+10018929,Dizziness,6
+10018929,Lumbar vertebral fracture,6
+10018929,Peripheral swelling,6
+10018929,Visual acuity reduced,3
+10018929,Retinal disorder,6
+10018929,Pupillary reflex impaired,6
+10018929,Vision blurred,1
+10018929,Retinal scar,6
+10018929,Eye pain,6
+10018929,Cataract nuclear,6
+10018929,Hypotension,1
+10018929,Intervertebral disc degeneration,6
+10018929,Spinal flattening,6
+10018929,Radiculitis brachial,6
+10018929,Limb injury,6
+10018929,Oropharyngeal pain,6
+10018929,Lower respiratory tract congestion,6
+10018929,Nausea,6
+10018929,Facet joint syndrome,6
+10018929,Retinal pigmentation,3
+10018929,Memory impairment,1
+10018929,Facial paralysis,6
+10018929,Hypoaesthesia,3
+10018929,Ataxia,2
+10018929,Muscle tightness,2
+10018929,Preictal state,6
+10018929,Cough,1
+10018929,Drug interaction,6
+10018929,Affect lability,6
+10018929,Incomplete spinal fusion,6
+10018929,Optic neuropathy,6
+10018983,Hypophagia,1
+10018983,Diarrhoea,1
+10018983,Weight decreased,2
+10018983,Abdominal pain,1
+10018983,Nausea,1
+10019043,Hyperglycaemia,1
+10019043,Pneumonia,1
+10019043,Oedema,4
+10019165,Nausea,3
+10019165,Depression,3
+10019165,Cough,3
+10019165,Arthralgia,3
+10019165,Fatigue,3
+10019165,Asthenia,3
+10019165,Diarrhoea,3
+10019165,Muscle spasms,3
+10019165,Dizziness,3
+10019165,Feeling abnormal,3
+10019165,Drug prescribing error,6
+10019165,Myalgia,3
+10019165,Muscle twitching,3
+10019224,Dyspnoea,Not Reported
+10019224,Tremor,Not Reported
+10019224,Hypotension,Not Reported
+10019224,Diarrhoea,3
+10019224,Asthenia,Not Reported
+10019224,Swelling,Not Reported
+10019224,Cold sweat,3
+10019224,Dizziness,Not Reported
+10019224,Oedema peripheral,3
+10019224,Faecal incontinence,3
+10019224,Dyspnoea exertional,Not Reported
+10019396,Osteonecrosis of jaw,3
+10019398,Tongue oedema,1
+10019399,Plasma cell myeloma,5
+10019399,Renal failure acute,5
+10019434,Colitis,1
+10019609,Drug interaction,6
+10019609,Drug ineffective,6
+10019609,Atrial fibrillation,2
+10019609,Ventricular tachycardia,6
+10019642,Hyperkalaemia,1
+10019642,Drug interaction,1
+10019980,White blood cell count decreased,1
+10019980,Off label use,1
+10019980,Anaemia,1
+10019981,Oedema peripheral,3
+10020023,Sepsis,5
+10020023,Thrombosis mesenteric vessel,5
+10020023,Abdominal pain,6
+10020314,Adrenal insufficiency,3
+10020314,Paraproteinaemia,6
+10020314,Intervertebral disc protrusion,6
+10020314,Orthopnoea,6
+10020314,Dyspnoea,3
+10020314,Palmar erythema,6
+10020314,Exercise test abnormal,6
+10020314,Plasma cell myeloma,6
+10020314,Neoplasm malignant,6
+10020314,Overweight,3
+10020314,Weight decreased,6
+10020314,Dermatitis contact,3
+10020314,Chronic obstructive pulmonary disease,3
+10020314,Cough,6
+10020314,Migraine,6
+10020314,Condition aggravated,6
+10020314,Tachyarrhythmia,6
+10020314,Infection,6
+10020314,Back pain,3
+10020314,Pulmonary haemorrhage,6
+10020314,Deep vein thrombosis,6
+10020314,Fibula fracture,6
+10020314,Haemoglobin decreased,1
+10020314,Fatigue,6
+10020314,Haemoptysis,1
+10020314,Haematoma,6
+10020314,Depression,3
+10020314,Antiphospholipid antibodies,6
+10020314,Supraventricular tachycardia,1
+10020314,Hypotension,1
+10020314,Cholecystectomy,6
+10020314,Emphysema,6
+10020314,Hypoxia,3
+10020314,Nausea,3
+10020314,Malaise,6
+10020584,Gastroenteritis,6
+10020584,Multiple sclerosis relapse,6
+10020584,Urinary retention,4
+10020584,Pneumonia,6
+10020584,Urinary tract infection,4
+10020584,Suprapubic pain,6
+10020643,Chronic obstructive pulmonary disease,1
+10020680,Tongue oedema,1
+10020804,Malaise,6
+10020880,Syncope,Not Reported
+10020880,Cerebral haematoma,Not Reported
+10020880,Subarachnoid haemorrhage,Not Reported
+10020968,Mouth haemorrhage,1
+10020968,Asthenia,1
+10020968,Haematemesis,1
+10020994,Acute myocardial infarction,Not Reported
+10020994,Prothrombin level increased,Not Reported
+10020994,Coagulation factor VII level increased,Not Reported
+10020994,Coagulation factor V level increased,Not Reported
+10020994,Anaemia,Not Reported
+10020994,Hyperkalaemia,Not Reported
+10020994,Renal failure,Not Reported
+10020994,International normalised ratio increased,Not Reported
+10020994,Cardiac failure,Not Reported
+10020994,Aortic valve stenosis,Not Reported
+10020994,Infected skin ulcer,Not Reported
+10020994,Pulmonary oedema,Not Reported
+10020994,Abdominal pain upper,Not Reported
+10020994,Haematemesis,Not Reported
+10020994,Syncope,Not Reported
+10020994,Hypotension,Not Reported
+10020994,Arteriosclerosis,Not Reported
+10020994,Ventricular tachycardia,Not Reported
+10020994,Hypercholesterolaemia,Not Reported
+10020994,Peripheral arterial occlusive disease,Not Reported
+10020994,Leg amputation,Not Reported
+10020994,Amputation,Not Reported
+10020994,Coagulation factor X level increased,Not Reported
+10020994,Blood test abnormal,Not Reported
+10020994,Endoscopy upper gastrointestinal tract abnormal,Not Reported
+10020994,Weight fluctuation,Not Reported
+10020994,Gastric ulcer,Not Reported
+10020994,Coronary artery occlusion,Not Reported
+10020994,Coronary artery stenosis,Not Reported
+10021217,Pneumonia,5
+10021217,Neutropenia,5
+10003304,Drug hypersensitivity,6
+10003595,Transfusion,6
+10003740,Type 2 diabetes mellitus,3
+10003864,Platelet count decreased,2
+10003864,Blood count abnormal,6
+10004085,Lower gastrointestinal haemorrhage,1
+10004114,Oral mucosal erythema,6
+10004114,Oral pain,6
+10004114,Abdominal tenderness,6
+10004130,Laboratory test abnormal,6
+10004130,Contusion,3
+10004130,Drug dose omission,6
+10004130,Platelet count increased,3
+10004130,Hypertension,3
+10004130,Treatment noncompliance,6
+10004130,Eye disorder,3
+10004130,White blood cell count increased,6
+10004130,Pain,6
+10004138,Pneumonia,2
+10004138,Anaemia,2
+10004140,Nausea,1
+10004140,Drug administration error,6
+10004144,Flatulence,6
+10004211,Spinal disorder,6
+10004211,Dizziness,6
+10004211,Feeling abnormal,6
+10004221,Chest pain,6
+10004221,Palpitations,1
+10004221,Drug ineffective,6
+10004254,Drug ineffective,6
+10004465,Depression,1
+10004465,Disease progression,6
+10004465,Psychotic disorder,6
+10004486,Nausea,1
+10004486,Chills,2
+10004486,Abdominal pain,2
+10004486,Headache,2
+10004589,Haemoglobin decreased,2
+10004589,Alopecia,6
+10004589,Palpitations,2
+10004589,Chills,6
+10004589,Blood count abnormal,6
+10004604,Nephrolithiasis,3
+10004604,Kidney infection,6
+10004604,Heart rate increased,2
+10004604,Dyspnoea,3
+10004604,Fatigue,3
+10004604,Dizziness,3
+10004608,Incontinence,6
+10004608,Urinary tract infection,6
+10004634,Dyspepsia,6
+10004634,Contusion,6
+10004707,Hip fracture,1
+10004707,Visual impairment,1
+10004707,Overdose,1
+10004707,Rehabilitation therapy,6
+10004707,Gait disturbance,1
+10004707,Mobility decreased,1
+10004707,Dizziness,1
+10004707,Fall,1
+10004795,Type 2 diabetes mellitus,6
+10004803,Hyperkalaemia,6
+10004803,Pancreatitis acute,6
+10004803,Type 2 diabetes mellitus,6
+10004896,Drug hypersensitivity,6
+10004923,Respiratory failure,5
+10004923,Myocardial infarction,5
+10004923,Cardiac failure,5
+10004923,Memory impairment,6
+10004923,Pain in extremity,6
+10004923,Diarrhoea,1
+10004971,Asthenia,6
+10004971,Dyspnoea,6
+10004971,Anaemia,6
+10004971,Drug administration error,6
+10005001,Flatulence,6
+10005001,Decreased appetite,6
+10005001,Nausea,6
+10005001,Constipation,6
+10005231,Adverse drug reaction,6
+10005289,Cardio-respiratory arrest,6
+10005289,Death,5
+10005289,Septic shock,6
+10005289,Respiratory failure,6
+10005296,Gallbladder disorder,1
+10005296,Oropharyngeal pain,3
+10005296,Sinusitis,3
+10005416,Adverse event,6
+10005416,Influenza like illness,6
+10005542,Dyspnoea,6
+10005542,Asthma,1
+10005542,Chest pain,1
+10005542,Chest discomfort,1
+10005542,Wheezing,1
+10005542,Cough,1
+10005542,Sinusitis,1
+10005562,Hyperhidrosis,3
+10005562,Pain,6
+10005562,Insomnia,6
+10005562,Flushing,3
+10005664,Headache,6
+10005664,Nasopharyngitis,6
+10005676,Muscle spasms,6
+10005676,Weight decreased,6
+10005676,Influenza,6
+10005676,Gait disturbance,6
+10005676,Cerebellar ataxia,6
+10005676,Hypersensitivity,6
+10005676,Headache,6
+10005676,Insomnia,6
+10005676,Overdose,6
+10005772,Genital rash,6
+10005826,Loss of consciousness,1
+10005826,Iron deficiency anaemia,1
+10005826,Syncope,1
+10005888,Cardiac arrest,1
+10005888,Acute myocardial infarction,3
+10005888,Left atrial dilatation,6
+10005888,Hyponatraemia,6
+10005888,Hypertension,6
+10005888,Coronary artery disease,6
+10005888,Ischaemic cardiomyopathy,3
+10005888,Fatigue,3
+10005888,Ventricular tachycardia,6
+10005888,Ventricular fibrillation,6
+10005888,Heart rate increased,6
+10005888,Cardiac failure acute,6
+10005888,Atrial fibrillation,6
+10005888,Hypogonadism,6
+10005888,Respiratory failure,1
+10005888,Ejection fraction decreased,3
+10005888,Cardiac failure congestive,3
+10005888,Sinus bradycardia,6
+10005888,Coronary artery occlusion,6
+10005888,Sleep apnoea syndrome,6
+10005993,Glaucoma,6
+10005993,Rash,3
+10005993,Oedema peripheral,3
+10005993,Lacrimation increased,3
+10005993,Oedema peripheral,6
+10005993,Pain,6
+10005993,Fatigue,6
+10005993,Herpes virus infection,6
+10006097,Overdose,3
+10006097,Drug ineffective,6
+10006097,Product quality issue,6
+10006105,Memory impairment,6
+10006105,Chronic lymphocytic leukaemia,6
+10006117,Infection,5
+10006117,Neutropenia,5
+10006117,White blood cell count decreased,3
+10006156,Death,5
+10006158,Pulmonary thrombosis,6
+10006158,Thrombosis,6
+10006168,Incorrect dose administered,6
+10006168,White blood cell count decreased,6
+10006168,Rash,6
+10006170,Off label use,6
+10006170,Atrial fibrillation,6
+10006170,Metastases to bone,6
+10006179,Hypersensitivity,1
+10006179,Angioedema,1
+10006179,Pruritus,1
+10006203,Hearing impaired,6
+10006203,Epistaxis,6
+10006203,Hypertension,6
+10006203,Computerised tomogram abnormal,6
+10006203,Inappropriate schedule of drug administration,6
+10006203,Rash,6
+10006203,Hip fracture,6
+10006203,Haemorrhagic diathesis,6
+10006203,Dry skin,3
+10006218,Bacterial infection,6
+10006218,Gastrointestinal disorder,6
+10006218,Diarrhoea,6
+10006236,Increased tendency to bruise,3
+10006274,Weight decreased,6
+10006274,Transaminases increased,1
+10006274,Malaise,6
+10006374,Type 2 diabetes mellitus,3
+10006398,Gastrointestinal haemorrhage,6
+10006398,Drug interaction,6
+10006449,Dyspnoea,Not Reported
+10006449,Eye swelling,Not Reported
+10006449,Dizziness,Not Reported
+10006449,Palpitations,Not Reported
+10006483,Type 2 diabetes mellitus,3
+10006498,Renal failure acute,6
+10006498,Retroperitoneal haemorrhage,6
+10006522,Gastrointestinal haemorrhage,6
+10006522,Drug interaction,6
+10006522,Melaena,6
+10006576,Type 2 diabetes mellitus,3
+10006583,Laceration,1
+10006583,Dyspnoea,6
+10006583,Productive cough,2
+10006583,Seizure,6
+10006583,Head injury,6
+10006583,Presyncope,6
+10006583,Fall,6
+10006583,Rib fracture,6
+10006583,Loss of consciousness,1
+10006583,Syncope,6
+10006583,Balance disorder,6
+10006583,Concomitant disease aggravated,6
+10006583,Insomnia,6
+10006583,Humerus fracture,1
+10006583,Joint injury,6
+10006746,Pain,6
+10006746,Skin disorder,6
+10006834,Kounis syndrome,Not Reported
+10006834,Acute myocardial infarction,Not Reported
+10007059,Off label use,Not Reported
+10007059,Thrombophlebitis superficial,Not Reported
+10007059,Thrombosis,Not Reported
+10007132,Depression,3
+10007132,Drug hypersensitivity,6
+10007132,Suicidal ideation,6
+10007132,Weight decreased,6
+10007132,Insomnia,3
+10007132,Pemphigoid,2
+10007380,Eye disorder,6
+10007380,Loss of consciousness,1
+10007380,Fall,6
+10007380,Headache,1
+10007380,Eye infection,6
+10007455,Type 2 diabetes mellitus,3
+10007511,Type 2 diabetes mellitus,3
+10007511,Diabetic neuropathy,3
+10007511,Impaired driving ability,6
+10007511,Diabetic vascular disorder,3
+10007541,Glucose tolerance impaired,3
+10007541,Type 2 diabetes mellitus,3
+10007648,Respiratory distress,1
+10007648,Drug hypersensitivity,Not Reported
+10008011,Subdural haemorrhage,5
+10008011,Brain stem haemorrhage,5
+10008011,Haematemesis,6
+10008011,Apnoea,6
+10008054,Basal cell carcinoma,6
+10008154,Off label use,6
+10008154,Drug ineffective,6
+10008431,Hyponatraemia,1
+10008431,Confusional state,1
+10008463,Osteoporosis,6
+10008463,Alopecia,6
+10008463,Dementia Alzheimer^s type,6
+10008463,Osteopenia,6
+10008463,Hearing impaired,6
+10008463,Skin wrinkling,6
+10008463,Fall,6
+10008535,Back pain,1
+10008535,Platelet count decreased,1
+10008535,Cystitis,6
+10008542,Flushing,3
+10008542,Hyperhidrosis,3
+10008542,Dizziness,6
+10008573,Nausea,3
+10008573,Retching,Not Reported
+10008600,Dyspnoea,Not Reported
+10008600,Haemoglobin decreased,Not Reported
+10008608,Hypoaesthesia,6
+10008630,Nasopharyngitis,6
+10008680,Depression,1
+10008680,Platelet count increased,6
+10008682,Dry eye,3
+10008682,Cataract,6
+10008684,Nausea,1
+10008684,Dizziness,1
+10008684,Increased tendency to bruise,6
+10008694,Asthenia,3
+10008706,Blood uric acid increased,1
+10008720,Oedema,3
+10008720,Fatigue,3
+10008742,Contusion,6
+10008742,Respiratory tract infection,6
+10008742,Platelet count decreased,6
+10008750,Tenderness,6
+10008758,Haemoglobin decreased,3
+10008758,Diarrhoea,3
+10008760,Nail discolouration,6
+10008785,Tremor,6
+10008785,Diarrhoea,6
+10008785,Pyrexia,6
+10008785,Chills,6
+10008785,Fatigue,6
+10008785,Asthenia,6
+10008798,Dyspnoea,3
+10008798,Asthenia,3
+10008798,Platelet count decreased,6
+10008798,Dizziness,3
+10008801,Back pain,6
+10008801,Pain in extremity,6
+10008822,Fatigue,6
+10008822,Muscular weakness,6
+10008822,Lethargy,6
+10008822,Haemoglobin decreased,3
+10008832,Weight decreased,6
+10008832,Constipation,6
+10008832,Decreased appetite,6
+10008857,Fatigue,6
+10008857,Haemorrhagic diathesis,6
+10008857,Insomnia,3
+10008857,Dizziness,3
+10008857,Contusion,3
+10008865,Tremor,6
+10008870,Rash,1
+10008934,Blood creatinine increased,3
+10008934,Fatigue,6
+10008934,Haemoglobin decreased,3
+10008934,Haematocrit decreased,3
+10008934,Red blood cell count decreased,1
+10008934,Decreased appetite,6
+10008934,Blast cell count increased,3
+10008937,Haemoglobin decreased,1
+10008937,Haematocrit decreased,6
+10008938,Stomatitis,3
+10008938,Skin lesion,3
+10008951,Spleen disorder,6
+10008956,Angina pectoris,6
+10008956,Diabetes mellitus inadequate control,6
+10008956,Wound haemorrhage,1
+10008956,Therapy cessation,6
+10008981,Osteoarthritis,6
+10009000,Syncope,1
+10009000,Pyrexia,1
+10009000,Chills,6
+10009012,Pruritus,6
+10009012,Red blood cell count decreased,6
+10009012,Haemoglobin decreased,6
+10009012,Haematocrit decreased,6
+10009030,Alopecia,3
+10009030,Dizziness,3
+10009030,Asthenia,1
+10009030,Pain,1
+10009030,Platelet count decreased,1
+10009043,Abdominal distension,3
+10009043,Weight increased,3
+10009079,Back pain,3
+10009079,Pain in extremity,3
+10009348,Pain in extremity,1
+10009348,White blood cell count decreased,3
+10009348,Platelet count decreased,1
+10009384,Haemoglobin decreased,6
+10009384,Fatigue,3
+10009384,Drug ineffective,6
+10009440,Abdominal distension,6
+10009445,Haemoglobin decreased,6
+10009445,Red blood cell count decreased,6
+10009453,Death,5
+10009453,Erythropoiesis abnormal,6
+10009453,Hepatic failure,6
+10009453,Haemoglobin decreased,6
+10009453,Oedema peripheral,6
+10009453,Asthenia,6
+10009453,Therapeutic response decreased,6
+10009453,Splenomegaly,6
+10009453,Fall,6
+10009453,General physical health deterioration,6
+10009453,Illness,6
+10009453,Anxiety,6
+10009453,Decreased activity,6
+10009453,Pain,6
+10009453,Platelet count decreased,6
+10009453,Increased tendency to bruise,6
+10009453,Contusion,6
+10009460,Abdominal pain,1
+10009460,Vomiting,1
+10009460,Rectal haemorrhage,1
+10009460,Atrial fibrillation,1
+10009462,Back pain,6
+10009473,Skin lesion,3
+10009474,Constipation,6
+10009479,Fatigue,6
+10009479,Headache,6
+10009479,Contusion,6
+10009484,Muscle spasms,1
+10009486,Rash,6
+10009486,Dizziness,1
+10009494,Migraine,1
+10009500,Cerebral haemorrhage,5
+10009511,Anaemia,6
